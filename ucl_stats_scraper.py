@@ -213,7 +213,7 @@ def save_to_csv(players, filename):
         "matches_played",
     ]
 
-    with open(filename, "w", newline="", encoding="utf-8") as f:
+    with open(filename, "w", newline="", encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(players)
