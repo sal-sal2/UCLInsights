@@ -1,484 +1,515 @@
-player_name,team,goals,goals_right_foot,goals_left_foot,goals_head,goals_other,goals_inside_area,goals_outside_area,penalties_scored,matches_played
-Kylian Mbappé,Real Madrid,13,11,0,2,0,11,2,3,8
-Anthony Gordon,Newcastle,10,8,2,0,0,10,0,5,10
-Harry Kane,Bayern München,8,6,1,1,0,8,0,2,8
-Victor Osimhen,Galatasaray,7,5,1,1,0,7,0,3,8
-Erling Haaland,Man City,7,1,4,2,0,7,0,1,8
-Gabriel Martinelli,Arsenal,6,4,1,0,0,4,2,0,7
-Jens Petter Hauge,Bodø/Glimt,6,3,3,0,0,5,1,0,10
+﻿player_name,team,goals,goals_right_foot,goals_left_foot,goals_head,goals_other,goals_inside_area,goals_outside_area,penalties_scored,matches_played
+Kylian Mbappé,Real Madrid,13,11,0,2,0,11,2,3,9
+Anthony Gordon,Newcastle,10,8,2,0,0,10,0,5,12
+Harry Kane,Bayern München,10,8,1,1,0,10,0,3,9
+Julián Alvarez,Atleti,8,6,2,0,0,8,0,2,11
+Erling Haaland,Man City,8,1,5,2,0,8,0,1,10
+Khvicha Kvaratskhelia,Paris,7,6,1,0,0,5,2,0,11
+Victor Osimhen,Galatasaray,7,5,1,1,0,7,0,3,10
+Vitinha,Paris,6,5,1,0,0,3,3,1,12
+Harvey Barnes,Newcastle,6,4,2,0,0,6,0,0,12
+Gabriel Martinelli,Arsenal,6,4,1,0,0,4,2,0,9
+Jens Petter Hauge,Bodø/Glimt,6,3,3,0,0,5,1,0,12
+Fermín López,Barcelona,6,3,3,0,0,5,1,0,9
+Vinícius Júnior,Real Madrid,5,4,1,0,0,5,0,1,12
 Gorka Guruzeta,Athletic Club,5,4,1,0,0,3,2,0,7
-Vitinha,Paris,5,4,1,0,0,2,3,1,10
-Marcus Rashford,Barcelona,5,4,0,1,0,2,3,0,8
-Julián Alvarez,Atleti,5,3,2,0,0,5,0,2,9
-Harvey Barnes,Newcastle,5,3,2,0,0,5,0,0,10
+Luis Suárez,Sporting CP,5,4,0,1,0,5,0,2,10
+Marcus Rashford,Barcelona,5,4,0,1,0,2,3,0,9
+Kasper Høgh,Bodø/Glimt,5,3,2,0,0,5,0,0,12
+Dominik Szoboszlai,Liverpool,5,3,2,0,0,3,2,1,10
 Camilo Duran,Qarabağ,5,2,3,0,0,5,0,0,10
-Fermín López,Barcelona,5,2,3,0,0,4,1,0,7
 Folarin Balogun,Monaco,5,2,2,1,0,5,0,0,10
-Alexander Sørloth,Atleti,5,1,2,2,0,5,0,0,9
-Khvicha Kvaratskhelia,Paris,4,4,0,0,0,3,1,0,9
+Alexander Sørloth,Atleti,5,1,2,2,0,5,0,0,11
+Lamine Yamal,Barcelona,5,0,5,0,0,5,0,3,8
+Luis Díaz,Bayern München,4,4,0,0,0,4,0,0,8
+Marcos Llorente,Atleti,4,4,0,0,0,3,1,0,10
 Igor Paixão,Marseille,4,4,0,0,0,1,3,0,8
+Sondre Brunstad Fet,Bodø/Glimt,4,3,1,0,0,4,0,2,12
 Lautaro Martínez,Inter,4,3,1,0,0,4,0,0,8
-Dominik Szoboszlai,Liverpool,4,3,1,0,0,2,2,1,8
-Luis Suárez,Sporting CP,4,3,0,1,0,4,0,1,8
-Viktor Gyökeres,Arsenal,4,3,0,0,1,3,1,0,6
-Kasper Høgh,Bodø/Glimt,4,2,2,0,0,4,0,0,10
+Randal Kolo Muani,Tottenham,4,3,0,1,0,4,0,0,9
+Viktor Gyökeres,Arsenal,4,3,0,0,1,3,1,0,8
+Robert Lewandowski,Barcelona,4,2,1,1,0,4,0,0,9
 Weston McKennie,Juventus,4,2,0,2,0,4,0,0,10
 Serhou Guirassy,B. Dortmund,4,2,0,2,0,4,0,0,10
-Alejandro Grimaldo,Leverkusen,4,1,3,0,0,3,1,0,10
-Francisco Trincão,Sporting CP,4,1,3,0,0,3,1,0,7
-Désiré Doué,Paris,4,1,3,0,0,3,1,0,6
-Patrik Schick,Leverkusen,4,0,1,3,0,4,0,0,8
+Alejandro Grimaldo,Leverkusen,4,1,3,0,0,3,1,0,12
+Francisco Trincão,Sporting CP,4,1,3,0,0,3,1,0,9
+Désiré Doué,Paris,4,1,3,0,0,3,1,0,8
+Lennart Karl,Bayern München,4,1,3,0,0,3,1,0,7
+Lazar Samardžić,Atalanta,4,0,3,1,0,3,1,2,10
+Patrik Schick,Leverkusen,4,0,1,3,0,4,0,0,9
 Scott McTominay,Napoli,4,0,0,3,1,4,0,0,8
+Enzo Fernández,Chelsea,3,3,0,0,0,3,0,2,10
 Nicolo Tresoldi,Club Brugge,3,3,0,0,0,3,0,0,10
-Vinícius Júnior,Real Madrid,3,3,0,0,0,3,0,0,10
 Leandro Andrade,Qarabağ,3,3,0,0,0,3,0,0,9
 Gelson Martins,Olympiacos,3,3,0,0,0,3,0,0,9
 Alisson Santos,Sporting CP,3,3,0,0,0,3,0,0,8
-Randal Kolo Muani,Tottenham,3,3,0,0,0,3,0,0,7
-Luis Díaz,Bayern München,3,3,0,0,0,3,0,0,6
+Nicolas Jackson,Bayern München,3,3,0,0,0,3,0,0,8
 Ricardo Pepi,PSV,3,3,0,0,0,3,0,0,5
-Marcos Llorente,Atleti,3,3,0,0,0,2,1,0,8
+Dominic Solanke,Tottenham,3,3,0,0,0,3,0,0,3
+Xavi Simons,Tottenham,3,3,0,0,0,2,1,2,10
+Rayan Cherki,Man City,3,3,0,0,0,2,1,0,8
 Pierre-Emerick Aubameyang,Marseille,3,3,0,0,0,2,1,0,8
-Rayan Cherki,Man City,3,3,0,0,0,2,1,0,6
 Ismael Saibari,PSV,3,3,0,0,0,1,2,0,7
 Felix Nmecha,B. Dortmund,3,3,0,0,0,0,3,0,10
-Sondre Brunstad Fet,Bodø/Glimt,3,2,1,0,0,3,0,1,10
+Federico Valverde,Real Madrid,3,2,1,0,0,3,0,0,11
 Julian Brandt,B. Dortmund,3,2,1,0,0,3,0,0,9
 Dušan Vlahović,Juventus,3,2,1,0,0,3,0,0,4
+Hugo Ekitiké,Liverpool,3,2,1,0,0,2,1,0,10
 Jordan Teze,Monaco,3,2,1,0,0,2,1,0,9
+João Pedro,Chelsea,3,2,1,0,0,2,1,0,8
 Anan Khalaili,Union SG,3,2,1,0,0,2,1,0,8
 Couhaib Driouech,PSV,3,2,1,0,0,2,1,0,7
-João Pedro,Chelsea,3,2,1,0,0,2,1,0,6
 Oscar Gloukh,Ajax,3,2,1,0,0,1,2,0,8
 Estêvão,Chelsea,3,1,2,0,0,3,0,1,7
+Raphinha,Barcelona,3,1,2,0,0,3,0,1,7
 Mason Greenwood,Marseille,3,1,2,0,0,3,0,0,8
-Lennart Karl,Bayern München,3,1,2,0,0,2,1,0,6
 Rasmus Højlund,Napoli,3,1,1,1,0,3,0,0,7
-Gianluca Scamacca,Atalanta,3,1,0,2,0,3,0,0,8
+Gianluca Scamacca,Atalanta,3,1,0,2,0,3,0,0,10
+Mario Pašalić,Atalanta,3,1,0,2,0,3,0,0,9
 Viktor Daðason,Copenhagen,3,1,0,2,0,2,1,0,6
 Jordan Larsson,Copenhagen,3,0,3,0,0,3,0,1,8
-Lamine Yamal,Barcelona,3,0,3,0,0,3,0,1,6
-Lazar Samardžić,Atalanta,3,0,3,0,0,2,1,2,8
+Michael Olise,Bayern München,3,0,3,0,0,2,1,0,9
 Karim Adeyemi,B. Dortmund,3,0,3,0,0,2,1,0,9
-Noni Madueke,Arsenal,3,0,2,1,0,2,1,0,4
-Alexis Mac Allister,Liverpool,3,0,1,2,0,3,0,0,8
-Enzo Fernández,Chelsea,2,2,0,0,0,2,0,2,8
+Mohamed Salah,Liverpool,3,0,3,0,0,1,2,0,9
+Noni Madueke,Arsenal,3,0,2,1,0,2,1,0,5
+Alexis Mac Allister,Liverpool,3,0,1,2,0,3,0,0,10
 Vangelis Pavlidis,Benfica,2,2,0,0,0,2,0,1,10
 Promise David,Union SG,2,2,0,0,0,2,0,1,7
 Aleksandar Stanković,Club Brugge,2,2,0,0,0,2,0,0,10
+Anthony Elanga,Newcastle,2,2,0,0,0,2,0,0,10
+Marquinhos,Paris,2,2,0,0,0,2,0,0,10
 Pio Esposito,Inter,2,2,0,0,0,2,0,0,9
 Jonathan David,Juventus,2,2,0,0,0,2,0,0,9
+Serge Gnabry,Bayern München,2,2,0,0,0,2,0,0,9
 Romeo Vermant,Club Brugge,2,2,0,0,0,2,0,0,8
 Guus Til,PSV,2,2,0,0,0,2,0,0,8
-Marquinhos,Paris,2,2,0,0,0,2,0,0,8
-Nicolas Jackson,Bayern München,2,2,0,0,0,2,0,0,6
-Ferran Torres,Barcelona,2,2,0,0,0,2,0,0,6
+Ferran Torres,Barcelona,2,2,0,0,0,2,0,0,8
+Ousmane Dembélé,Paris,2,2,0,0,0,2,0,0,8
 Federico Gatti,Juventus,2,2,0,0,0,2,0,0,5
-Dominic Solanke,Tottenham,2,2,0,0,0,2,0,0,2
-Aleix García,Leverkusen,2,2,0,0,0,1,1,1,10
+Jamal Musiala,Bayern München,2,2,0,0,0,2,0,0,2
+Aleix García,Leverkusen,2,2,0,0,0,1,1,1,12
 Kasper Dolberg,Ajax,2,2,0,0,0,1,1,1,5
-Hugo Ekitiké,Liverpool,2,2,0,0,0,1,1,0,8
-Malik Tillman,Leverkusen,2,2,0,0,0,1,1,0,8
+Malik Tillman,Leverkusen,2,2,0,0,0,1,1,0,10
 Robert Navarro,Athletic Club,2,2,0,0,0,1,1,0,7
 Mislav Oršić,Pafos,2,2,0,0,0,0,2,0,8
+Bradley Barcola,Paris,2,1,1,0,0,2,0,0,12
+Ole Didrik Blomberg,Bodø/Glimt,2,1,1,0,0,2,0,0,10
+Noa Lang,Galatasaray,2,1,1,0,0,2,0,0,10
 Teun Koopmeiners,Juventus,2,1,1,0,0,2,0,0,10
 Mamadou Diakhon,Club Brugge,2,1,1,0,0,2,0,0,9
 Christos Tzolis,Club Brugge,2,1,1,0,0,2,0,0,9
+Cody Gakpo,Liverpool,2,1,1,0,0,2,0,0,9
 Ansgar Knauff,Frankfurt,2,1,1,0,0,2,0,0,8
-Noa Lang,Galatasaray,2,1,1,0,0,2,0,0,8
+Charles De Ketelaere,Atalanta,2,1,1,0,0,2,0,0,8
 Jude Bellingham,Real Madrid,2,1,1,0,0,2,0,0,7
-Charles De Ketelaere,Atalanta,2,1,1,0,0,2,0,0,7
-Cody Gakpo,Liverpool,2,1,1,0,0,2,0,0,7
-Robert Lewandowski,Barcelona,2,1,1,0,0,2,0,0,7
 Raphael Onyedika,Club Brugge,2,1,1,0,0,2,0,0,6
 Dennis Man,PSV,2,1,1,0,0,1,1,0,8
-Willian Pacho,Paris,2,1,0,1,0,2,0,0,10
+Willian Pacho,Paris,2,1,0,1,0,2,0,0,12
 Mehdi Taremi,Olympiacos,2,1,0,1,0,2,0,0,10
-Joelinton,Newcastle,2,1,0,1,0,2,0,0,8
+Joelinton,Newcastle,2,1,0,1,0,2,0,0,10
 Andreas Schjelderup,Benfica,2,1,0,1,0,2,0,0,7
-Gabriel Jesus,Arsenal,2,1,0,1,0,2,0,0,3
-Moises Caicedo,Chelsea,2,1,0,1,0,1,1,0,8
+Gabriel Jesus,Arsenal,2,1,0,1,0,2,0,0,4
+Moises Caicedo,Chelsea,2,1,0,1,0,1,1,0,10
 Robert,Copenhagen,2,1,0,1,0,1,1,0,6
 Hans Vanaken,Club Brugge,2,1,0,0,1,2,0,0,10
 Ramy Bensebaini,B. Dortmund,2,0,2,0,0,2,0,2,9
-Bukayo Saka,Arsenal,2,0,2,0,0,2,0,1,6
-Nuno Mendes,Paris,2,0,2,0,0,2,0,0,10
+Bukayo Saka,Arsenal,2,0,2,0,0,2,0,1,8
+Kai Havertz,Arsenal,2,0,2,0,0,2,0,1,3
+Nuno Mendes,Paris,2,0,2,0,0,2,0,0,12
+Antoine Griezmann,Atleti,2,0,2,0,0,2,0,0,11
 Elvin Jafarguliyev,Qarabağ,2,0,2,0,0,2,0,0,10
+Gonçalo Ramos,Paris,2,0,2,0,0,2,0,0,10
+Maximiliano Araújo,Sporting CP,2,0,2,0,0,2,0,0,9
+Senny Mayulu,Paris,2,0,2,0,0,2,0,0,9
 Carlos Forbs,Club Brugge,2,0,2,0,0,2,0,0,9
-Gonçalo Ramos,Paris,2,0,2,0,0,2,0,0,9
+Yunus Akgün,Galatasaray,2,0,2,0,0,2,0,0,9
 Youssoupha Mbodji,Slavia Praha,2,0,2,0,0,2,0,0,7
-Yunus Akgün,Galatasaray,2,0,2,0,0,2,0,0,7
 Geovany Quenda,Sporting CP,2,0,2,0,0,2,0,0,5
 Can Uzun,Frankfurt,2,0,2,0,0,2,0,0,5
 Denzel Dumfries,Inter,2,0,2,0,0,2,0,0,5
 Tani Oluwaseyi,Villarreal,2,0,2,0,0,1,1,0,7
-Mohamed Salah,Liverpool,2,0,2,0,0,1,1,0,7
 Phil Foden,Man City,2,0,2,0,0,0,2,0,7
 Ayoub El Kaabi,Olympiacos,2,0,1,1,0,2,0,1,10
+Robin Le Normand,Atleti,2,0,1,1,0,2,0,0,10
+Dávid Hancko,Atleti,2,0,1,1,0,2,0,0,10
 Daniel Svensson,B. Dortmund,2,0,1,1,0,2,0,0,9
+Micky van de Ven,Tottenham,2,0,1,1,0,2,0,0,8
 Mikel Merino,Arsenal,2,0,1,1,0,2,0,0,7
-Micky van de Ven,Tottenham,2,0,1,1,0,2,0,0,6
 Jonathan Burkardt,Frankfurt,2,0,1,1,0,2,0,0,5
-Ademola Lookman,Atleti,2,0,1,0,1,2,0,0,9
+Ademola Lookman,Atleti,2,0,1,0,1,2,0,0,11
 Leandro Barreiro,Benfica,2,0,1,0,0,2,0,0,9
-Giuliano Simeone,Atleti,2,0,0,2,0,2,0,0,9
+Giuliano Simeone,Atleti,2,0,0,2,0,2,0,0,11
+Virgil van Dijk,Liverpool,2,0,0,2,0,2,0,0,10
 Marcus Thuram,Inter,2,0,0,2,0,2,0,0,9
-Virgil van Dijk,Liverpool,2,0,0,2,0,2,0,0,8
 Jules Koundé,Barcelona,2,0,0,2,0,2,0,0,8
-Mario Pašalić,Atalanta,2,0,0,2,0,2,0,0,7
 Manuel Locatelli,Juventus,1,1,0,0,0,1,0,1,9
 Fares Chaibi,Frankfurt,1,1,0,0,0,1,0,1,8
 Jorginho,Kairat Almaty,1,1,0,0,0,1,0,1,8
-Xavi Simons,Tottenham,1,1,0,0,0,1,0,1,8
 Ivan Perišić,PSV,1,1,0,0,0,1,0,1,8
 Hakan Çalhanoğlu,Inter,1,1,0,0,0,1,0,1,6
 Mohammed Kudus,Tottenham,1,1,0,0,0,1,0,1,5
 Wout Weghorst,Ajax,1,1,0,0,0,1,0,1,5
 Eric Dier,Monaco,1,1,0,0,0,1,0,1,3
+Fredrik Sjøvold,Bodø/Glimt,1,1,0,0,0,1,0,0,12
+Barış Alper Yılmaz,Galatasaray,1,1,0,0,0,1,0,0,12
+Håkon Evjen,Bodø/Glimt,1,1,0,0,0,1,0,0,12
+Aurélien Tchouaméni,Real Madrid,1,1,0,0,0,1,0,0,12
+Nikola Krstović,Atalanta,1,1,0,0,0,1,0,0,12
+Christian Kofane,Leverkusen,1,1,0,0,0,1,0,0,11
+Sandro Tonali,Newcastle,1,1,0,0,0,1,0,0,11
 Matheus Silva,Qarabağ,1,1,0,0,0,1,0,0,10
-Fredrik Sjøvold,Bodø/Glimt,1,1,0,0,0,1,0,0,10
-Barış Alper Yılmaz,Galatasaray,1,1,0,0,0,1,0,0,10
-Håkon Evjen,Bodø/Glimt,1,1,0,0,0,1,0,0,10
-Aurélien Tchouaméni,Real Madrid,1,1,0,0,0,1,0,0,10
-Nikola Krstović,Atalanta,1,1,0,0,0,1,0,0,10
+Brahim Díaz,Real Madrid,1,1,0,0,0,1,0,0,10
+Jonathan Tah,Bayern München,1,1,0,0,0,1,0,0,10
 Piotr Zieliński,Inter,1,1,0,0,0,1,0,0,10
-Christian Kofane,Leverkusen,1,1,0,0,0,1,0,0,9
+Éderson,Atalanta,1,1,0,0,0,1,0,0,9
+João Neves,Paris,1,1,0,0,0,1,0,0,9
 Maximilian Beier,B. Dortmund,1,1,0,0,0,1,0,0,9
-Sandro Tonali,Newcastle,1,1,0,0,0,1,0,0,9
 Fábio Silva,B. Dortmund,1,1,0,0,0,1,0,0,9
 Khephren Thuram,Juventus,1,1,0,0,0,1,0,0,9
 Alessandro Bastoni,Inter,1,1,0,0,0,1,0,0,9
+Achraf Hakimi,Paris,1,1,0,0,0,1,0,0,9
 Bahlul Mustafazade,Qarabağ,1,1,0,0,0,1,0,0,9
+Pedro Porro,Tottenham,1,1,0,0,0,1,0,0,9
 Richard Ríos,Benfica,1,1,0,0,0,1,0,0,8
 Štěpán Chaloupek,Slavia Praha,1,1,0,0,0,1,0,0,8
-Éderson,Atalanta,1,1,0,0,0,1,0,0,8
 Kevin Mac Allister,Union SG,1,1,0,0,0,1,0,0,8
+Nico O’Reilly,Man City,1,1,0,0,0,1,0,0,8
+Cristian Romero,Tottenham,1,1,0,0,0,1,0,0,8
+Conor Gallagher,Tottenham,1,1,0,0,0,1,0,0,8
 Loïs Openda,Juventus,1,1,0,0,0,1,0,0,8
-Brahim Díaz,Real Madrid,1,1,0,0,0,1,0,0,8
-Jonathan Tah,Bayern München,1,1,0,0,0,1,0,0,8
+João Palhinha,Tottenham,1,1,0,0,0,1,0,0,8
+Franco Mastantuono,Real Madrid,1,1,0,0,0,1,0,0,7
 Edmilson,Kairat Almaty,1,1,0,0,0,1,0,0,7
 Anton Gaaei,Ajax,1,1,0,0,0,1,0,0,7
-Nico O’Reilly,Man City,1,1,0,0,0,1,0,0,7
-João Neves,Paris,1,1,0,0,0,1,0,0,7
 Yan Couto,B. Dortmund,1,1,0,0,0,1,0,0,7
 Georges Mikautadze,Villarreal,1,1,0,0,0,1,0,0,7
 Wilson Odobert,Tottenham,1,1,0,0,0,1,0,0,7
+Sacha Boey,Galatasaray,1,1,0,0,0,1,0,0,7
+Malo Gusto,Chelsea,1,1,0,0,0,1,0,0,7
 Elias Achouri,Copenhagen,1,1,0,0,0,1,0,0,7
 Bruno,Pafos,1,1,0,0,0,1,0,0,7
 Anouar Ait El Hadj,Union SG,1,1,0,0,0,1,0,0,7
 Vasil Kušej,Slavia Praha,1,1,0,0,0,1,0,0,7
 Timothy Weah,Marseille,1,1,0,0,0,1,0,0,7
-Achraf Hakimi,Paris,1,1,0,0,0,1,0,0,7
-João Palhinha,Tottenham,1,1,0,0,0,1,0,0,7
 Mohamed Elyounoussi,Copenhagen,1,1,0,0,0,1,0,0,7
-Serge Gnabry,Bayern München,1,1,0,0,0,1,0,0,7
-Franco Mastantuono,Real Madrid,1,1,0,0,0,1,0,0,6
-Cristian Romero,Tottenham,1,1,0,0,0,1,0,0,6
+Marc Bernal,Barcelona,1,1,0,0,0,1,0,0,6
 Oihan Sancet,Athletic Club,1,1,0,0,0,1,0,0,6
-Conor Gallagher,Atleti,1,1,0,0,0,1,0,0,6
-Ousmane Dembélé,Paris,1,1,0,0,0,1,0,0,6
-Sacha Boey,Galatasaray,1,1,0,0,0,1,0,0,5
+Leandro Trossard,Arsenal,1,1,0,0,0,1,0,0,6
 Rodrygo,Real Madrid,1,1,0,0,0,1,0,0,5
+Liam Delap,Chelsea,1,1,0,0,0,1,0,0,5
+Federico Chiesa,Liverpool,1,1,0,0,0,1,0,0,5
 Takumi Minamino,Monaco,1,1,0,0,0,1,0,0,5
-Leandro Trossard,Arsenal,1,1,0,0,0,1,0,0,5
-Federico Chiesa,Liverpool,1,1,0,0,0,1,0,0,4
 Oliver Edvardsen,Ajax,1,1,0,0,0,1,0,0,4
 Rasmus Kristensen,Frankfurt,1,1,0,0,0,1,0,0,4
-Liam Delap,Chelsea,1,1,0,0,0,1,0,0,3
-Daniel Bassi,Bodø/Glimt,1,1,0,0,0,1,0,0,2
+Daniel Bassi,Bodø/Glimt,1,1,0,0,0,1,0,0,3
 Rafa Silva,Benfica,1,1,0,0,0,1,0,0,2
 Ruben van Bommel,PSV,1,1,0,0,0,1,0,0,1
+Rafael Nel,Sporting CP,1,1,0,0,0,1,0,0,1
 Marc Guiu,Chelsea,1,1,0,0,0,1,0,0,1
-Jamal Musiala,Bayern München,1,1,0,0,0,1,0,0,1
 Emmanuel Addai,Qarabağ,1,1,0,0,0,0,1,0,10
 Kenan Yıldız,Juventus,1,1,0,0,0,0,1,0,10
 Petar Sučić,Inter,1,1,0,0,0,0,1,0,10
 Chiquinho,Olympiacos,1,1,0,0,0,0,1,0,10
-Davide Zappacosta,Atalanta,1,1,0,0,0,0,1,0,9
-Florian Wirtz,Liverpool,1,1,0,0,0,0,1,0,7
-Dani Olmo,Barcelona,1,1,0,0,0,0,1,0,6
+Davide Zappacosta,Atalanta,1,1,0,0,0,0,1,0,10
+Florian Wirtz,Liverpool,1,1,0,0,0,0,1,0,9
+Eberechi Eze,Arsenal,1,1,0,0,0,0,1,0,9
+Declan Rice,Arsenal,1,1,0,0,0,0,1,0,8
+Dani Olmo,Barcelona,1,1,0,0,0,0,1,0,8
+Johnny Cardoso,Atleti,1,1,0,0,0,0,1,0,7
 Adilet Sadybekov,Kairat Almaty,1,1,0,0,0,0,1,0,5
-Johnny Cardoso,Atleti,1,1,0,0,0,0,1,0,5
 Brennan Johnson,Tottenham,1,1,0,0,0,0,1,0,4
 Marko Janković,Qarabağ,1,0,1,0,0,1,0,1,9
-Raphinha,Barcelona,1,0,1,0,0,1,0,1,5
-Gabriel Sara,Galatasaray,1,0,1,0,0,1,0,0,10
+Gabriel Sara,Galatasaray,1,0,1,0,0,1,0,0,12
 Maghnes Akliouche,Monaco,1,0,1,0,0,1,0,0,10
 Nick Woltemade,Newcastle,1,0,1,0,0,1,0,0,10
 Abdellah Zoubir,Qarabağ,1,0,1,0,0,1,0,0,10
+Geny Catamo,Sporting CP,1,0,1,0,0,1,0,0,9
+Alejandro Garnacho,Chelsea,1,0,1,0,0,1,0,0,9
 Samuel Dahl,Benfica,1,0,1,0,0,1,0,0,9
 Francisco Conceição,Juventus,1,0,1,0,0,1,0,0,9
+Jeremy Doku,Man City,1,0,1,0,0,1,0,0,9
+Ryan Gravenberch,Liverpool,1,0,1,0,0,1,0,0,9
 Waldemar Anton,B. Dortmund,1,0,1,0,0,1,0,0,9
-Antoine Griezmann,Atleti,1,0,1,0,0,1,0,0,9
-Maximiliano Araújo,Sporting CP,1,0,1,0,0,1,0,0,8
-Ole Didrik Blomberg,Bodø/Glimt,1,0,1,0,0,1,0,0,8
-Michael Olise,Bayern München,1,0,1,0,0,1,0,0,8
 Carney Chukwuemeka,B. Dortmund,1,0,1,0,0,1,0,0,8
-Robin Le Normand,Atleti,1,0,1,0,0,1,0,0,8
-Dávid Hancko,Atleti,1,0,1,0,0,1,0,0,8
 Olexiy Kashchuk,Qarabağ,1,0,1,0,0,1,0,0,8
-Senny Mayulu,Paris,1,0,1,0,0,1,0,0,7
 Anderson,Pafos,1,0,1,0,0,1,0,0,7
-Geny Catamo,Sporting CP,1,0,1,0,0,1,0,0,7
-Alejandro Garnacho,Chelsea,1,0,1,0,0,1,0,0,7
-Jeremy Doku,Man City,1,0,1,0,0,1,0,0,7
+Raphaël Guerreiro,Bayern München,1,0,1,0,0,1,0,0,7
+Pedro Gonçalves,Sporting CP,1,0,1,0,0,1,0,0,6
 Fabián Ruiz,Paris,1,0,1,0,0,1,0,0,6
+Josip Stanišić,Bayern München,1,0,1,0,0,1,0,0,6
+Andy Robertson,Liverpool,1,0,1,0,0,1,0,0,6
 Dastan Satpayev,Kairat Almaty,1,0,1,0,0,1,0,0,5
 Nico Serrano,Athletic Club,1,0,1,0,0,1,0,0,5
 Ansu Fati,Monaco,1,0,1,0,0,1,0,0,5
-Andy Robertson,Liverpool,1,0,1,0,0,1,0,0,5
-Raphaël Guerreiro,Bayern München,1,0,1,0,0,1,0,0,5
 Yoane Wissa,Newcastle,1,0,1,0,0,1,0,0,4
 Tyrique George,Chelsea,1,0,1,0,0,1,0,0,4
 Antonio Vergara,Napoli,1,0,1,0,0,1,0,0,4
 Olzhas Baibek,Kairat Almaty,1,0,1,0,0,1,0,0,4
 Andy Diouf,Inter,1,0,1,0,0,1,0,0,4
+Cole Palmer,Chelsea,1,0,1,0,0,1,0,0,4
+Giacomo Raspadori,Atalanta,1,0,1,0,0,1,0,0,3
 Andreas Cornelius,Copenhagen,1,0,1,0,0,1,0,0,3
-Cole Palmer,Chelsea,1,0,1,0,0,1,0,0,2
-Giacomo Raspadori,Atleti,1,0,1,0,0,1,0,0,2
-Kai Havertz,Arsenal,1,0,1,0,0,1,0,0,1
+Jacob Murphy,Newcastle,1,0,1,0,0,0,1,0,9
 Federico Dimarco,Inter,1,0,1,0,0,0,1,0,9
 Vlad Dragomir,Pafos,1,0,1,0,0,0,1,0,8
 Carlos Augusto,Inter,1,0,1,0,0,0,1,0,7
-Jacob Murphy,Newcastle,1,0,1,0,0,0,1,0,7
+Andreas Helmersen,Bodø/Glimt,1,0,0,1,0,1,0,0,12
+Dan Burn,Newcastle,1,0,0,1,0,1,0,0,11
+Malick Thiaw,Newcastle,1,0,0,1,0,1,0,0,11
 Joel Ordoñez,Club Brugge,1,0,0,1,0,1,0,0,10
+Eduardo Camavinga,Real Madrid,1,0,0,1,0,1,0,0,10
 Anatoliy Trubin,Benfica,1,0,0,1,0,1,0,0,10
-Andreas Helmersen,Bodø/Glimt,1,0,0,1,0,1,0,0,10
 Brandon Mechele,Club Brugge,1,0,0,1,0,1,0,0,10
 Santiago Hezze,Olympiacos,1,0,0,1,0,1,0,0,9
-Dan Burn,Newcastle,1,0,0,1,0,1,0,0,9
 Enzo Barrenechea,Benfica,1,0,0,1,0,1,0,0,9
+Gonçalo Inácio,Sporting CP,1,0,0,1,0,1,0,0,9
+Mario Lemina,Galatasaray,1,0,0,1,0,1,0,0,9
 Lloyd Kelly,Juventus,1,0,0,1,0,1,0,0,9
-Malick Thiaw,Newcastle,1,0,0,1,0,1,0,0,9
+Haitam Aleesami,Bodø/Glimt,1,0,0,1,0,1,0,0,9
+Joe Willock,Newcastle,1,0,0,1,0,1,0,0,9
+Robert Andrich,Leverkusen,1,0,0,1,0,1,0,0,9
 Ricardinho,Kairat Almaty,1,0,0,1,0,1,0,0,8
 Renato Veiga,Villarreal,1,0,0,1,0,1,0,0,8
-Eduardo Camavinga,Real Madrid,1,0,0,1,0,1,0,0,8
-Haitam Aleesami,Bodø/Glimt,1,0,0,1,0,1,0,0,8
+Sven Botman,Newcastle,1,0,0,1,0,1,0,0,8
+Ibrahima Konaté,Liverpool,1,0,0,1,0,1,0,0,8
 Derrick Luckassen,Pafos,1,0,0,1,0,1,0,0,8
+Bernardo Silva,Man City,1,0,0,1,0,1,0,0,8
 Lewis Miley,Newcastle,1,0,0,1,0,1,0,0,7
+Ousmane Diomande,Sporting CP,1,0,0,1,0,1,0,0,7
+Gabriel,Arsenal,1,0,0,1,0,1,0,0,7
+Richarlison,Tottenham,1,0,0,1,0,1,0,0,7
 Costinha,Olympiacos,1,0,0,1,0,1,0,0,7
-Sven Botman,Newcastle,1,0,0,1,0,1,0,0,7
-Joe Willock,Newcastle,1,0,0,1,0,1,0,0,7
+Jurriën Timber,Arsenal,1,0,0,1,0,1,0,0,7
 David Luiz,Pafos,1,0,0,1,0,1,0,0,7
 Ross Sykes,Union SG,1,0,0,1,0,1,0,0,6
-Richarlison,Tottenham,1,0,0,1,0,1,0,0,6
-Jurriën Timber,Arsenal,1,0,0,1,0,1,0,0,6
-Ibrahima Konaté,Liverpool,1,0,0,1,0,1,0,0,6
-Bernardo Silva,Man City,1,0,0,1,0,1,0,0,6
-Ousmane Diomande,Sporting CP,1,0,0,1,0,1,0,0,5
-Gabriel,Arsenal,1,0,0,1,0,1,0,0,5
-José María Giménez,Atleti,1,0,0,1,0,1,0,0,5
+José María Giménez,Atleti,1,0,0,1,0,1,0,0,6
 Ofri Arad,Kairat Almaty,1,0,0,1,0,1,0,0,4
-Davinson Sánchez,Galatasaray,1,0,0,0,1,1,0,0,10
+Davinson Sánchez,Galatasaray,1,0,0,0,1,1,0,0,11
 Santiago Comesaña,Villarreal,1,0,0,0,1,1,0,0,8
+Ibrahim Maza,Leverkusen,0,0,0,0,0,0,0,0,12
+Odin Bjørtuft,Bodø/Glimt,0,0,0,0,0,0,0,0,12
+Arda Güler,Real Madrid,0,0,0,0,0,0,0,0,12
+Warren Zaïre-Emery,Paris,0,0,0,0,0,0,0,0,12
+Nikita Haikin,Bodø/Glimt,0,0,0,0,0,0,0,0,12
+Ernest Poku,Leverkusen,0,0,0,0,0,0,0,0,12
+Lucas Torreira,Galatasaray,0,0,0,0,0,0,0,0,12
+Ismail Jakobs,Galatasaray,0,0,0,0,0,0,0,0,12
+Uğurcan Çakır,Galatasaray,0,0,0,0,0,0,0,0,12
+Patrick Berg,Bodø/Glimt,0,0,0,0,0,0,0,0,12
+Roland Sallai,Galatasaray,0,0,0,0,0,0,0,0,12
+Marten de Roon,Atalanta,0,0,0,0,0,0,0,0,12
+Koke,Atleti,0,0,0,0,0,0,0,0,12
+Jarell Quansah,Leverkusen,0,0,0,0,0,0,0,0,11
+Matteo Ruggeri,Atleti,0,0,0,0,0,0,0,0,11
+Abdülkerim Bardakcı,Galatasaray,0,0,0,0,0,0,0,0,11
+Thibaut Courtois,Real Madrid,0,0,0,0,0,0,0,0,11
 Yann Sommer,Inter,0,0,0,0,0,0,0,0,10
 Pedro Bicalho,Qarabağ,0,0,0,0,0,0,0,0,10
-Ibrahim Maza,Leverkusen,0,0,0,0,0,0,0,0,10
+Gerard Martín,Barcelona,0,0,0,0,0,0,0,0,10
 Francisco Ortega,Olympiacos,0,0,0,0,0,0,0,0,10
-Odin Bjørtuft,Bodø/Glimt,0,0,0,0,0,0,0,0,10
+Guglielmo Vicario,Tottenham,0,0,0,0,0,0,0,0,10
 Ange-Yoan Bonny,Inter,0,0,0,0,0,0,0,0,10
 Christos Mouzakitis,Olympiacos,0,0,0,0,0,0,0,0,10
+Djed Spence,Tottenham,0,0,0,0,0,0,0,0,10
 Jobe Bellingham,B. Dortmund,0,0,0,0,0,0,0,0,10
-Arda Güler,Real Madrid,0,0,0,0,0,0,0,0,10
-Warren Zaïre-Emery,Paris,0,0,0,0,0,0,0,0,10
-Nikita Haikin,Bodø/Glimt,0,0,0,0,0,0,0,0,10
+Aleksandar Pavlović,Bayern München,0,0,0,0,0,0,0,0,10
+Eren Elmalı,Galatasaray,0,0,0,0,0,0,0,0,10
 Kevin Medina,Qarabağ,0,0,0,0,0,0,0,0,10
-Ernest Poku,Leverkusen,0,0,0,0,0,0,0,0,10
-Bradley Barcola,Paris,0,0,0,0,0,0,0,0,10
+Lewis Hall,Newcastle,0,0,0,0,0,0,0,0,10
+Isak Dybvik Määttä,Bodø/Glimt,0,0,0,0,0,0,0,0,10
+Lorenzo Bernasconi,Atalanta,0,0,0,0,0,0,0,0,10
+Odilon Kossounou,Atalanta,0,0,0,0,0,0,0,0,10
+Sondre Auklend,Bodø/Glimt,0,0,0,0,0,0,0,0,10
 Amar Dedić,Benfica,0,0,0,0,0,0,0,0,10
 Lorenzo Pirola,Olympiacos,0,0,0,0,0,0,0,0,10
 Pierre Kalulu,Juventus,0,0,0,0,0,0,0,0,10
-Lucas Torreira,Galatasaray,0,0,0,0,0,0,0,0,10
-Ismail Jakobs,Galatasaray,0,0,0,0,0,0,0,0,10
+Tijjani Reijnders,Man City,0,0,0,0,0,0,0,0,10
+Edmond Tapsoba,Leverkusen,0,0,0,0,0,0,0,0,10
+Marco Carnesecchi,Atalanta,0,0,0,0,0,0,0,0,10
+Fredrik André Bjørkan,Bodø/Glimt,0,0,0,0,0,0,0,0,10
 Mateusz Kochalski,Qarabağ,0,0,0,0,0,0,0,0,10
 Manuel Akanji,Inter,0,0,0,0,0,0,0,0,10
-Uğurcan Çakır,Galatasaray,0,0,0,0,0,0,0,0,10
+Mauro Icardi,Galatasaray,0,0,0,0,0,0,0,0,10
 Gregor Kobel,B. Dortmund,0,0,0,0,0,0,0,0,10
-Patrick Berg,Bodø/Glimt,0,0,0,0,0,0,0,0,10
-Roland Sallai,Galatasaray,0,0,0,0,0,0,0,0,10
+Leroy Sané,Galatasaray,0,0,0,0,0,0,0,0,10
 Fredrik Aursnes,Benfica,0,0,0,0,0,0,0,0,10
+Berat Djimsiti,Atalanta,0,0,0,0,0,0,0,0,10
 Nicolás Otamendi,Benfica,0,0,0,0,0,0,0,0,10
-Marten de Roon,Atalanta,0,0,0,0,0,0,0,0,10
-Koke,Atleti,0,0,0,0,0,0,0,0,10
+Jan Oblak,Atleti,0,0,0,0,0,0,0,0,10
+Equi Fernández,Leverkusen,0,0,0,0,0,0,0,0,9
+Honest Ahanor,Atalanta,0,0,0,0,0,0,0,0,9
+Kamaldeen Sulemana,Atalanta,0,0,0,0,0,0,0,0,9
+Iván Fresneda,Sporting CP,0,0,0,0,0,0,0,0,9
 Mamadou Coulibaly,Monaco,0,0,0,0,0,0,0,0,9
+Pau Cubarsí,Barcelona,0,0,0,0,0,0,0,0,9
+Pape Sarr,Tottenham,0,0,0,0,0,0,0,0,9
+Isak Hien,Atalanta,0,0,0,0,0,0,0,0,9
+Nahuel Molina,Atleti,0,0,0,0,0,0,0,0,9
+David Raya,Arsenal,0,0,0,0,0,0,0,0,9
+Tom Bischof,Bayern München,0,0,0,0,0,0,0,0,9
 Joaquin Seys,Club Brugge,0,0,0,0,0,0,0,0,9
 Andrea Cambiaso,Juventus,0,0,0,0,0,0,0,0,9
+Jacob Ramsey,Newcastle,0,0,0,0,0,0,0,0,9
+Hidemasa Morita,Sporting CP,0,0,0,0,0,0,0,0,9
+Pablo Barrios,Atleti,0,0,0,0,0,0,0,0,9
 Kyriani Sabbe,Club Brugge,0,0,0,0,0,0,0,0,9
-Odilon Kossounou,Atalanta,0,0,0,0,0,0,0,0,9
+Nicolás González,Atleti,0,0,0,0,0,0,0,0,9
 Kostas Tzolakis,Olympiacos,0,0,0,0,0,0,0,0,9
-Jarell Quansah,Leverkusen,0,0,0,0,0,0,0,0,9
-Matteo Ruggeri,Atleti,0,0,0,0,0,0,0,0,9
+Kang-in Lee,Paris,0,0,0,0,0,0,0,0,9
 Georgiy Sudakov,Benfica,0,0,0,0,0,0,0,0,9
 Tomás Araújo,Benfica,0,0,0,0,0,0,0,0,9
-Marco Carnesecchi,Atalanta,0,0,0,0,0,0,0,0,9
-Federico Valverde,Real Madrid,0,0,0,0,0,0,0,0,9
+Jostein Gundersen,Bodø/Glimt,0,0,0,0,0,0,0,0,9
+Álex Baena,Atleti,0,0,0,0,0,0,0,0,9
+Eric García,Barcelona,0,0,0,0,0,0,0,0,9
+Morten Hjulmand,Sporting CP,0,0,0,0,0,0,0,0,9
 Caio Henrique,Monaco,0,0,0,0,0,0,0,0,9
 Julian Ryerson,B. Dortmund,0,0,0,0,0,0,0,0,9
+Raoul Bellanova,Atalanta,0,0,0,0,0,0,0,0,9
+Gianluigi Donnarumma,Man City,0,0,0,0,0,0,0,0,9
 Panagiotis Retsos,Olympiacos,0,0,0,0,0,0,0,0,9
-Mauro Icardi,Galatasaray,0,0,0,0,0,0,0,0,9
-Leroy Sané,Galatasaray,0,0,0,0,0,0,0,0,9
+Marc Cucurella,Chelsea,0,0,0,0,0,0,0,0,9
+Joshua Kimmich,Bayern München,0,0,0,0,0,0,0,0,9
+Rui Silva,Sporting CP,0,0,0,0,0,0,0,0,9
 Thilo Kehrer,Monaco,0,0,0,0,0,0,0,0,9
-Abdülkerim Bardakcı,Galatasaray,0,0,0,0,0,0,0,0,9
-Berat Djimsiti,Atalanta,0,0,0,0,0,0,0,0,9
-Jan Oblak,Atleti,0,0,0,0,0,0,0,0,9
-Thibaut Courtois,Real Madrid,0,0,0,0,0,0,0,0,9
+Kieran Trippier,Newcastle,0,0,0,0,0,0,0,0,9
 Sergi Cardona,Villarreal,0,0,0,0,0,0,0,0,8
 Alejandro Rego,Athletic Club,0,0,0,0,0,0,0,0,8
 Gabriel Pereira,Copenhagen,0,0,0,0,0,0,0,0,8
-Gerard Martín,Barcelona,0,0,0,0,0,0,0,0,8
+Dean Huijsen,Real Madrid,0,0,0,0,0,0,0,0,8
+Marc Pubill,Atleti,0,0,0,0,0,0,0,0,8
 Nathaniel Brown,Frankfurt,0,0,0,0,0,0,0,0,8
 Arthur,Leverkusen,0,0,0,0,0,0,0,0,8
 Rodinei ,Olympiacos,0,0,0,0,0,0,0,0,8
 Adem Zorgane,Union SG,0,0,0,0,0,0,0,0,8
-Guglielmo Vicario,Tottenham,0,0,0,0,0,0,0,0,8
+Myles Lewis-Skelly,Arsenal,0,0,0,0,0,0,0,0,8
+João Simões,Sporting CP,0,0,0,0,0,0,0,0,8
 Christian Burgess,Union SG,0,0,0,0,0,0,0,0,8
 Jerdy Schouten,PSV,0,0,0,0,0,0,0,0,8
-Nahuel Molina,Atleti,0,0,0,0,0,0,0,0,8
-Djed Spence,Tottenham,0,0,0,0,0,0,0,0,8
+Archie Gray,Tottenham,0,0,0,0,0,0,0,0,8
 Vanderson,Monaco,0,0,0,0,0,0,0,0,8
 Mika Biereth,Monaco,0,0,0,0,0,0,0,0,8
 Alexandr Mrynskiy,Kairat Almaty,0,0,0,0,0,0,0,0,8
 Jean-Matteo Bahoya,Frankfurt,0,0,0,0,0,0,0,0,8
-Aleksandar Pavlović,Bayern München,0,0,0,0,0,0,0,0,8
-Eren Elmalı,Galatasaray,0,0,0,0,0,0,0,0,8
 Yerkin Tapalov,Kairat Almaty,0,0,0,0,0,0,0,0,8
 Loïc Badé,Leverkusen,0,0,0,0,0,0,0,0,8
+Ben White,Arsenal,0,0,0,0,0,0,0,0,8
+Robert Sánchez,Chelsea,0,0,0,0,0,0,0,0,8
 Mika Godts,Ajax,0,0,0,0,0,0,0,0,8
 Álvaro Carreras,Real Madrid,0,0,0,0,0,0,0,0,8
 Raúl Asencio,Real Madrid,0,0,0,0,0,0,0,0,8
-Lewis Hall,Newcastle,0,0,0,0,0,0,0,0,8
-Pablo Barrios,Atleti,0,0,0,0,0,0,0,0,8
-Isak Dybvik Määttä,Bodø/Glimt,0,0,0,0,0,0,0,0,8
-Lorenzo Bernasconi,Atalanta,0,0,0,0,0,0,0,0,8
+Martin Zubimendi,Arsenal,0,0,0,0,0,0,0,0,8
+Omar Marmoush,Man City,0,0,0,0,0,0,0,0,8
 Kamiel Van De Perre,Union SG,0,0,0,0,0,0,0,0,8
-Sondre Auklend,Bodø/Glimt,0,0,0,0,0,0,0,0,8
+Ronald Araújo,Barcelona,0,0,0,0,0,0,0,0,8
 Youri Regeer,Ajax,0,0,0,0,0,0,0,0,8
 Youri Baas,Ajax,0,0,0,0,0,0,0,0,8
 Arthur Theate,Frankfurt,0,0,0,0,0,0,0,0,8
 Robin Koch,Frankfurt,0,0,0,0,0,0,0,0,8
 Damir Kassabulat,Kairat Almaty,0,0,0,0,0,0,0,0,8
 David Zima,Slavia Praha,0,0,0,0,0,0,0,0,8
-Anthony Elanga,Newcastle,0,0,0,0,0,0,0,0,8
+Nico González,Man City,0,0,0,0,0,0,0,0,8
 Kjell Scherpen,Union SG,0,0,0,0,0,0,0,0,8
 Marcos Lopez,Copenhagen,0,0,0,0,0,0,0,0,8
-Tijjani Reijnders,Man City,0,0,0,0,0,0,0,0,8
 Ellyes Skhiri,Frankfurt,0,0,0,0,0,0,0,0,8
-Edmond Tapsoba,Leverkusen,0,0,0,0,0,0,0,0,8
 Nick Pope,Newcastle,0,0,0,0,0,0,0,0,8
 Matěj Kovář,PSV,0,0,0,0,0,0,0,0,8
+Reece James,Chelsea,0,0,0,0,0,0,0,0,8
 Toral Bayramov,Qarabağ,0,0,0,0,0,0,0,0,8
-Álex Baena,Atleti,0,0,0,0,0,0,0,0,8
+Pedro Neto,Chelsea,0,0,0,0,0,0,0,0,8
 Nicolas Pépé,Villarreal,0,0,0,0,0,0,0,0,8
 Joey Veerman,PSV,0,0,0,0,0,0,0,0,8
-Fredrik André Bjørkan,Bodø/Glimt,0,0,0,0,0,0,0,0,8
-Eric García,Barcelona,0,0,0,0,0,0,0,0,8
 Dominik Kotarski,Copenhagen,0,0,0,0,0,0,0,0,8
 Philipp Köhn,Monaco,0,0,0,0,0,0,0,0,8
 Valeri Gromyko,Kairat Almaty,0,0,0,0,0,0,0,0,8
 Dani García,Olympiacos,0,0,0,0,0,0,0,0,8
 Egor Sorokin,Kairat Almaty,0,0,0,0,0,0,0,0,8
+Kevin Danso,Tottenham,0,0,0,0,0,0,0,0,8
+Dayot Upamecano,Bayern München,0,0,0,0,0,0,0,0,8
 Michal Sadílek,Slavia Praha,0,0,0,0,0,0,0,0,8
+Trevoh Chalobah,Chelsea,0,0,0,0,0,0,0,0,8
 Unai Simón,Athletic Club,0,0,0,0,0,0,0,0,8
 Daniel Podence,Olympiacos,0,0,0,0,0,0,0,0,8
 Gerónimo Rulli,Marseille,0,0,0,0,0,0,0,0,8
-Joshua Kimmich,Bayern München,0,0,0,0,0,0,0,0,8
 Nicolò Barella,Inter,0,0,0,0,0,0,0,0,8
 Pêpê,Pafos,0,0,0,0,0,0,0,0,8
 Lukáš Provod,Slavia Praha,0,0,0,0,0,0,0,0,8
+Leon Goretzka,Bayern München,0,0,0,0,0,0,0,0,8
 Pierre-Emile Højbjerg,Marseille,0,0,0,0,0,0,0,0,8
 Viktor Claesson,Copenhagen,0,0,0,0,0,0,0,0,8
 Davy Klaassen,Ajax,0,0,0,0,0,0,0,0,8
+İlkay Gündoğan,Galatasaray,0,0,0,0,0,0,0,0,8
 Manuel Neuer,Bayern München,0,0,0,0,0,0,0,0,7
 Frenkie de Jong,Barcelona,0,0,0,0,0,0,0,0,7
-Equi Fernández,Leverkusen,0,0,0,0,0,0,0,0,7
 Junnosuke Suzuki,Copenhagen,0,0,0,0,0,0,0,0,7
-Honest Ahanor,Atalanta,0,0,0,0,0,0,0,0,7
-Kamaldeen Sulemana,Atalanta,0,0,0,0,0,0,0,0,7
 Dani Bolt,Qarabağ,0,0,0,0,0,0,0,0,7
 Bruno Langa,Pafos,0,0,0,0,0,0,0,0,7
 Mikel Jauregizar,Athletic Club,0,0,0,0,0,0,0,0,7
 Ousseynou Niang,Union SG,0,0,0,0,0,0,0,0,7
 Jajá,Pafos,0,0,0,0,0,0,0,0,7
 Unai Gomez ,Athletic Club,0,0,0,0,0,0,0,0,7
-Marc Pubill,Atleti,0,0,0,0,0,0,0,0,7
 Jorthy Mokio,Ajax,0,0,0,0,0,0,0,0,7
 Bjorn Meijer,Club Brugge,0,0,0,0,0,0,0,0,7
 Kassoum Ouattara,Monaco,0,0,0,0,0,0,0,0,7
-Myles Lewis-Skelly,Arsenal,0,0,0,0,0,0,0,0,7
-João Simões,Sporting CP,0,0,0,0,0,0,0,0,7
-Iván Fresneda,Sporting CP,0,0,0,0,0,0,0,0,7
-Pau Cubarsí,Barcelona,0,0,0,0,0,0,0,0,7
-Pape Sarr,Tottenham,0,0,0,0,0,0,0,0,7
-Isak Hien,Atalanta,0,0,0,0,0,0,0,0,7
+Savinho,Man City,0,0,0,0,0,0,0,0,7
 Tajon Buchanan,Villarreal,0,0,0,0,0,0,0,0,7
-David Raya,Arsenal,0,0,0,0,0,0,0,0,7
+Lucas Bergvall,Tottenham,0,0,0,0,0,0,0,0,7
 Yarek Gasiorowski,PSV,0,0,0,0,0,0,0,0,7
 Matt O'Riley,Marseille,0,0,0,0,0,0,0,0,7
 Franjo Ivanović,Benfica,0,0,0,0,0,0,0,0,7
 Alberto Moleiro,Villarreal,0,0,0,0,0,0,0,0,7
-Tom Bischof,Bayern München,0,0,0,0,0,0,0,0,7
 Vasilije Adžić,Juventus,0,0,0,0,0,0,0,0,7
 Hugo Larsson,Frankfurt,0,0,0,0,0,0,0,0,7
-Jacob Ramsey,Newcastle,0,0,0,0,0,0,0,0,7
-Hidemasa Morita,Sporting CP,0,0,0,0,0,0,0,0,7
-Ben White,Arsenal,0,0,0,0,0,0,0,0,7
-Robert Sánchez,Chelsea,0,0,0,0,0,0,0,0,7
+Milos Kerkez,Liverpool,0,0,0,0,0,0,0,0,7
+Minjae Kim,Bayern München,0,0,0,0,0,0,0,0,7
 Jamie Gittens,Chelsea,0,0,0,0,0,0,0,0,7
 Luis Henrique,Inter,0,0,0,0,0,0,0,0,7
 Pape Gueye,Villarreal,0,0,0,0,0,0,0,0,7
+Pedri,Barcelona,0,0,0,0,0,0,0,0,7
 Bruno Guimarães,Newcastle,0,0,0,0,0,0,0,0,7
-Nicolás González,Atleti,0,0,0,0,0,0,0,0,7
-Gonçalo Inácio,Sporting CP,0,0,0,0,0,0,0,0,7
 Fabio Miretti,Juventus,0,0,0,0,0,0,0,0,7
 Alejandro Balde,Barcelona,0,0,0,0,0,0,0,0,7
 Nico Schlotterbeck,B. Dortmund,0,0,0,0,0,0,0,0,7
 Mads Emil Madsen,Copenhagen,0,0,0,0,0,0,0,0,7
 David Douděra,Slavia Praha,0,0,0,0,0,0,0,0,7
-Eberechi Eze,Arsenal,0,0,0,0,0,0,0,0,7
-Mario Lemina,Galatasaray,0,0,0,0,0,0,0,0,7
 Ritsu Doan,Frankfurt,0,0,0,0,0,0,0,0,7
+Wilfried Singo,Galatasaray,0,0,0,0,0,0,0,0,7
 Fedde Leysen,Union SG,0,0,0,0,0,0,0,0,7
+Cristhian Mosquera,Arsenal,0,0,0,0,0,0,0,0,7
+Destiny Udogie,Tottenham,0,0,0,0,0,0,0,0,7
+William Saliba,Arsenal,0,0,0,0,0,0,0,0,7
 Aitor Paredes,Athletic Club,0,0,0,0,0,0,0,0,7
-Nico González,Man City,0,0,0,0,0,0,0,0,7
 Mauro Júnior,PSV,0,0,0,0,0,0,0,0,7
-Kang-in Lee,Paris,0,0,0,0,0,0,0,0,7
+Joan García,Barcelona,0,0,0,0,0,0,0,0,7
 Anass Salah-Eddine,PSV,0,0,0,0,0,0,0,0,7
+Yunus Musah,Atalanta,0,0,0,0,0,0,0,0,7
 Yann Bisseck,Inter,0,0,0,0,0,0,0,0,7
 Michael Murillo,Marseille,0,0,0,0,0,0,0,0,7
 Hugo Vetlesen,Club Brugge,0,0,0,0,0,0,0,0,7
 Giulian Biancone,Olympiacos,0,0,0,0,0,0,0,0,7
-Ryan Gravenberch,Liverpool,0,0,0,0,0,0,0,0,7
-Reece James,Chelsea,0,0,0,0,0,0,0,0,7
-Jostein Gundersen,Bodø/Glimt,0,0,0,0,0,0,0,0,7
-Morten Hjulmand,Sporting CP,0,0,0,0,0,0,0,0,7
+Jeremie Frimpong,Liverpool,0,0,0,0,0,0,0,0,7
+Curtis Jones,Liverpool,0,0,0,0,0,0,0,0,7
 Eljif Elmas,Napoli,0,0,0,0,0,0,0,0,7
-Raoul Bellanova,Atalanta,0,0,0,0,0,0,0,0,7
+Fran García,Real Madrid,0,0,0,0,0,0,0,0,7
 Quina,Pafos,0,0,0,0,0,0,0,0,7
 Alessandro Buongiorno,Napoli,0,0,0,0,0,0,0,0,7
 Davide Frattesi,Inter,0,0,0,0,0,0,0,0,7
 Pantelis Hatzidiakos,Copenhagen,0,0,0,0,0,0,0,0,7
-Dayot Upamecano,Bayern München,0,0,0,0,0,0,0,0,7
 Kostas Pileas,Pafos,0,0,0,0,0,0,0,0,7
-Gianluigi Donnarumma,Man City,0,0,0,0,0,0,0,0,7
-Marc Cucurella,Chelsea,0,0,0,0,0,0,0,0,7
+Trent Alexander-Arnold,Real Madrid,0,0,0,0,0,0,0,0,7
 Vanja Milinković-Savić,Napoli,0,0,0,0,0,0,0,0,7
+Konrad Laimer,Bayern München,0,0,0,0,0,0,0,0,7
 Andoni Gorosabel,Athletic Club,0,0,0,0,0,0,0,0,7
 Giovanni Di Lorenzo,Napoli,0,0,0,0,0,0,0,0,7
-Rui Silva,Sporting CP,0,0,0,0,0,0,0,0,7
 Aleksandr Golovin,Monaco,0,0,0,0,0,0,0,0,7
+Rúben Dias,Man City,0,0,0,0,0,0,0,0,7
 Luís Mata,Kairat Almaty,0,0,0,0,0,0,0,0,7
 Ivan Šunjić,Pafos,0,0,0,0,0,0,0,0,7
 Rob Schoofs,Union SG,0,0,0,0,0,0,0,0,7
-Robert Andrich,Leverkusen,0,0,0,0,0,0,0,0,7
 Juan Jesus,Napoli,0,0,0,0,0,0,0,0,7
 Tomáš Chorý,Slavia Praha,0,0,0,0,0,0,0,0,7
 Iñigo Ruiz De Galarreta,Athletic Club,0,0,0,0,0,0,0,0,7
 Mario Götze,Frankfurt,0,0,0,0,0,0,0,0,7
-İlkay Gündoğan,Galatasaray,0,0,0,0,0,0,0,0,7
-Kieran Trippier,Newcastle,0,0,0,0,0,0,0,0,7
-Pedro Porro,Tottenham,0,0,0,0,0,0,0,0,7
 Daniel Parejo,Villarreal,0,0,0,0,0,0,0,0,7
-David Neres,Napoli,0,0,0,0,0,0,0,0,6
 Lorenzo Scipioni,Olympiacos,0,0,0,0,0,0,0,0,6
 Mons Bassouamina,Pafos,0,0,0,0,0,0,0,0,6
 Youssoupha Sanyang,Slavia Praha,0,0,0,0,0,0,0,0,6
@@ -486,72 +517,69 @@ Lamine Camara,Monaco,0,0,0,0,0,0,0,0,6
 David Goldar,Pafos,0,0,0,0,0,0,0,0,6
 Juan Cabal,Juventus,0,0,0,0,0,0,0,0,6
 Daniel Vivian,Athletic Club,0,0,0,0,0,0,0,0,6
-Dean Huijsen,Real Madrid,0,0,0,0,0,0,0,0,6
 Adama Boiro,Athletic Club,0,0,0,0,0,0,0,0,6
 Santiago Mouriño,Villarreal,0,0,0,0,0,0,0,0,6
+Abdukodir Khusanov,Man City,0,0,0,0,0,0,0,0,6
+William Osula,Newcastle,0,0,0,0,0,0,0,0,6
+Andrey Santos,Chelsea,0,0,0,0,0,0,0,0,6
 Kevin Rodriguez,Union SG,0,0,0,0,0,0,0,0,6
-Savinho,Man City,0,0,0,0,0,0,0,0,6
 Nariman Akhundzade,Qarabağ,0,0,0,0,0,0,0,0,6
-Lucas Bergvall,Tottenham,0,0,0,0,0,0,0,0,6
-Archie Gray,Tottenham,0,0,0,0,0,0,0,0,6
 William Clem,Copenhagen,0,0,0,0,0,0,0,0,6
 Mark Flekken,Leverkusen,0,0,0,0,0,0,0,0,6
 Paul Wanner,PSV,0,0,0,0,0,0,0,0,6
-Minjae Kim,Bayern München,0,0,0,0,0,0,0,0,6
+Piero Hincapié,Arsenal,0,0,0,0,0,0,0,0,6
 Sam Beukema,Napoli,0,0,0,0,0,0,0,0,6
 Ko Itakura,Ajax,0,0,0,0,0,0,0,0,6
 Kady,Qarabağ,0,0,0,0,0,0,0,0,6
-Martin Zubimendi,Arsenal,0,0,0,0,0,0,0,0,6
-Omar Marmoush,Man City,0,0,0,0,0,0,0,0,6
+Matheus Nunes,Man City,0,0,0,0,0,0,0,0,6
+Wesley Fofana,Chelsea,0,0,0,0,0,0,0,0,6
 Lucas Chevalier,Paris,0,0,0,0,0,0,0,0,6
 Youssoufa Moukoko,Copenhagen,0,0,0,0,0,0,0,0,6
 Nnamdi Collins,Frankfurt,0,0,0,0,0,0,0,0,6
 Mathías Olivera,Napoli,0,0,0,0,0,0,0,0,6
-Ronald Araújo,Barcelona,0,0,0,0,0,0,0,0,6
-Malo Gusto,Chelsea,0,0,0,0,0,0,0,0,6
 Alex Berenguer,Athletic Club,0,0,0,0,0,0,0,0,6
 Temirlan Anarbekov,Kairat Almaty,0,0,0,0,0,0,0,0,6
-Cristhian Mosquera,Arsenal,0,0,0,0,0,0,0,0,6
+Marc Casadó,Barcelona,0,0,0,0,0,0,0,0,6
 Christos Zafeiris,Slavia Praha,0,0,0,0,0,0,0,0,6
-Destiny Udogie,Tottenham,0,0,0,0,0,0,0,0,6
 Hugo Siquet,Club Brugge,0,0,0,0,0,0,0,0,6
 António Silva,Benfica,0,0,0,0,0,0,0,0,6
 Leonardo Balerdi,Marseille,0,0,0,0,0,0,0,0,6
+Rayan Aït-Nouri,Man City,0,0,0,0,0,0,0,0,6
 Muhammed Cham,Slavia Praha,0,0,0,0,0,0,0,0,6
+Nicola Zalewski,Atalanta,0,0,0,0,0,0,0,0,6
 Matheus Reis,Sporting CP,0,0,0,0,0,0,0,0,6
 Illia Zabarnyi,Paris,0,0,0,0,0,0,0,0,6
 Edon Zhegrova,Juventus,0,0,0,0,0,0,0,0,6
-Yunus Musah,Atalanta,0,0,0,0,0,0,0,0,6
+Eduardo Quaresma,Sporting CP,0,0,0,0,0,0,0,0,6
 Musa Gurbanli,Qarabağ,0,0,0,0,0,0,0,0,6
 Vitězslav Jaroš,Ajax,0,0,0,0,0,0,0,0,6
 Sergiño Dest,PSV,0,0,0,0,0,0,0,0,6
 Ken Sema,Pafos,0,0,0,0,0,0,0,0,6
-Pedro Neto,Chelsea,0,0,0,0,0,0,0,0,6
-Curtis Jones,Liverpool,0,0,0,0,0,0,0,0,6
+David Neres,Napoli,0,0,0,0,0,0,0,0,6
 Michele Di Gregorio,Juventus,0,0,0,0,0,0,0,0,6
 Josip Šutalo,Ajax,0,0,0,0,0,0,0,0,6
+Alisson Becker,Liverpool,0,0,0,0,0,0,0,0,6
 Owen Wijndal,Ajax,0,0,0,0,0,0,0,0,6
 Neofytos Michael,Pafos,0,0,0,0,0,0,0,0,6
 Mojmír Chytil,Slavia Praha,0,0,0,0,0,0,0,0,6
+Matvei Safonov,Paris,0,0,0,0,0,0,0,0,6
 Armando Obispo,PSV,0,0,0,0,0,0,0,0,6
 Mikel Vesga,Athletic Club,0,0,0,0,0,0,0,0,6
-Declan Rice,Arsenal,0,0,0,0,0,0,0,0,6
 Benjamin Pavard,Marseille,0,0,0,0,0,0,0,0,6
-Kevin Danso,Tottenham,0,0,0,0,0,0,0,0,6
 Denis Zakaria,Monaco,0,0,0,0,0,0,0,0,6
-Trevoh Chalobah,Chelsea,0,0,0,0,0,0,0,0,6
 Nany Dimata,Pafos,0,0,0,0,0,0,0,0,6
 Nordin Jackers,Club Brugge,0,0,0,0,0,0,0,0,6
-Konrad Laimer,Bayern München,0,0,0,0,0,0,0,0,6
+Lucas Hernández,Paris,0,0,0,0,0,0,0,0,6
 Stanislav Lobotka,Napoli,0,0,0,0,0,0,0,0,6
 Jindřich Staněk,Slavia Praha,0,0,0,0,0,0,0,0,6
+Janis Blaswich,Leverkusen,0,0,0,0,0,0,0,0,6
 Matteo Politano,Napoli,0,0,0,0,0,0,0,0,6
-Leon Goretzka,Bayern München,0,0,0,0,0,0,0,0,6
+Sead Kolašinac,Atalanta,0,0,0,0,0,0,0,0,6
 Marcel Sabitzer,B. Dortmund,0,0,0,0,0,0,0,0,6
+Christian Nørgaard,Arsenal,0,0,0,0,0,0,0,0,6
 Leonardo Spinazzola,Napoli,0,0,0,0,0,0,0,0,6
 Emre Can,B. Dortmund,0,0,0,0,0,0,0,0,6
 Aleksandr Martynovich,Kairat Almaty,0,0,0,0,0,0,0,0,5
-Trent Alexander-Arnold,Real Madrid,0,0,0,0,0,0,0,0,5
 Michael Zetterer,Frankfurt,0,0,0,0,0,0,0,0,5
 Luiz Júnior,Villarreal,0,0,0,0,0,0,0,0,5
 Marc Giger,Union SG,0,0,0,0,0,0,0,0,5
@@ -562,110 +590,100 @@ Gianluca Prestianni,Benfica,0,0,0,0,0,0,0,0,5
 Jesús Areso,Athletic Club,0,0,0,0,0,0,0,0,5
 Raul Florucz,Union SG,0,0,0,0,0,0,0,0,5
 Louis Patris,Union SG,0,0,0,0,0,0,0,0,5
-Andrey Santos,Chelsea,0,0,0,0,0,0,0,0,5
 Thiago Almada,Atleti,0,0,0,0,0,0,0,0,5
 Mohammed Salisu,Monaco,0,0,0,0,0,0,0,0,5
 Bruno Onyemaechi,Olympiacos,0,0,0,0,0,0,0,0,5
 Yoram Zague,Copenhagen,0,0,0,0,0,0,0,0,5
+Joshua Acheampong,Chelsea,0,0,0,0,0,0,0,0,5
 Arthur Vermeeren,Marseille,0,0,0,0,0,0,0,0,5
 Lorenzo Lucca,Napoli,0,0,0,0,0,0,0,0,5
 Gonzalo,Real Madrid,0,0,0,0,0,0,0,0,5
-Milos Kerkez,Liverpool,0,0,0,0,0,0,0,0,5
-Matheus Nunes,Man City,0,0,0,0,0,0,0,0,5
-Pedri,Barcelona,0,0,0,0,0,0,0,0,5
-Pedro Gonçalves,Sporting CP,0,0,0,0,0,0,0,0,5
-Wesley Fofana,Chelsea,0,0,0,0,0,0,0,0,5
+Ulrik Saltnes,Bodø/Glimt,0,0,0,0,0,0,0,0,5
+Exequiel Palacios,Leverkusen,0,0,0,0,0,0,0,0,5
 Conor Bradley,Liverpool,0,0,0,0,0,0,0,0,5
 Aurele Amenda,Frankfurt,0,0,0,0,0,0,0,0,5
 Kian Fitz-Jim,Ajax,0,0,0,0,0,0,0,0,5
-Wilfried Singo,Galatasaray,0,0,0,0,0,0,0,0,5
-Marc Casadó,Barcelona,0,0,0,0,0,0,0,0,5
 Rafa Marín,Villarreal,0,0,0,0,0,0,0,0,5
-William Saliba,Arsenal,0,0,0,0,0,0,0,0,5
 Fotis Ioannidis,Sporting CP,0,0,0,0,0,0,0,0,5
 Joško Gvardiol,Man City,0,0,0,0,0,0,0,0,5
-Nicola Zalewski,Atalanta,0,0,0,0,0,0,0,0,5
 Raul Moro,Ajax,0,0,0,0,0,0,0,0,5
-Joan García,Barcelona,0,0,0,0,0,0,0,0,5
-Eduardo Quaresma,Sporting CP,0,0,0,0,0,0,0,0,5
+Tino Livramento,Newcastle,0,0,0,0,0,0,0,0,5
 Tomáš Vlček,Slavia Praha,0,0,0,0,0,0,0,0,5
 Jug Stanojev,Kairat Almaty,0,0,0,0,0,0,0,0,5
-Jeremie Frimpong,Liverpool,0,0,0,0,0,0,0,0,5
 Rodrigo Bentancur,Tottenham,0,0,0,0,0,0,0,0,5
 Murphy Dorley,Slavia Praha,0,0,0,0,0,0,0,0,5
 Mathias Rasmussen,Union SG,0,0,0,0,0,0,0,0,5
 Miguel Gutiérrez,Napoli,0,0,0,0,0,0,0,0,5
+Giorgi Mamardashvili,Liverpool,0,0,0,0,0,0,0,0,5
 Nayef Aguerd,Marseille,0,0,0,0,0,0,0,0,5
 Giorgi Zaria,Kairat Almaty,0,0,0,0,0,0,0,0,5
 Emerson,Marseille,0,0,0,0,0,0,0,0,5
-Alisson Becker,Liverpool,0,0,0,0,0,0,0,0,5
 Joni Montiel,Qarabağ,0,0,0,0,0,0,0,0,5
-Fran García,Real Madrid,0,0,0,0,0,0,0,0,5
 Alexander Isak,Liverpool,0,0,0,0,0,0,0,0,5
 Thomas Partey,Villarreal,0,0,0,0,0,0,0,0,5
 Alfonso Pedraza,Villarreal,0,0,0,0,0,0,0,0,5
+Rodri,Man City,0,0,0,0,0,0,0,0,5
 Ayoze Pérez,Villarreal,0,0,0,0,0,0,0,0,5
+Tosin Adarabioyo,Chelsea,0,0,0,0,0,0,0,0,5
 Lukas Lerager,Copenhagen,0,0,0,0,0,0,0,0,5
-Rúben Dias,Man City,0,0,0,0,0,0,0,0,5
 Dan Glazer,Kairat Almaty,0,0,0,0,0,0,0,0,5
 Francesco Acerbi,Inter,0,0,0,0,0,0,0,0,5
-Sead Kolašinac,Atalanta,0,0,0,0,0,0,0,0,5
 Lucas Vázquez,Leverkusen,0,0,0,0,0,0,0,0,5
+Antonio Rüdiger,Real Madrid,0,0,0,0,0,0,0,0,5
+Nathan Aké,Man City,0,0,0,0,0,0,0,0,5
+Dani Carvajal,Real Madrid,0,0,0,0,0,0,0,0,5
 Filip Kostić,Juventus,0,0,0,0,0,0,0,0,5
-Christian Nørgaard,Arsenal,0,0,0,0,0,0,0,0,5
 Simon Mignolet,Club Brugge,0,0,0,0,0,0,0,0,4
 Henrikh Mkhitaryan,Inter,0,0,0,0,0,0,0,0,4
 Robino Vaz,Marseille,0,0,0,0,0,0,0,0,4
 Gabriel Strefezza,Olympiacos,0,0,0,0,0,0,0,0,4
+Thiago Pitarch,Real Madrid,0,0,0,0,0,0,0,0,4
 Esmir Bajraktarević,PSV,0,0,0,0,0,0,0,0,4
-Marc Bernal,Barcelona,0,0,0,0,0,0,0,0,4
 Ibrahim Mbaye,Paris,0,0,0,0,0,0,0,0,4
 Daiki Hashioka,Slavia Praha,0,0,0,0,0,0,0,0,4
 Ryan Flamingo,PSV,0,0,0,0,0,0,0,0,4
 Villads Nielsen,Bodø/Glimt,0,0,0,0,0,0,0,0,4
-Abdukodir Khusanov,Man City,0,0,0,0,0,0,0,0,4
+Giorgos Vagiannidis,Sporting CP,0,0,0,0,0,0,0,0,4
 Facundo Medina,Marseille,0,0,0,0,0,0,0,0,4
-William Osula,Newcastle,0,0,0,0,0,0,0,0,4
 Munashe Garananga,Copenhagen,0,0,0,0,0,0,0,0,4
-Joshua Acheampong,Chelsea,0,0,0,0,0,0,0,0,4
+Hiroki Ito,Bayern München,0,0,0,0,0,0,0,0,4
 Anders Klynge,Bodø/Glimt,0,0,0,0,0,0,0,0,4
 Rayane Bounida,Ajax,0,0,0,0,0,0,0,0,4
 Eliesse Ben Seghir,Leverkusen,0,0,0,0,0,0,0,0,4
 Roony Bardghji,Barcelona,0,0,0,0,0,0,0,0,4
+Jorrel Hato,Chelsea,0,0,0,0,0,0,0,0,4
 Bilal Nadir,Marseille,0,0,0,0,0,0,0,0,4
-Piero Hincapié,Arsenal,0,0,0,0,0,0,0,0,4
+Romeo Lavia,Chelsea,0,0,0,0,0,0,0,0,4
 Jorne Spileers,Club Brugge,0,0,0,0,0,0,0,0,4
 Juan Foyth,Villarreal,0,0,0,0,0,0,0,0,4
 Ilias Akhomach,Villarreal,0,0,0,0,0,0,0,0,4
 Rico Lewis,Man City,0,0,0,0,0,0,0,0,4
+Zeno Debast,Sporting CP,0,0,0,0,0,0,0,0,4
 Bremer,Juventus,0,0,0,0,0,0,0,0,4
-Rayan Aït-Nouri,Man City,0,0,0,0,0,0,0,0,4
+Alphonso Davies,Bayern München,0,0,0,0,0,0,0,0,4
 Alexandr Shirobokov,Kairat Almaty,0,0,0,0,0,0,0,0,4
 Riccardo Calafiori,Arsenal,0,0,0,0,0,0,0,0,4
 Benoît Badiashile,Chelsea,0,0,0,0,0,0,0,0,4
 Kenneth Taylor,Ajax,0,0,0,0,0,0,0,0,4
-Josip Stanišić,Bayern München,0,0,0,0,0,0,0,0,4
+Aaron Ramsdale,Newcastle,0,0,0,0,0,0,0,0,4
 Angel Gomes,Marseille,0,0,0,0,0,0,0,0,4
-Giorgi Mamardashvili,Liverpool,0,0,0,0,0,0,0,0,4
+Daniel Bragança,Sporting CP,0,0,0,0,0,0,0,0,4
 Sofiane Boufal,Union SG,0,0,0,0,0,0,0,0,4
-Matvei Safonov,Paris,0,0,0,0,0,0,0,0,4
 Frank Anguissa,Napoli,0,0,0,0,0,0,0,0,4
 Dani Ceballos,Real Madrid,0,0,0,0,0,0,0,0,4
 Birger Meling,Copenhagen,0,0,0,0,0,0,0,0,4
 Martin Ødegaard,Arsenal,0,0,0,0,0,0,0,0,4
 Mahmoud Dahoud,Frankfurt,0,0,0,0,0,0,0,0,4
 Dodi Lukébakio,Benfica,0,0,0,0,0,0,0,0,4
-Tosin Adarabioyo,Chelsea,0,0,0,0,0,0,0,0,4
 John Stones,Man City,0,0,0,0,0,0,0,0,4
-Lucas Hernández,Paris,0,0,0,0,0,0,0,0,4
+Joe Gomez,Liverpool,0,0,0,0,0,0,0,0,4
 Tomáš Holeš,Slavia Praha,0,0,0,0,0,0,0,0,4
-Janis Blaswich,Leverkusen,0,0,0,0,0,0,0,0,4
 Andreas  Christensen,Barcelona,0,0,0,0,0,0,0,0,4
-Nathan Aké,Man City,0,0,0,0,0,0,0,0,4
 Kaan Ayhan,Galatasaray,0,0,0,0,0,0,0,0,4
 Geoffrey Kondogbia,Marseille,0,0,0,0,0,0,0,0,4
 Thomas Delaney,Copenhagen,0,0,0,0,0,0,0,0,4
 Mattia Perin,Juventus,0,0,0,0,0,0,0,0,4
+Wojciech Szczęsny,Barcelona,0,0,0,0,0,0,0,0,4
 Yuri Berchiche,Athletic Club,0,0,0,0,0,0,0,0,4
 Aarón Anselmino,B. Dortmund,0,0,0,0,0,0,0,0,3
 Stefan de Vrij,Inter,0,0,0,0,0,0,0,0,3
@@ -675,109 +693,110 @@ Sean Steur,Ajax,0,0,0,0,0,0,0,0,3
 Asier Hierro,Athletic Club,0,0,0,0,0,0,0,0,3
 Shandre Campbell,Club Brugge,0,0,0,0,0,0,0,0,3
 Kauã Santos,Frankfurt,0,0,0,0,0,0,0,0,3
+Rio Ngumoha,Liverpool,0,0,0,0,0,0,0,0,3
 George Ilenikhena,Monaco,0,0,0,0,0,0,0,0,3
 Facundo Buonanotte,Chelsea,0,0,0,0,0,0,0,0,3
-Giorgos Vagiannidis,Sporting CP,0,0,0,0,0,0,0,0,3
-Hiroki Ito,Bayern München,0,0,0,0,0,0,0,0,3
+Montrell Culbreath,Leverkusen,0,0,0,0,0,0,0,0,3
 Quentin Ndjantou,Paris,0,0,0,0,0,0,0,0,3
 Christian Mawissa,Monaco,0,0,0,0,0,0,0,0,3
 Ethan Nwaneri,Arsenal,0,0,0,0,0,0,0,0,3
 Oscar Højlund,Frankfurt,0,0,0,0,0,0,0,0,3
-Jorrel Hato,Chelsea,0,0,0,0,0,0,0,0,3
 Nico Williams,Athletic Club,0,0,0,0,0,0,0,0,3
 James McConnell,Ajax,0,0,0,0,0,0,0,0,3
-Ulrik Saltnes,Bodø/Glimt,0,0,0,0,0,0,0,0,3
-Exequiel Palacios,Leverkusen,0,0,0,0,0,0,0,0,3
-Zeno Debast,Sporting CP,0,0,0,0,0,0,0,0,3
+Jonas Urbig,Bayern München,0,0,0,0,0,0,0,0,3
+Mathys Tel,Tottenham,0,0,0,0,0,0,0,0,3
 Cisse Sandra,Club Brugge,0,0,0,0,0,0,0,0,3
 Lynnt Audoor,Club Brugge,0,0,0,0,0,0,0,0,3
+Giorgio Scalvini,Atalanta,0,0,0,0,0,0,0,0,3
 Oscar Bobb,Man City,0,0,0,0,0,0,0,0,3
 Lucas Rosa,Ajax,0,0,0,0,0,0,0,0,3
-Alphonso Davies,Bayern München,0,0,0,0,0,0,0,0,3
 Elye Wahi,Frankfurt,0,0,0,0,0,0,0,0,3
 Mathias Jørgensen,Bodø/Glimt,0,0,0,0,0,0,0,0,3
 Éder Militão,Real Madrid,0,0,0,0,0,0,0,0,3
 Krépin Diatta,Monaco,0,0,0,0,0,0,0,0,3
+Filip Jørgensen,Chelsea,0,0,0,0,0,0,0,0,3
 CJ Egan-Riley,Marseille,0,0,0,0,0,0,0,0,3
-Tino Livramento,Newcastle,0,0,0,0,0,0,0,0,3
 João Correia,Pafos,0,0,0,0,0,0,0,0,3
 Billy Gilmour,Napoli,0,0,0,0,0,0,0,0,3
 Arnau Tenas,Villarreal,0,0,0,0,0,0,0,0,3
 Amine Gouiri,Marseille,0,0,0,0,0,0,0,0,3
+Martin Terrier,Leverkusen,0,0,0,0,0,0,0,0,3
 Erik Prekop,Slavia Praha,0,0,0,0,0,0,0,0,3
-Rodri,Man City,0,0,0,0,0,0,0,0,3
 Iñaki Williams,Athletic Club,0,0,0,0,0,0,0,0,3
 Iñigo Lekue,Athletic Club,0,0,0,0,0,0,0,0,3
 Amir Rrahmani,Napoli,0,0,0,0,0,0,0,0,3
-Joe Gomez,Liverpool,0,0,0,0,0,0,0,0,3
 Fabian Schär,Newcastle,0,0,0,0,0,0,0,0,3
 Pascal Gross,B. Dortmund,0,0,0,0,0,0,0,0,3
-Antonio Rüdiger,Real Madrid,0,0,0,0,0,0,0,0,3
-Dani Carvajal,Real Madrid,0,0,0,0,0,0,0,0,3
 Ivan Schranz,Slavia Praha,0,0,0,0,0,0,0,0,3
 Kevin De Bruyne,Napoli,0,0,0,0,0,0,0,0,3
 Jan Bořil,Slavia Praha,0,0,0,0,0,0,0,0,3
 David Alaba,Real Madrid,0,0,0,0,0,0,0,0,3
-Wojciech Szczęsny,Barcelona,0,0,0,0,0,0,0,0,3
 Remko Pasveer,Ajax,0,0,0,0,0,0,0,0,2
 André Luiz,Olympiacos,0,0,0,0,0,0,0,0,2
+Souleymane Faye,Sporting CP,0,0,0,0,0,0,0,0,2
 Guilherme Smith,Union SG,0,0,0,0,0,0,0,0,2
 Sidny Lopes Cabral,Benfica,0,0,0,0,0,0,0,0,2
-Thiago Pitarch,Real Madrid,0,0,0,0,0,0,0,0,2
 Salvador Blopa,Sporting CP,0,0,0,0,0,0,0,0,2
 Azamat Tuyakbayev,Kairat Almaty,0,0,0,0,0,0,0,0,2
+Trey Nyoni,Liverpool,0,0,0,0,0,0,0,0,2
 Rodrigo Huescas,Copenhagen,0,0,0,0,0,0,0,0,2
 Zaid Romero,Club Brugge,0,0,0,0,0,0,0,0,2
-Rio Ngumoha,Liverpool,0,0,0,0,0,0,0,0,2
 Jun'Ai Byfield,Tottenham,0,0,0,0,0,0,0,0,2
 Hamed Traorè,Marseille,0,0,0,0,0,0,0,0,2
 Pape Cabral,Monaco,0,0,0,0,0,0,0,0,2
 Dro Fernández,Paris,0,0,0,0,0,0,0,0,2
 Aaron Bouwman,Ajax,0,0,0,0,0,0,0,0,2
 Sherhan Kalmurza,Kairat Almaty,0,0,0,0,0,0,0,0,2
-Montrell Culbreath,Leverkusen,0,0,0,0,0,0,0,0,2
+Xavi Espart,Barcelona,0,0,0,0,0,0,0,0,2
+Antoine Semenyo,Man City,0,0,0,0,0,0,0,0,2
 Mohammed Fuseini,Union SG,0,0,0,0,0,0,0,0,2
 Simon Adingra,Monaco,0,0,0,0,0,0,0,0,2
 Lucas Michal,Monaco,0,0,0,0,0,0,0,0,2
 João Rego,Benfica,0,0,0,0,0,0,0,0,2
-Romeo Lavia,Chelsea,0,0,0,0,0,0,0,0,2
 Jeanuël Belocian,Leverkusen,0,0,0,0,0,0,0,0,2
 Jay Gorter,Pafos,0,0,0,0,0,0,0,0,2
 Félix Lemarechal,Club Brugge,0,0,0,0,0,0,0,0,2
 Berkan Kutlu,Galatasaray,0,0,0,0,0,0,0,0,2
+Manuel Ángel,Real Madrid,0,0,0,0,0,0,0,0,2
+Juan Musso,Atleti,0,0,0,0,0,0,0,0,2
 Dane Scarlett,Tottenham,0,0,0,0,0,0,0,0,2
 Diogo Nascimento,Olympiacos,0,0,0,0,0,0,0,0,2
 Henrique Araújo,Benfica,0,0,0,0,0,0,0,0,2
-Giorgio Scalvini,Atalanta,0,0,0,0,0,0,0,0,2
 Lev Kurgin,Kairat Almaty,0,0,0,0,0,0,0,0,2
 Marco Brescianini,Atalanta,0,0,0,0,0,0,0,0,2
 Igoh Ogbu,Slavia Praha,0,0,0,0,0,0,0,0,2
-Filip Jørgensen,Chelsea,0,0,0,0,0,0,0,0,2
 Jakub Markovič,Slavia Praha,0,0,0,0,0,0,0,0,2
 João Mário,Juventus,0,0,0,0,0,0,0,0,2
-Aaron Ramsdale,Newcastle,0,0,0,0,0,0,0,0,2
+Ferland Mendy,Real Madrid,0,0,0,0,0,0,0,0,2
 Myron Boadu,PSV,0,0,0,0,0,0,0,0,2
-Daniel Bragança,Sporting CP,0,0,0,0,0,0,0,0,2
 Manor Solomon,Villarreal,0,0,0,0,0,0,0,0,2
+Andriy Lunin,Real Madrid,0,0,0,0,0,0,0,0,2
 Giorgi Kochorashvili,Sporting CP,0,0,0,0,0,0,0,0,2
+Marc Guéhi,Man City,0,0,0,0,0,0,0,0,2
+Marco Sportiello,Atalanta,0,0,0,0,0,0,0,0,2
 Ricardo Mangas,Sporting CP,0,0,0,0,0,0,0,0,2
 Nathan Tella,Leverkusen,0,0,0,0,0,0,0,0,2
 Gerard Moreno,Villarreal,0,0,0,0,0,0,0,0,2
 Ulisses Garcia,Marseille,0,0,0,0,0,0,0,0,2
 Wout Faes,Monaco,0,0,0,0,0,0,0,0,2
 Aurélio Buta,Frankfurt,0,0,0,0,0,0,0,0,2
+Nuno Santos,Sporting CP,0,0,0,0,0,0,0,0,2
+Jonas Hofmann,Leverkusen,0,0,0,0,0,0,0,0,2
 Brede Moe,Bodø/Glimt,0,0,0,0,0,0,0,0,2
 Clément Lenglet,Atleti,0,0,0,0,0,0,0,0,2
 Badavi Hüseynov,Qarabağ,0,0,0,0,0,0,0,0,2
 Michy Batshuayi,Frankfurt,0,0,0,0,0,0,0,0,2
 Aymeric Laporte,Athletic Club,0,0,0,0,0,0,0,0,2
 Daniele Rugani,Juventus,0,0,0,0,0,0,0,0,2
+João Cancelo,Barcelona,0,0,0,0,0,0,0,0,2
 Lukas Hrádecký,Monaco,0,0,0,0,0,0,0,0,2
 Matteo Darmian,Inter,0,0,0,0,0,0,0,0,2
 Clayton,Olympiacos,0,0,0,0,0,0,0,0,1
+Luis Guilherme,Sporting CP,0,0,0,0,0,0,0,0,1
 Diatta Alassane,Villarreal,0,0,0,0,0,0,0,0,1
 Sekou Keita,Union SG,0,0,0,0,0,0,0,0,1
 Tadjidine Mmadi,Marseille,0,0,0,0,0,0,0,0,1
+Filip Pavic,Bayern München,0,0,0,0,0,0,0,0,1
 Hugo López,Villarreal,0,0,0,0,0,0,0,0,1
 Daniel Budesca,Villarreal,0,0,0,0,0,0,0,0,1
 Marvin Dills,Frankfurt,0,0,0,0,0,0,0,0,1
@@ -791,7 +810,6 @@ Ibon Sanchez,Athletic Club,0,0,0,0,0,0,0,0,1
 Ramazan Bagdat,Kairat Almaty,0,0,0,0,0,0,0,0,1
 Wisdom Mike,Bayern München,0,0,0,0,0,0,0,0,1
 Amara Nallo,Liverpool,0,0,0,0,0,0,0,0,1
-Trey Nyoni,Liverpool,0,0,0,0,0,0,0,0,1
 Marli Salmon,Arsenal,0,0,0,0,0,0,0,0,1
 Andre Annous,Arsenal,0,0,0,0,0,0,0,0,1
 Jeremiah Mensah,Leverkusen,0,0,0,0,0,0,0,0,1
@@ -812,10 +830,12 @@ Mansur Birkurmanov,Kairat Almaty,0,0,0,0,0,0,0,0,1
 Samuel Nibombe,Monaco,0,0,0,0,0,0,0,0,1
 Arda Ünyay,Galatasaray,0,0,0,0,0,0,0,0,1
 Leo Shahar,Newcastle,0,0,0,0,0,0,0,0,1
+Deniz Ofli,Bayern München,0,0,0,0,0,0,0,0,1
 Kiliann Sildillia,PSV,0,0,0,0,0,0,0,0,1
 Kaye Furo,Club Brugge,0,0,0,0,0,0,0,0,1
 Oliver Højer,Copenhagen,0,0,0,0,0,0,0,0,1
 Rodrigo Rêgo,Benfica,0,0,0,0,0,0,0,0,1
+Callum Olusesi,Tottenham,0,0,0,0,0,0,0,0,1
 Gerald Alders,Ajax,0,0,0,0,0,0,0,0,1
 Don-Angelo Konadu,Ajax,0,0,0,0,0,0,0,0,1
 Daniel Meso,Real Madrid,0,0,0,0,0,0,0,0,1
@@ -827,31 +847,26 @@ Tiago Freitas,Benfica,0,0,0,0,0,0,0,0,1
 César Palacios,Real Madrid,0,0,0,0,0,0,0,0,1
 Max Alleyne,Man City,0,0,0,0,0,0,0,0,1
 Filippo Mane,B. Dortmund,0,0,0,0,0,0,0,0,1
+Mamadou Sarr,Chelsea,0,0,0,0,0,0,0,0,1
 Rodrigo Ribeiro,Sporting CP,0,0,0,0,0,0,0,0,1
 Stanis Idumbo,Monaco,0,0,0,0,0,0,0,0,1
-Jonas Urbig,Bayern München,0,0,0,0,0,0,0,0,1
 Giuseppe Ambrosino,Napoli,0,0,0,0,0,0,0,0,1
 Daniel Maldini,Atalanta,0,0,0,0,0,0,0,0,1
-Mathys Tel,Tottenham,0,0,0,0,0,0,0,0,1
 Magnus Riisnæs,Bodø/Glimt,0,0,0,0,0,0,0,0,1
-Juan Musso,Atleti,0,0,0,0,0,0,0,0,1
 Tristan van den Heuvel,Club Brugge,0,0,0,0,0,0,0,0,1
+Antonín Kinský,Tottenham,0,0,0,0,0,0,0,0,1
 Jessic Ngankam,Frankfurt,0,0,0,0,0,0,0,0,1
 Carlos Martín,Atleti,0,0,0,0,0,0,0,0,1
 Ahmed Kutucu,Galatasaray,0,0,0,0,0,0,0,0,1
+Radu Drăgușin,Tottenham,0,0,0,0,0,0,0,0,1
 James Trafford,Man City,0,0,0,0,0,0,0,0,1
-Ferland Mendy,Real Madrid,0,0,0,0,0,0,0,0,1
-Martin Terrier,Leverkusen,0,0,0,0,0,0,0,0,1
 Wataru Endo,Liverpool,0,0,0,0,0,0,0,0,1
 Gustaf Nilsson,Club Brugge,0,0,0,0,0,0,0,0,1
-Andriy Lunin,Real Madrid,0,0,0,0,0,0,0,0,1
 João Virginia,Sporting CP,0,0,0,0,0,0,0,0,1
-Marco Sportiello,Atalanta,0,0,0,0,0,0,0,0,1
 Samy Mmaee,Qarabağ,0,0,0,0,0,0,0,0,1
 Günay Güvenç,Galatasaray,0,0,0,0,0,0,0,0,1
 Jeremie Boga,Juventus,0,0,0,0,0,0,0,0,1
 Alex Meret,Napoli,0,0,0,0,0,0,0,0,1
-Jonas Hofmann,Leverkusen,0,0,0,0,0,0,0,0,1
 Roman Yaremchuk,Olympiacos,0,0,0,0,0,0,0,0,1
 Niklas Süle,B. Dortmund,0,0,0,0,0,0,0,0,1
 Kepa Arrizabalaga,Arsenal,0,0,0,0,0,0,0,0,1
@@ -862,6 +877,7 @@ Ben Davies,Tottenham,0,0,0,0,0,0,0,0,1
 Romelu Lukaku,Napoli,0,0,0,0,0,0,0,0,1
 John Ruddy,Newcastle,0,0,0,0,0,0,0,0,0
 Obed Vargas,Atleti,0,0,0,0,0,0,0,0,0
+Jannis Bärtl,Bayern München,0,0,0,0,0,0,0,0,0
 Ange Lago,Marseille,0,0,0,0,0,0,0,0,0
 Tynan Thompson,Tottenham,0,0,0,0,0,0,0,0,0
 Tye Hall,Tottenham,0,0,0,0,0,0,0,0,0
@@ -871,6 +887,7 @@ Hindrin Najah Chooly,Bodø/Glimt,0,0,0,0,0,0,0,0,0
 Rayan Ouro Bang Na,Marseille,0,0,0,0,0,0,0,0,0
 Eyüp Karasu,Galatasaray,0,0,0,0,0,0,0,0,0
 Anis Doubal,Marseille,0,0,0,0,0,0,0,0,0
+Leonard Prescott,Bayern München,0,0,0,0,0,0,0,0,0
 Abdellah Ouazane,Ajax,0,0,0,0,0,0,0,0,0
 Ander Izaguirre,Athletic Club,0,0,0,0,0,0,0,0,0
 Adrián Pérez,Athletic Club,0,0,0,0,0,0,0,0,0
@@ -907,6 +924,7 @@ Samuele Inacio,B. Dortmund,0,0,0,0,0,0,0,0,0
 Furkan Koçak,Galatasaray,0,0,0,0,0,0,0,0,0
 Tim Oermann,Leverkusen,0,0,0,0,0,0,0,0,0
 Rayan Lucas,Sporting CP,0,0,0,0,0,0,0,0,0
+Federico Cassa,Atalanta,0,0,0,0,0,0,0,0,0
 Daniel Banjaqui,Benfica,0,0,0,0,0,0,0,0,0
 Anísio Cabral,Benfica,0,0,0,0,0,0,0,0,0
 Ben Hawighorst,Leverkusen,0,0,0,0,0,0,0,0,0
@@ -930,10 +948,11 @@ Pedro Henrique Fontoura Caldierado,Pafos,0,0,0,0,0,0,0,0,0
 Joan Martínez,Real Madrid,0,0,0,0,0,0,0,0,0
 Dominik Sarapata,Copenhagen,0,0,0,0,0,0,0,0,0
 David Moreira,Sporting CP,0,0,0,0,0,0,0,0,0
+Khari Ranson,Arsenal,0,0,0,0,0,0,0,0,0
 Jack Porter,Arsenal,0,0,0,0,0,0,0,0,0
 Argyrios Liatsikouras,Olympiacos,0,0,0,0,0,0,0,0,0
 Eder Aller,Barcelona,0,0,0,0,0,0,0,0,0
-Xavi Espart,Barcelona,0,0,0,0,0,0,0,0,0
+Alvaro Cortes,Barcelona,0,0,0,0,0,0,0,0,0
 Georgios Kouraklis,Olympiacos,0,0,0,0,0,0,0,0,0
 Adam Harrison,Newcastle,0,0,0,0,0,0,0,0,0
 Aidan Harris,Newcastle,0,0,0,0,0,0,0,0,0
@@ -972,12 +991,13 @@ Jakub Kolísek,Slavia Praha,0,0,0,0,0,0,0,0,0
 Jonathan Moalem,Copenhagen,0,0,0,0,0,0,0,0,0
 Graham Ankamafio,Copenhagen,0,0,0,0,0,0,0,0,0
 Isak Sjong,Bodø/Glimt,0,0,0,0,0,0,0,0,0
-Mylo van de Lans,Ajax,0,0,0,0,0,0,0,0,0
+Mylo van der Lans,Ajax,0,0,0,0,0,0,0,0,0
 Joel van den Berg,PSV,0,0,0,0,0,0,0,0,0
 Leon Klanac,Bayern München,0,0,0,0,0,0,0,0,0
 Eduardo Felicíssimo,Sporting CP,0,0,0,0,0,0,0,0,0
 Matteo Fuscaldo,Juventus,0,0,0,0,0,0,0,0,0
 Gonçalo Oliveira,Benfica,0,0,0,0,0,0,0,0,0
+Shumaira Mheuka,Chelsea,0,0,0,0,0,0,0,0,0
 Samuel Pikolon,Slavia Praha,0,0,0,0,0,0,0,0,0
 Matteo Cocchi,Inter,0,0,0,0,0,0,0,0,0
 Kieran Morrison,Liverpool,0,0,0,0,0,0,0,0,0
@@ -988,13 +1008,11 @@ Argus Vanden Driessche,Club Brugge,0,0,0,0,0,0,0,0,0
 Oscar Buur,Copenhagen,0,0,0,0,0,0,0,0,0
 Elijah Gift,Athletic Club,0,0,0,0,0,0,0,0,0
 Mathis Clement,Marseille,0,0,0,0,0,0,0,0,0
-Rafael Nel,Sporting CP,0,0,0,0,0,0,0,0,0
 Diogo Ferreira,Benfica,0,0,0,0,0,0,0,0,0
 Leandro Santos,Benfica,0,0,0,0,0,0,0,0,0
 Luca Gunter,Tottenham,0,0,0,0,0,0,0,0,0
 Yusuf Akhamrich,Tottenham,0,0,0,0,0,0,0,0,0
 James Rowswell,Tottenham,0,0,0,0,0,0,0,0,0
-Callum Olusesi,Tottenham,0,0,0,0,0,0,0,0,0
 Daniel Moreno,Atleti,0,0,0,0,0,0,0,0,0
 Max Merrick,Chelsea,0,0,0,0,0,0,0,0,0
 Paul Reverson,Ajax,0,0,0,0,0,0,0,0,0
@@ -1019,6 +1037,7 @@ Julien Duranville,B. Dortmund,0,0,0,0,0,0,0,0,0
 Relja Obrić,Atalanta,0,0,0,0,0,0,0,0,0
 Vincent Manuba,Bayern München,0,0,0,0,0,0,0,0,0
 Almugera Kabar,B. Dortmund,0,0,0,0,0,0,0,0,0
+Gökdeniz Gürpüz,Galatasaray,0,0,0,0,0,0,0,0,0
 Eliáš Piták,Slavia Praha,0,0,0,0,0,0,0,0,0
 Joeri Heerkens,Ajax,0,0,0,0,0,0,0,0,0
 Francisco Silva,Sporting CP,0,0,0,0,0,0,0,0,0
@@ -1031,6 +1050,7 @@ Wellity Lucky,Liverpool,0,0,0,0,0,0,0,0,0
 Jayden Danns,Liverpool,0,0,0,0,0,0,0,0,0
 Ted Curd,Chelsea,0,0,0,0,0,0,0,0,0
 João Veloso,Benfica,0,0,0,0,0,0,0,0,0
+Teddy Sharman-Lowe,Chelsea,0,0,0,0,0,0,0,0,0
 Lucas Anjos,Sporting CP,0,0,0,0,0,0,0,0,0
 Tommy Setford,Arsenal,0,0,0,0,0,0,0,0,0
 Salvador Esquivel,Atleti,0,0,0,0,0,0,0,0,0
@@ -1053,13 +1073,12 @@ Silas Ostrzinski,B. Dortmund,0,0,0,0,0,0,0,0,0
 Niek Schiks,PSV,0,0,0,0,0,0,0,0,0
 Alexander Bah,Benfica,0,0,0,0,0,0,0,0,0
 Mario De Luis,Atleti,0,0,0,0,0,0,0,0,0
+Gavi,Barcelona,0,0,0,0,0,0,0,0,0
 Rafel Obrador,Benfica,0,0,0,0,0,0,0,0,0
-Manuel Ángel,Real Madrid,0,0,0,0,0,0,0,0,0
 Simone Scaglia,Juventus,0,0,0,0,0,0,0,0,0
 Diogo Prioste,Benfica,0,0,0,0,0,0,0,0,0
 Amin Ramazanov,Qarabağ,0,0,0,0,0,0,0,0,0
 ,,0,0,0,0,0,0,0,0,0
-Antonín Kinský,Tottenham,0,0,0,0,0,0,0,0,0
 Vic Chambaere,Union SG,0,0,0,0,0,0,0,0,0
 Athanasios Papadoudis,Pafos,0,0,0,0,0,0,0,0,0
 Yusuf Demir,Galatasaray,0,0,0,0,0,0,0,0,0
