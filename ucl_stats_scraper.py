@@ -96,9 +96,16 @@ def parse_player(entry):
         or team_info.get("name", "")
     )
 
+    # Player position
+    position = (
+        player_info.get("detailedFieldPosition")
+        or player_info.get("fieldPosition", "")
+    )
+
     return {
         "player_name":          name,
         "team":                 team_name,
+        "position":             position,
         "goals":                stats.get("goals",                                0),
         "goals_right_foot":     stats.get("goals_scored_with_right",              0),
         "goals_left_foot":      stats.get("goals_scored_with_left",               0),
@@ -202,6 +209,7 @@ def save_to_csv(players, filename):
     fieldnames = [
         "player_name",
         "team",
+        "position",
         "goals",
         "goals_right_foot",
         "goals_left_foot",
@@ -235,6 +243,6 @@ if players:
 else:
     print("\nNo players were scraped. Common causes:")
     print("1. seasonYear is wrong (currently: {})".format(SEASON_YEAR))
-    print("2. API returned 403 — copy full headers from DevTools")
-    print("3. Network/firewall issue")
+    print("2. API returned 403")
+    print("3. Network issue")
     sys.exit(1)
