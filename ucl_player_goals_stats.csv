@@ -1,1120 +1,1120 @@
-﻿player_name,team,position,goals,goals_right_foot,goals_left_foot,goals_head,goals_other,goals_inside_area,goals_outside_area,penalties_scored,matches_played
-Kylian Mbappé,Real Madrid,STRIKER,13,11,0,2,0,11,2,3,9
-Anthony Gordon,Newcastle,FORWARD,10,8,2,0,0,10,0,5,12
-Harry Kane,Bayern München,STRIKER,10,8,1,1,0,10,0,3,9
-Julián Alvarez,Atleti,UNKNOWN,8,6,2,0,0,8,0,2,11
-Erling Haaland,Man City,UNKNOWN,8,1,5,2,0,8,0,1,10
-Khvicha Kvaratskhelia,Paris,UNKNOWN,7,6,1,0,0,5,2,0,11
-Victor Osimhen,Galatasaray,STRIKER,7,5,1,1,0,7,0,3,10
-Vitinha,Paris,UNKNOWN,6,5,1,0,0,3,3,1,12
-Harvey Barnes,Newcastle,WINGER,6,4,2,0,0,6,0,0,12
-Gabriel Martinelli,Arsenal,WINGER,6,4,1,0,0,4,2,0,9
-Jens Petter Hauge,Bodø/Glimt,UNKNOWN,6,3,3,0,0,5,1,0,12
-Fermín López,Barcelona,CENTRAL_MIDFIELDER,6,3,3,0,0,5,1,0,9
-Vinícius Júnior,Real Madrid,UNKNOWN,5,4,1,0,0,5,0,1,12
-Gorka Guruzeta,Athletic Club,STRIKER,5,4,1,0,0,3,2,0,7
-Luis Suárez,Sporting CP,STRIKER,5,4,0,1,0,5,0,2,10
-Marcus Rashford,Barcelona,STRIKER,5,4,0,1,0,2,3,0,9
-Kasper Høgh,Bodø/Glimt,UNKNOWN,5,3,2,0,0,5,0,0,12
-Dominik Szoboszlai,Liverpool,CENTRAL_MIDFIELDER,5,3,2,0,0,3,2,1,10
-Camilo Duran,Qarabağ,UNKNOWN,5,2,3,0,0,5,0,0,10
-Folarin Balogun,Monaco,STRIKER,5,2,2,1,0,5,0,0,10
-Alexander Sørloth,Atleti,STRIKER,5,1,2,2,0,5,0,0,11
-Lamine Yamal,Barcelona,UNKNOWN,5,0,5,0,0,5,0,3,8
-Luis Díaz,Bayern München,CENTRAL_MIDFIELDER,4,4,0,0,0,4,0,0,8
-Marcos Llorente,Atleti,UNKNOWN,4,4,0,0,0,3,1,0,10
-Igor Paixão,Marseille,UNKNOWN,4,4,0,0,0,1,3,0,8
-Sondre Brunstad Fet,Bodø/Glimt,UNKNOWN,4,3,1,0,0,4,0,2,12
-Lautaro Martínez,Inter,STRIKER,4,3,1,0,0,4,0,0,8
-Randal Kolo Muani,Tottenham,UNKNOWN,4,3,0,1,0,4,0,0,9
-Viktor Gyökeres,Arsenal,UNKNOWN,4,3,0,0,1,3,1,0,8
-Robert Lewandowski,Barcelona,STRIKER,4,2,1,1,0,4,0,0,9
-Weston McKennie,Juventus,UNKNOWN,4,2,0,2,0,4,0,0,10
-Serhou Guirassy,B. Dortmund,STRIKER,4,2,0,2,0,4,0,0,10
-Alejandro Grimaldo,Leverkusen,FULL_BACK,4,1,3,0,0,3,1,0,12
-Francisco Trincão,Sporting CP,STRIKER,4,1,3,0,0,3,1,0,9
-Désiré Doué,Paris,UNKNOWN,4,1,3,0,0,3,1,0,8
-Lennart Karl,Bayern München,UNKNOWN,4,1,3,0,0,3,1,0,7
-Lazar Samardžić,Atalanta,UNKNOWN,4,0,3,1,0,3,1,2,10
-Patrik Schick,Leverkusen,STRIKER,4,0,1,3,0,4,0,0,9
-Scott McTominay,Napoli,DEFENSIVE_MIDFIELDER,4,0,0,3,1,4,0,0,8
-Enzo Fernández,Chelsea,UNKNOWN,3,3,0,0,0,3,0,2,10
-Nicolo Tresoldi,Club Brugge,UNKNOWN,3,3,0,0,0,3,0,0,10
-Leandro Andrade,Qarabağ,UNKNOWN,3,3,0,0,0,3,0,0,9
-Gelson Martins,Olympiacos,ATTACKING_MIDFIELDER,3,3,0,0,0,3,0,0,9
-Alisson Santos,Sporting CP,UNKNOWN,3,3,0,0,0,3,0,0,8
-Nicolas Jackson,Bayern München,UNKNOWN,3,3,0,0,0,3,0,0,8
-Ricardo Pepi,PSV,UNKNOWN,3,3,0,0,0,3,0,0,5
-Dominic Solanke,Tottenham,UNKNOWN,3,3,0,0,0,3,0,0,3
-Xavi Simons,Tottenham,UNKNOWN,3,3,0,0,0,2,1,2,10
-Rayan Cherki,Man City,UNKNOWN,3,3,0,0,0,2,1,0,8
-Pierre-Emerick Aubameyang,Marseille,STRIKER,3,3,0,0,0,2,1,0,8
-Ismael Saibari,PSV,ATTACKING_MIDFIELDER,3,3,0,0,0,1,2,0,7
-Felix Nmecha,B. Dortmund,MIDFIELDER,3,3,0,0,0,0,3,0,10
-Federico Valverde,Real Madrid,UNKNOWN,3,2,1,0,0,3,0,0,11
-Julian Brandt,B. Dortmund,WINGER,3,2,1,0,0,3,0,0,9
-Dušan Vlahović,Juventus,STRIKER,3,2,1,0,0,3,0,0,4
-Hugo Ekitiké,Liverpool,UNKNOWN,3,2,1,0,0,2,1,0,10
-Jordan Teze,Monaco,FULL_BACK,3,2,1,0,0,2,1,0,9
-João Pedro,Chelsea,UNKNOWN,3,2,1,0,0,2,1,0,8
-Anan Khalaili,Union SG,UNKNOWN,3,2,1,0,0,2,1,0,8
-Couhaib Driouech,PSV,UNKNOWN,3,2,1,0,0,2,1,0,7
-Oscar Gloukh,Ajax,CENTRAL_MIDFIELDER,3,2,1,0,0,1,2,0,8
-Estêvão,Chelsea,UNKNOWN,3,1,2,0,0,3,0,1,7
-Raphinha,Barcelona,WINGER,3,1,2,0,0,3,0,1,7
-Mason Greenwood,Marseille,STRIKER,3,1,2,0,0,3,0,0,8
-Rasmus Højlund,Napoli,UNKNOWN,3,1,1,1,0,3,0,0,7
-Gianluca Scamacca,Atalanta,UNKNOWN,3,1,0,2,0,3,0,0,10
-Mario Pašalić,Atalanta,CENTRAL_MIDFIELDER,3,1,0,2,0,3,0,0,9
-Viktor Daðason,Copenhagen,UNKNOWN,3,1,0,2,0,2,1,0,6
-Jordan Larsson,Copenhagen,UNKNOWN,3,0,3,0,0,3,0,1,8
-Michael Olise,Bayern München,UNKNOWN,3,0,3,0,0,2,1,0,9
-Karim Adeyemi,B. Dortmund,STRIKER,3,0,3,0,0,2,1,0,9
-Mohamed Salah,Liverpool,WINGER,3,0,3,0,0,1,2,0,9
-Noni Madueke,Arsenal,ATTACKING_MIDFIELDER,3,0,2,1,0,2,1,0,5
-Alexis Mac Allister,Liverpool,UNKNOWN,3,0,1,2,0,3,0,0,10
-Vangelis Pavlidis,Benfica,STRIKER,2,2,0,0,0,2,0,1,10
-Promise David,Union SG,UNKNOWN,2,2,0,0,0,2,0,1,7
-Aleksandar Stanković,Club Brugge,UNKNOWN,2,2,0,0,0,2,0,0,10
-Anthony Elanga,Newcastle,WINGER,2,2,0,0,0,2,0,0,10
-Marquinhos,Paris,CENTRE_BACK,2,2,0,0,0,2,0,0,10
-Pio Esposito,Inter,UNKNOWN,2,2,0,0,0,2,0,0,9
-Jonathan David,Juventus,ATTACKING_MIDFIELDER,2,2,0,0,0,2,0,0,9
-Serge Gnabry,Bayern München,WINGER,2,2,0,0,0,2,0,0,9
-Romeo Vermant,Club Brugge,UNKNOWN,2,2,0,0,0,2,0,0,8
-Guus Til,PSV,CENTRAL_MIDFIELDER,2,2,0,0,0,2,0,0,8
-Ferran Torres,Barcelona,WINGER,2,2,0,0,0,2,0,0,8
-Ousmane Dembélé,Paris,UNKNOWN,2,2,0,0,0,2,0,0,8
-Federico Gatti,Juventus,UNKNOWN,2,2,0,0,0,2,0,0,5
-Jamal Musiala,Bayern München,UNKNOWN,2,2,0,0,0,2,0,0,2
-Aleix García,Leverkusen,UNKNOWN,2,2,0,0,0,1,1,1,12
-Kasper Dolberg,Ajax,FORWARD,2,2,0,0,0,1,1,1,5
-Malik Tillman,Leverkusen,UNKNOWN,2,2,0,0,0,1,1,0,10
-Robert Navarro,Athletic Club,ATTACKING_MIDFIELDER,2,2,0,0,0,1,1,0,7
-Mislav Oršić,Pafos,WINGER,2,2,0,0,0,0,2,0,8
-Bradley Barcola,Paris,UNKNOWN,2,1,1,0,0,2,0,0,12
-Ole Didrik Blomberg,Bodø/Glimt,UNKNOWN,2,1,1,0,0,2,0,0,10
-Noa Lang,Galatasaray,WINGER,2,1,1,0,0,2,0,0,10
-Teun Koopmeiners,Juventus,CENTRAL_MIDFIELDER,2,1,1,0,0,2,0,0,10
-Mamadou Diakhon,Club Brugge,UNKNOWN,2,1,1,0,0,2,0,0,9
-Christos Tzolis,Club Brugge,WINGER,2,1,1,0,0,2,0,0,9
-Cody Gakpo,Liverpool,WINGER,2,1,1,0,0,2,0,0,9
-Ansgar Knauff,Frankfurt,UNKNOWN,2,1,1,0,0,2,0,0,8
-Charles De Ketelaere,Atalanta,CENTRAL_MIDFIELDER,2,1,1,0,0,2,0,0,8
-Jude Bellingham,Real Madrid,UNKNOWN,2,1,1,0,0,2,0,0,7
-Raphael Onyedika,Club Brugge,UNKNOWN,2,1,1,0,0,2,0,0,6
-Dennis Man,PSV,STRIKER,2,1,1,0,0,1,1,0,8
-Willian Pacho,Paris,UNKNOWN,2,1,0,1,0,2,0,0,12
-Mehdi Taremi,Olympiacos,STRIKER,2,1,0,1,0,2,0,0,10
-Joelinton,Newcastle,STRIKER,2,1,0,1,0,2,0,0,10
-Andreas Schjelderup,Benfica,UNKNOWN,2,1,0,1,0,2,0,0,7
-Gabriel Jesus,Arsenal,STRIKER,2,1,0,1,0,2,0,0,4
-Moises Caicedo,Chelsea,UNKNOWN,2,1,0,1,0,1,1,0,10
-Robert,Copenhagen,UNKNOWN,2,1,0,1,0,1,1,0,6
-Hans Vanaken,Club Brugge,ATTACKING_MIDFIELDER,2,1,0,0,1,2,0,0,10
-Ramy Bensebaini,B. Dortmund,CENTRE_BACK,2,0,2,0,0,2,0,2,9
-Bukayo Saka,Arsenal,WINGER,2,0,2,0,0,2,0,1,8
-Kai Havertz,Arsenal,STRIKER,2,0,2,0,0,2,0,1,3
-Nuno Mendes,Paris,FULL_BACK,2,0,2,0,0,2,0,0,12
-Antoine Griezmann,Atleti,STRIKER,2,0,2,0,0,2,0,0,11
-Elvin Jafarguliyev,Qarabağ,CENTRAL_MIDFIELDER,2,0,2,0,0,2,0,0,10
-Gonçalo Ramos,Paris,STRIKER,2,0,2,0,0,2,0,0,10
-Maximiliano Araújo,Sporting CP,UNKNOWN,2,0,2,0,0,2,0,0,9
-Senny Mayulu,Paris,UNKNOWN,2,0,2,0,0,2,0,0,9
-Carlos Forbs,Club Brugge,UNKNOWN,2,0,2,0,0,2,0,0,9
-Yunus Akgün,Galatasaray,CENTRAL_MIDFIELDER,2,0,2,0,0,2,0,0,9
-Youssoupha Mbodji,Slavia Praha,UNKNOWN,2,0,2,0,0,2,0,0,7
-Geovany Quenda,Sporting CP,UNKNOWN,2,0,2,0,0,2,0,0,5
-Can Uzun,Frankfurt,UNKNOWN,2,0,2,0,0,2,0,0,5
-Denzel Dumfries,Inter,FULL_BACK,2,0,2,0,0,2,0,0,5
-Tani Oluwaseyi,Villarreal,MIDFIELDER,2,0,2,0,0,1,1,0,7
-Phil Foden,Man City,UNKNOWN,2,0,2,0,0,0,2,0,7
-Ayoub El Kaabi,Olympiacos,UNKNOWN,2,0,1,1,0,2,0,1,10
-Robin Le Normand,Atleti,CENTRE_BACK,2,0,1,1,0,2,0,0,10
-Dávid Hancko,Atleti,CENTRE_BACK,2,0,1,1,0,2,0,0,10
-Daniel Svensson,B. Dortmund,UNKNOWN,2,0,1,1,0,2,0,0,9
-Micky van de Ven,Tottenham,UNKNOWN,2,0,1,1,0,2,0,0,8
-Mikel Merino,Arsenal,CENTRAL_MIDFIELDER,2,0,1,1,0,2,0,0,7
-Jonathan Burkardt,Frankfurt,UNKNOWN,2,0,1,1,0,2,0,0,5
-Ademola Lookman,Atleti,WINGER,2,0,1,0,1,2,0,0,11
-Leandro Barreiro,Benfica,UNKNOWN,2,0,1,0,0,2,0,0,9
-Giuliano Simeone,Atleti,UNKNOWN,2,0,0,2,0,2,0,0,11
-Virgil van Dijk,Liverpool,CENTRE_BACK,2,0,0,2,0,2,0,0,10
-Marcus Thuram,Inter,WINGER,2,0,0,2,0,2,0,0,9
-Jules Koundé,Barcelona,CENTRE_BACK,2,0,0,2,0,2,0,0,8
-Manuel Locatelli,Juventus,DEFENSIVE_MIDFIELDER,1,1,0,0,0,1,0,1,9
-Fares Chaibi,Frankfurt,UNKNOWN,1,1,0,0,0,1,0,1,8
-Jorginho,Kairat Almaty,UNKNOWN,1,1,0,0,0,1,0,1,8
-Ivan Perišić,PSV,WINGER,1,1,0,0,0,1,0,1,8
-Hakan Çalhanoğlu,Inter,ATTACKING_MIDFIELDER,1,1,0,0,0,1,0,1,6
-Mohammed Kudus,Tottenham,ATTACKING_MIDFIELDER,1,1,0,0,0,1,0,1,5
-Wout Weghorst,Ajax,STRIKER,1,1,0,0,0,1,0,1,5
-Eric Dier,Monaco,DEFENSIVE_MIDFIELDER,1,1,0,0,0,1,0,1,3
-Fredrik Sjøvold,Bodø/Glimt,UNKNOWN,1,1,0,0,0,1,0,0,12
-Barış Alper Yılmaz,Galatasaray,UNKNOWN,1,1,0,0,0,1,0,0,12
-Håkon Evjen,Bodø/Glimt,CENTRAL_MIDFIELDER,1,1,0,0,0,1,0,0,12
-Aurélien Tchouaméni,Real Madrid,CENTRAL_MIDFIELDER,1,1,0,0,0,1,0,0,12
-Nikola Krstović,Atalanta,STRIKER,1,1,0,0,0,1,0,0,12
-Christian Kofane,Leverkusen,UNKNOWN,1,1,0,0,0,1,0,0,11
-Sandro Tonali,Newcastle,DEFENSIVE_MIDFIELDER,1,1,0,0,0,1,0,0,11
-Matheus Silva,Qarabağ,UNKNOWN,1,1,0,0,0,1,0,0,10
-Brahim Díaz,Real Madrid,ATTACKING_MIDFIELDER,1,1,0,0,0,1,0,0,10
-Jonathan Tah,Bayern München,CENTRE_BACK,1,1,0,0,0,1,0,0,10
-Piotr Zieliński,Inter,ATTACKING_MIDFIELDER,1,1,0,0,0,1,0,0,10
-Éderson,Atalanta,UNKNOWN,1,1,0,0,0,1,0,0,9
-João Neves,Paris,UNKNOWN,1,1,0,0,0,1,0,0,9
-Maximilian Beier,B. Dortmund,STRIKER,1,1,0,0,0,1,0,0,9
-Fábio Silva,B. Dortmund,STRIKER,1,1,0,0,0,1,0,0,9
-Khephren Thuram,Juventus,DEFENSIVE_MIDFIELDER,1,1,0,0,0,1,0,0,9
-Alessandro Bastoni,Inter,CENTRE_BACK,1,1,0,0,0,1,0,0,9
-Achraf Hakimi,Paris,WINGER,1,1,0,0,0,1,0,0,9
-Bahlul Mustafazade,Qarabağ,UNKNOWN,1,1,0,0,0,1,0,0,9
-Pedro Porro,Tottenham,FULL_BACK,1,1,0,0,0,1,0,0,9
-Richard Ríos,Benfica,UNKNOWN,1,1,0,0,0,1,0,0,8
-Štěpán Chaloupek,Slavia Praha,UNKNOWN,1,1,0,0,0,1,0,0,8
-Kevin Mac Allister,Union SG,UNKNOWN,1,1,0,0,0,1,0,0,8
-Nico O’Reilly,Man City,UNKNOWN,1,1,0,0,0,1,0,0,8
-Cristian Romero,Tottenham,UNKNOWN,1,1,0,0,0,1,0,0,8
-Conor Gallagher,Tottenham,UNKNOWN,1,1,0,0,0,1,0,0,8
-Loïs Openda,Juventus,STRIKER,1,1,0,0,0,1,0,0,8
-João Palhinha,Tottenham,DEFENSIVE_MIDFIELDER,1,1,0,0,0,1,0,0,8
-Franco Mastantuono,Real Madrid,UNKNOWN,1,1,0,0,0,1,0,0,7
-Edmilson,Kairat Almaty,UNKNOWN,1,1,0,0,0,1,0,0,7
-Anton Gaaei,Ajax,UNKNOWN,1,1,0,0,0,1,0,0,7
-Yan Couto,B. Dortmund,UNKNOWN,1,1,0,0,0,1,0,0,7
-Georges Mikautadze,Villarreal,FORWARD,1,1,0,0,0,1,0,0,7
-Wilson Odobert,Tottenham,UNKNOWN,1,1,0,0,0,1,0,0,7
-Sacha Boey,Galatasaray,FULL_BACK,1,1,0,0,0,1,0,0,7
-Malo Gusto,Chelsea,UNKNOWN,1,1,0,0,0,1,0,0,7
-Elias Achouri,Copenhagen,WINGER,1,1,0,0,0,1,0,0,7
-Bruno,Pafos,UNKNOWN,1,1,0,0,0,1,0,0,7
-Anouar Ait El Hadj,Union SG,MIDFIELDER,1,1,0,0,0,1,0,0,7
-Vasil Kušej,Slavia Praha,UNKNOWN,1,1,0,0,0,1,0,0,7
-Timothy Weah,Marseille,STRIKER,1,1,0,0,0,1,0,0,7
-Mohamed Elyounoussi,Copenhagen,WINGER,1,1,0,0,0,1,0,0,7
-Marc Bernal,Barcelona,UNKNOWN,1,1,0,0,0,1,0,0,6
-Oihan Sancet,Athletic Club,UNKNOWN,1,1,0,0,0,1,0,0,6
-Leandro Trossard,Arsenal,WINGER,1,1,0,0,0,1,0,0,6
-Rodrygo,Real Madrid,WINGER,1,1,0,0,0,1,0,0,5
-Liam Delap,Chelsea,UNKNOWN,1,1,0,0,0,1,0,0,5
-Federico Chiesa,Liverpool,ATTACKING_MIDFIELDER,1,1,0,0,0,1,0,0,5
-Takumi Minamino,Monaco,STRIKER,1,1,0,0,0,1,0,0,5
-Oliver Edvardsen,Ajax,UNKNOWN,1,1,0,0,0,1,0,0,4
-Rasmus Kristensen,Frankfurt,FULL_BACK,1,1,0,0,0,1,0,0,4
-Daniel Bassi,Bodø/Glimt,UNKNOWN,1,1,0,0,0,1,0,0,3
-Rafa Silva,Benfica,STRIKER,1,1,0,0,0,1,0,0,2
-Ruben van Bommel,PSV,UNKNOWN,1,1,0,0,0,1,0,0,1
-Rafael Nel,Sporting CP,FORWARD,1,1,0,0,0,1,0,0,1
-Marc Guiu,Chelsea,UNKNOWN,1,1,0,0,0,1,0,0,1
-Emmanuel Addai,Qarabağ,UNKNOWN,1,1,0,0,0,0,1,0,10
-Kenan Yıldız,Juventus,UNKNOWN,1,1,0,0,0,0,1,0,10
-Petar Sučić,Inter,UNKNOWN,1,1,0,0,0,0,1,0,10
-Chiquinho,Olympiacos,ATTACKING_MIDFIELDER,1,1,0,0,0,0,1,0,10
-Davide Zappacosta,Atalanta,FULL_BACK,1,1,0,0,0,0,1,0,10
-Florian Wirtz,Liverpool,WINGER,1,1,0,0,0,0,1,0,9
-Eberechi Eze,Arsenal,UNKNOWN,1,1,0,0,0,0,1,0,9
-Declan Rice,Arsenal,MIDFIELDER,1,1,0,0,0,0,1,0,8
-Dani Olmo,Barcelona,WINGER,1,1,0,0,0,0,1,0,8
-Johnny Cardoso,Atleti,UNKNOWN,1,1,0,0,0,0,1,0,7
-Adilet Sadybekov,Kairat Almaty,UNKNOWN,1,1,0,0,0,0,1,0,5
-Brennan Johnson,Tottenham,MIDFIELDER,1,1,0,0,0,0,1,0,4
-Marko Janković,Qarabağ,WINGER,1,0,1,0,0,1,0,1,9
-Gabriel Sara,Galatasaray,UNKNOWN,1,0,1,0,0,1,0,0,12
-Maghnes Akliouche,Monaco,UNKNOWN,1,0,1,0,0,1,0,0,10
-Nick Woltemade,Newcastle,UNKNOWN,1,0,1,0,0,1,0,0,10
-Abdellah Zoubir,Qarabağ,CENTRAL_MIDFIELDER,1,0,1,0,0,1,0,0,10
-Geny Catamo,Sporting CP,UNKNOWN,1,0,1,0,0,1,0,0,9
-Alejandro Garnacho,Chelsea,UNKNOWN,1,0,1,0,0,1,0,0,9
-Samuel Dahl,Benfica,UNKNOWN,1,0,1,0,0,1,0,0,9
-Francisco Conceição,Juventus,UNKNOWN,1,0,1,0,0,1,0,0,9
-Jeremy Doku,Man City,STRIKER,1,0,1,0,0,1,0,0,9
-Ryan Gravenberch,Liverpool,CENTRAL_MIDFIELDER,1,0,1,0,0,1,0,0,9
-Waldemar Anton,B. Dortmund,UNKNOWN,1,0,1,0,0,1,0,0,9
-Carney Chukwuemeka,B. Dortmund,UNKNOWN,1,0,1,0,0,1,0,0,8
-Olexiy Kashchuk,Qarabağ,UNKNOWN,1,0,1,0,0,1,0,0,8
-Anderson,Pafos,UNKNOWN,1,0,1,0,0,1,0,0,7
-Raphaël Guerreiro,Bayern München,FULL_BACK,1,0,1,0,0,1,0,0,7
-Pedro Gonçalves,Sporting CP,UNKNOWN,1,0,1,0,0,1,0,0,6
-Fabián Ruiz,Paris,CENTRAL_MIDFIELDER,1,0,1,0,0,1,0,0,6
-Josip Stanišić,Bayern München,UNKNOWN,1,0,1,0,0,1,0,0,6
-Andy Robertson,Liverpool,UNKNOWN,1,0,1,0,0,1,0,0,6
-Dastan Satpayev,Kairat Almaty,UNKNOWN,1,0,1,0,0,1,0,0,5
-Nico Serrano,Athletic Club,UNKNOWN,1,0,1,0,0,1,0,0,5
-Ansu Fati,Monaco,UNKNOWN,1,0,1,0,0,1,0,0,5
-Yoane Wissa,Newcastle,FORWARD,1,0,1,0,0,1,0,0,4
-Tyrique George,Chelsea,UNKNOWN,1,0,1,0,0,1,0,0,4
-Antonio Vergara,Napoli,FORWARD,1,0,1,0,0,1,0,0,4
-Olzhas Baibek,Kairat Almaty,UNKNOWN,1,0,1,0,0,1,0,0,4
-Andy Diouf,Inter,UNKNOWN,1,0,1,0,0,1,0,0,4
-Cole Palmer,Chelsea,UNKNOWN,1,0,1,0,0,1,0,0,4
-Giacomo Raspadori,Atalanta,UNKNOWN,1,0,1,0,0,1,0,0,3
-Andreas Cornelius,Copenhagen,STRIKER,1,0,1,0,0,1,0,0,3
-Jacob Murphy,Newcastle,UNKNOWN,1,0,1,0,0,0,1,0,9
-Federico Dimarco,Inter,UNKNOWN,1,0,1,0,0,0,1,0,9
-Vlad Dragomir,Pafos,CENTRAL_MIDFIELDER,1,0,1,0,0,0,1,0,8
-Carlos Augusto,Inter,UNKNOWN,1,0,1,0,0,0,1,0,7
-Andreas Helmersen,Bodø/Glimt,STRIKER,1,0,0,1,0,1,0,0,12
-Dan Burn,Newcastle,UNKNOWN,1,0,0,1,0,1,0,0,11
-Malick Thiaw,Newcastle,UNKNOWN,1,0,0,1,0,1,0,0,11
-Joel Ordoñez,Club Brugge,UNKNOWN,1,0,0,1,0,1,0,0,10
-Eduardo Camavinga,Real Madrid,DEFENSIVE_MIDFIELDER,1,0,0,1,0,1,0,0,10
-Anatoliy Trubin,Benfica,GOALKEEPER,1,0,0,1,0,1,0,0,10
-Brandon Mechele,Club Brugge,CENTRE_BACK,1,0,0,1,0,1,0,0,10
-Santiago Hezze,Olympiacos,UNKNOWN,1,0,0,1,0,1,0,0,9
-Enzo Barrenechea,Benfica,UNKNOWN,1,0,0,1,0,1,0,0,9
-Gonçalo Inácio,Sporting CP,CENTRE_BACK,1,0,0,1,0,1,0,0,9
-Mario Lemina,Galatasaray,UNKNOWN,1,0,0,1,0,1,0,0,9
-Lloyd Kelly,Juventus,UNKNOWN,1,0,0,1,0,1,0,0,9
-Haitam Aleesami,Bodø/Glimt,UNKNOWN,1,0,0,1,0,1,0,0,9
-Joe Willock,Newcastle,CENTRAL_MIDFIELDER,1,0,0,1,0,1,0,0,9
-Robert Andrich,Leverkusen,MIDFIELDER,1,0,0,1,0,1,0,0,9
-Ricardinho,Kairat Almaty,UNKNOWN,1,0,0,1,0,1,0,0,8
-Renato Veiga,Villarreal,UNKNOWN,1,0,0,1,0,1,0,0,8
-Sven Botman,Newcastle,CENTRE_BACK,1,0,0,1,0,1,0,0,8
-Ibrahima Konaté,Liverpool,CENTRE_BACK,1,0,0,1,0,1,0,0,8
-Derrick Luckassen,Pafos,FULL_BACK,1,0,0,1,0,1,0,0,8
-Bernardo Silva,Man City,ATTACKING_MIDFIELDER,1,0,0,1,0,1,0,0,8
-Lewis Miley,Newcastle,UNKNOWN,1,0,0,1,0,1,0,0,7
-Ousmane Diomande,Sporting CP,UNKNOWN,1,0,0,1,0,1,0,0,7
-Gabriel,Arsenal,CENTRE_BACK,1,0,0,1,0,1,0,0,7
-Richarlison,Tottenham,UNKNOWN,1,0,0,1,0,1,0,0,7
-Costinha,Olympiacos,UNKNOWN,1,0,0,1,0,1,0,0,7
-Jurriën Timber,Arsenal,FULL_BACK,1,0,0,1,0,1,0,0,7
-David Luiz,Pafos,CENTRE_BACK,1,0,0,1,0,1,0,0,7
-Ross Sykes,Union SG,UNKNOWN,1,0,0,1,0,1,0,0,6
-José María Giménez,Atleti,CENTRE_BACK,1,0,0,1,0,1,0,0,6
-Ofri Arad,Kairat Almaty,UNKNOWN,1,0,0,1,0,1,0,0,4
-Davinson Sánchez,Galatasaray,CENTRE_BACK,1,0,0,0,1,1,0,0,11
-Santiago Comesaña,Villarreal,UNKNOWN,1,0,0,0,1,1,0,0,8
-Ibrahim Maza,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,12
-Odin Bjørtuft,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,12
-Arda Güler,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,12
-Warren Zaïre-Emery,Paris,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,12
-Nikita Haikin,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,12
-Ernest Poku,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,12
-Lucas Torreira,Galatasaray,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,12
-Ismail Jakobs,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,12
-Uğurcan Çakır,Galatasaray,GOALKEEPER,0,0,0,0,0,0,0,0,12
-Patrick Berg,Bodø/Glimt,MIDFIELDER,0,0,0,0,0,0,0,0,12
-Roland Sallai,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,12
-Marten de Roon,Atalanta,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,12
-Koke,Atleti,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,12
-Jarell Quansah,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,11
-Matteo Ruggeri,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,11
-Abdülkerim Bardakcı,Galatasaray,CENTRE_BACK,0,0,0,0,0,0,0,0,11
-Thibaut Courtois,Real Madrid,GOALKEEPER,0,0,0,0,0,0,0,0,11
-Yann Sommer,Inter,GOALKEEPER,0,0,0,0,0,0,0,0,10
-Pedro Bicalho,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,10
-Gerard Martín,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,10
-Francisco Ortega,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,10
-Guglielmo Vicario,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,10
-Ange-Yoan Bonny,Inter,UNKNOWN,0,0,0,0,0,0,0,0,10
-Christos Mouzakitis,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,10
-Djed Spence,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,10
-Jobe Bellingham,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,10
-Aleksandar Pavlović,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,10
-Eren Elmalı,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,10
-Kevin Medina,Qarabağ,CENTRE_BACK,0,0,0,0,0,0,0,0,10
-Lewis Hall,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,10
-Isak Dybvik Määttä,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,10
-Lorenzo Bernasconi,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,10
-Odilon Kossounou,Atalanta,CENTRE_BACK,0,0,0,0,0,0,0,0,10
-Sondre Auklend,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,10
-Amar Dedić,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,10
-Lorenzo Pirola,Olympiacos,FULL_BACK,0,0,0,0,0,0,0,0,10
-Pierre Kalulu,Juventus,FULL_BACK,0,0,0,0,0,0,0,0,10
-Tijjani Reijnders,Man City,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,10
-Edmond Tapsoba,Leverkusen,CENTRE_BACK,0,0,0,0,0,0,0,0,10
-Marco Carnesecchi,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,10
-Fredrik André Bjørkan,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,10
-Mateusz Kochalski,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,10
-Manuel Akanji,Inter,UNKNOWN,0,0,0,0,0,0,0,0,10
-Mauro Icardi,Galatasaray,STRIKER,0,0,0,0,0,0,0,0,10
-Gregor Kobel,B. Dortmund,GOALKEEPER,0,0,0,0,0,0,0,0,10
-Leroy Sané,Galatasaray,WINGER,0,0,0,0,0,0,0,0,10
-Fredrik Aursnes,Benfica,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,10
-Berat Djimsiti,Atalanta,FULL_BACK,0,0,0,0,0,0,0,0,10
-Nicolás Otamendi,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,10
-Jan Oblak,Atleti,GOALKEEPER,0,0,0,0,0,0,0,0,10
-Equi Fernández,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,9
-Honest Ahanor,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,9
-Kamaldeen Sulemana,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,9
-Iván Fresneda,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,9
-Mamadou Coulibaly,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,9
-Pau Cubarsí,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,9
-Pape Sarr,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,9
-Isak Hien,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,9
-Nahuel Molina,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,9
-David Raya,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,9
-Tom Bischof,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,9
-Joaquin Seys,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,9
-Andrea Cambiaso,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,9
-Jacob Ramsey,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,9
-Hidemasa Morita,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,9
-Pablo Barrios,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,9
-Kyriani Sabbe,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,9
-Nicolás González,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,9
-Kostas Tzolakis,Olympiacos,GOALKEEPER,0,0,0,0,0,0,0,0,9
-Kang-in Lee,Paris,STRIKER,0,0,0,0,0,0,0,0,9
-Georgiy Sudakov,Benfica,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,9
-Tomás Araújo,Benfica,CENTRE_BACK,0,0,0,0,0,0,0,0,9
-Jostein Gundersen,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,9
-Álex Baena,Atleti,WINGER,0,0,0,0,0,0,0,0,9
-Eric García,Barcelona,CENTRE_BACK,0,0,0,0,0,0,0,0,9
-Morten Hjulmand,Sporting CP,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,9
-Caio Henrique,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,9
-Julian Ryerson,B. Dortmund,DEFENDER,0,0,0,0,0,0,0,0,9
-Raoul Bellanova,Atalanta,FULL_BACK,0,0,0,0,0,0,0,0,9
-Gianluigi Donnarumma,Man City,GOALKEEPER,0,0,0,0,0,0,0,0,9
-Panagiotis Retsos,Olympiacos,CENTRE_BACK,0,0,0,0,0,0,0,0,9
-Marc Cucurella,Chelsea,FULL_BACK,0,0,0,0,0,0,0,0,9
-Joshua Kimmich,Bayern München,CENTRE_BACK,0,0,0,0,0,0,0,0,9
-Rui Silva,Sporting CP,GOALKEEPER,0,0,0,0,0,0,0,0,9
-Thilo Kehrer,Monaco,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,9
-Kieran Trippier,Newcastle,FULL_BACK,0,0,0,0,0,0,0,0,9
-Sergi Cardona,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,8
-Alejandro Rego,Athletic Club,MIDFIELDER,0,0,0,0,0,0,0,0,8
-Gabriel Pereira,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,8
-Dean Huijsen,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,8
-Marc Pubill,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,8
-Nathaniel Brown,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,8
-Arthur,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,8
-Rodinei ,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,8
-Adem Zorgane,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,8
-Myles Lewis-Skelly,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,8
-João Simões,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,8
-Christian Burgess,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,8
-Jerdy Schouten,PSV,UNKNOWN,0,0,0,0,0,0,0,0,8
-Archie Gray,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,8
-Vanderson,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,8
-Mika Biereth,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,8
-Alexandr Mrynskiy,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,8
-Jean-Matteo Bahoya,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,8
-Yerkin Tapalov,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,8
-Loïc Badé,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,8
-Ben White,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,8
-Robert Sánchez,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,8
-Mika Godts,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,8
-Álvaro Carreras,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,8
-Raúl Asencio,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,8
-Martin Zubimendi,Arsenal,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Omar Marmoush,Man City,STRIKER,0,0,0,0,0,0,0,0,8
-Kamiel Van De Perre,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,8
-Ronald Araújo,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,8
-Youri Regeer,Ajax,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Youri Baas,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,8
-Arthur Theate,Frankfurt,CENTRE_BACK,0,0,0,0,0,0,0,0,8
-Robin Koch,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,8
-Damir Kassabulat,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,8
-David Zima,Slavia Praha,CENTRE_BACK,0,0,0,0,0,0,0,0,8
-Nico González,Man City,UNKNOWN,0,0,0,0,0,0,0,0,8
-Kjell Scherpen,Union SG,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Marcos Lopez,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,8
-Ellyes Skhiri,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,8
-Nick Pope,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,8
-Matěj Kovář,PSV,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Reece James,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,8
-Toral Bayramov,Qarabağ,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Pedro Neto,Chelsea,WINGER,0,0,0,0,0,0,0,0,8
-Nicolas Pépé,Villarreal,WINGER,0,0,0,0,0,0,0,0,8
-Joey Veerman,PSV,UNKNOWN,0,0,0,0,0,0,0,0,8
-Dominik Kotarski,Copenhagen,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Philipp Köhn,Monaco,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Valeri Gromyko,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,8
-Dani García,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,8
-Egor Sorokin,Kairat Almaty,CENTRE_BACK,0,0,0,0,0,0,0,0,8
-Kevin Danso,Tottenham,DEFENDER,0,0,0,0,0,0,0,0,8
-Dayot Upamecano,Bayern München,CENTRE_BACK,0,0,0,0,0,0,0,0,8
-Michal Sadílek,Slavia Praha,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Trevoh Chalobah,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,8
-Unai Simón,Athletic Club,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Daniel Podence,Olympiacos,WINGER,0,0,0,0,0,0,0,0,8
-Gerónimo Rulli,Marseille,GOALKEEPER,0,0,0,0,0,0,0,0,8
-Nicolò Barella,Inter,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Pêpê,Pafos,WINGER,0,0,0,0,0,0,0,0,8
-Lukáš Provod,Slavia Praha,WINGER,0,0,0,0,0,0,0,0,8
-Leon Goretzka,Bayern München,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Pierre-Emile Højbjerg,Marseille,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Viktor Claesson,Copenhagen,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Davy Klaassen,Ajax,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,8
-İlkay Gündoğan,Galatasaray,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,8
-Manuel Neuer,Bayern München,GOALKEEPER,0,0,0,0,0,0,0,0,7
-Frenkie de Jong,Barcelona,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Junnosuke Suzuki,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,7
-Dani Bolt,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,7
-Bruno Langa,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,7
-Mikel Jauregizar,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,7
-Ousseynou Niang,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,7
-Jajá,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,7
-Unai Gomez ,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,7
-Jorthy Mokio,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,7
-Bjorn Meijer,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,7
-Kassoum Ouattara,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,7
-Savinho,Man City,UNKNOWN,0,0,0,0,0,0,0,0,7
-Tajon Buchanan,Villarreal,WINGER,0,0,0,0,0,0,0,0,7
-Lucas Bergvall,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,7
-Yarek Gasiorowski,PSV,UNKNOWN,0,0,0,0,0,0,0,0,7
-Matt O'Riley,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,7
-Franjo Ivanović,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,7
-Alberto Moleiro,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,7
-Vasilije Adžić,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,7
-Hugo Larsson,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,7
-Milos Kerkez,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,7
-Minjae Kim,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,7
-Jamie Gittens,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,7
-Luis Henrique,Inter,UNKNOWN,0,0,0,0,0,0,0,0,7
-Pape Gueye,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,7
-Pedri,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,7
-Bruno Guimarães,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,7
-Fabio Miretti,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,7
-Alejandro Balde,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,7
-Nico Schlotterbeck,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,7
-Mads Emil Madsen,Copenhagen,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,7
-David Douděra,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,7
-Ritsu Doan,Frankfurt,WINGER,0,0,0,0,0,0,0,0,7
-Wilfried Singo,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,7
-Fedde Leysen,Union SG,CENTRE_BACK,0,0,0,0,0,0,0,0,7
-Cristhian Mosquera,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,7
-Destiny Udogie,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,7
-William Saliba,Arsenal,CENTRE_BACK,0,0,0,0,0,0,0,0,7
-Aitor Paredes,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,7
-Mauro Júnior,PSV,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Joan García,Barcelona,GOALKEEPER,0,0,0,0,0,0,0,0,7
-Anass Salah-Eddine,PSV,FULL_BACK,0,0,0,0,0,0,0,0,7
-Yunus Musah,Atalanta,MIDFIELDER,0,0,0,0,0,0,0,0,7
-Yann Bisseck,Inter,UNKNOWN,0,0,0,0,0,0,0,0,7
-Michael Murillo,Marseille,DEFENDER,0,0,0,0,0,0,0,0,7
-Hugo Vetlesen,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,7
-Giulian Biancone,Olympiacos,DEFENDER,0,0,0,0,0,0,0,0,7
-Jeremie Frimpong,Liverpool,FULL_BACK,0,0,0,0,0,0,0,0,7
-Curtis Jones,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,7
-Eljif Elmas,Napoli,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Fran García,Real Madrid,FULL_BACK,0,0,0,0,0,0,0,0,7
-Quina,Pafos,MIDFIELDER,0,0,0,0,0,0,0,0,7
-Alessandro Buongiorno,Napoli,DEFENDER,0,0,0,0,0,0,0,0,7
-Davide Frattesi,Inter,UNKNOWN,0,0,0,0,0,0,0,0,7
-Pantelis Hatzidiakos,Copenhagen,CENTRE_BACK,0,0,0,0,0,0,0,0,7
-Kostas Pileas,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,7
-Trent Alexander-Arnold,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,7
-Vanja Milinković-Savić,Napoli,GOALKEEPER,0,0,0,0,0,0,0,0,7
-Konrad Laimer,Bayern München,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Andoni Gorosabel,Athletic Club,FULL_BACK,0,0,0,0,0,0,0,0,7
-Giovanni Di Lorenzo,Napoli,FULL_BACK,0,0,0,0,0,0,0,0,7
-Aleksandr Golovin,Monaco,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Rúben Dias,Man City,CENTRE_BACK,0,0,0,0,0,0,0,0,7
-Luís Mata,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,7
-Ivan Šunjić,Pafos,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Rob Schoofs,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,7
-Juan Jesus,Napoli,CENTRE_BACK,0,0,0,0,0,0,0,0,7
-Tomáš Chorý,Slavia Praha,STRIKER,0,0,0,0,0,0,0,0,7
-Iñigo Ruiz De Galarreta,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,7
-Mario Götze,Frankfurt,STRIKER,0,0,0,0,0,0,0,0,7
-Daniel Parejo,Villarreal,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,7
-Lorenzo Scipioni,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,6
-Mons Bassouamina,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,6
-Youssoupha Sanyang,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,6
-Lamine Camara,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,6
-David Goldar,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,6
-Juan Cabal,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,6
-Daniel Vivian,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,6
-Adama Boiro,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,6
-Santiago Mouriño,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,6
-Abdukodir Khusanov,Man City,UNKNOWN,0,0,0,0,0,0,0,0,6
-William Osula,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,6
-Andrey Santos,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,6
-Kevin Rodriguez,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,6
-Nariman Akhundzade,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,6
-William Clem,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,6
-Mark Flekken,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,6
-Paul Wanner,PSV,UNKNOWN,0,0,0,0,0,0,0,0,6
-Piero Hincapié,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,6
-Sam Beukema,Napoli,UNKNOWN,0,0,0,0,0,0,0,0,6
-Ko Itakura,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,6
-Kady,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,6
-Matheus Nunes,Man City,UNKNOWN,0,0,0,0,0,0,0,0,6
-Wesley Fofana,Chelsea,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Lucas Chevalier,Paris,GOALKEEPER,0,0,0,0,0,0,0,0,6
-Youssoufa Moukoko,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,6
-Nnamdi Collins,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,6
-Mathías Olivera,Napoli,FULL_BACK,0,0,0,0,0,0,0,0,6
-Alex Berenguer,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,6
-Temirlan Anarbekov,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,6
-Marc Casadó,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,6
-Christos Zafeiris,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,6
-Hugo Siquet,Club Brugge,FULL_BACK,0,0,0,0,0,0,0,0,6
-António Silva,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,6
-Leonardo Balerdi,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,6
-Rayan Aït-Nouri,Man City,UNKNOWN,0,0,0,0,0,0,0,0,6
-Muhammed Cham,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,6
-Nicola Zalewski,Atalanta,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Matheus Reis,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,6
-Illia Zabarnyi,Paris,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Edon Zhegrova,Juventus,WINGER,0,0,0,0,0,0,0,0,6
-Eduardo Quaresma,Sporting CP,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Musa Gurbanli,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,6
-Vitězslav Jaroš,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,6
-Sergiño Dest,PSV,FULL_BACK,0,0,0,0,0,0,0,0,6
-Ken Sema,Pafos,WINGER,0,0,0,0,0,0,0,0,6
-David Neres,Napoli,STRIKER,0,0,0,0,0,0,0,0,6
-Michele Di Gregorio,Juventus,GOALKEEPER,0,0,0,0,0,0,0,0,6
-Josip Šutalo,Ajax,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Alisson Becker,Liverpool,GOALKEEPER,0,0,0,0,0,0,0,0,6
-Owen Wijndal,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,6
-Neofytos Michael,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,6
-Mojmír Chytil,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,6
-Matvei Safonov,Paris,GOALKEEPER,0,0,0,0,0,0,0,0,6
-Armando Obispo,PSV,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Mikel Vesga,Athletic Club,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Benjamin Pavard,Marseille,DEFENDER,0,0,0,0,0,0,0,0,6
-Denis Zakaria,Monaco,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Nany Dimata,Pafos,STRIKER,0,0,0,0,0,0,0,0,6
-Nordin Jackers,Club Brugge,GOALKEEPER,0,0,0,0,0,0,0,0,6
-Lucas Hernández,Paris,CENTRE_BACK,0,0,0,0,0,0,0,0,6
-Stanislav Lobotka,Napoli,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Jindřich Staněk,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,6
-Janis Blaswich,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,6
-Matteo Politano,Napoli,WINGER,0,0,0,0,0,0,0,0,6
-Sead Kolašinac,Atalanta,FULL_BACK,0,0,0,0,0,0,0,0,6
-Marcel Sabitzer,B. Dortmund,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Christian Nørgaard,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,6
-Leonardo Spinazzola,Napoli,FULL_BACK,0,0,0,0,0,0,0,0,6
-Emre Can,B. Dortmund,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,6
-Aleksandr Martynovich,Kairat Almaty,CENTRE_BACK,0,0,0,0,0,0,0,0,5
-Michael Zetterer,Frankfurt,GOALKEEPER,0,0,0,0,0,0,0,0,5
-Luiz Júnior,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,5
-Marc Giger,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,5
-David Moses,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,5
-Claudio Echeverri,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,5
-Aladji Bamba,Monaco,MIDFIELDER,0,0,0,0,0,0,0,0,5
-Gianluca Prestianni,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,5
-Jesús Areso,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,5
-Raul Florucz,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,5
-Louis Patris,Union SG,DEFENDER,0,0,0,0,0,0,0,0,5
-Thiago Almada,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,5
-Mohammed Salisu,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,5
-Bruno Onyemaechi,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,5
-Yoram Zague,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,5
-Joshua Acheampong,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,5
-Arthur Vermeeren,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,5
-Lorenzo Lucca,Napoli,UNKNOWN,0,0,0,0,0,0,0,0,5
-Gonzalo,Real Madrid,STRIKER,0,0,0,0,0,0,0,0,5
-Ulrik Saltnes,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,5
-Exequiel Palacios,Leverkusen,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,5
-Conor Bradley,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,5
-Aurele Amenda,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,5
-Kian Fitz-Jim,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,5
-Rafa Marín,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,5
-Fotis Ioannidis,Sporting CP,FORWARD,0,0,0,0,0,0,0,0,5
-Joško Gvardiol,Man City,CENTRE_BACK,0,0,0,0,0,0,0,0,5
-Raul Moro,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,5
-Tino Livramento,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,5
-Tomáš Vlček,Slavia Praha,DEFENDER,0,0,0,0,0,0,0,0,5
-Jug Stanojev,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,5
-Rodrigo Bentancur,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,5
-Murphy Dorley,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,5
-Mathias Rasmussen,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,5
-Miguel Gutiérrez,Napoli,UNKNOWN,0,0,0,0,0,0,0,0,5
-Giorgi Mamardashvili,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,5
-Nayef Aguerd,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,5
-Giorgi Zaria,Kairat Almaty,MIDFIELDER,0,0,0,0,0,0,0,0,5
-Emerson,Marseille,FULL_BACK,0,0,0,0,0,0,0,0,5
-Joni Montiel,Qarabağ,MIDFIELDER,0,0,0,0,0,0,0,0,5
-Alexander Isak,Liverpool,STRIKER,0,0,0,0,0,0,0,0,5
-Thomas Partey,Villarreal,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,5
-Alfonso Pedraza,Villarreal,WINGER,0,0,0,0,0,0,0,0,5
-Rodri,Man City,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,5
-Ayoze Pérez,Villarreal,STRIKER,0,0,0,0,0,0,0,0,5
-Tosin Adarabioyo,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,5
-Lukas Lerager,Copenhagen,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,5
-Dan Glazer,Kairat Almaty,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,5
-Francesco Acerbi,Inter,CENTRE_BACK,0,0,0,0,0,0,0,0,5
-Lucas Vázquez,Leverkusen,STRIKER,0,0,0,0,0,0,0,0,5
-Antonio Rüdiger,Real Madrid,CENTRE_BACK,0,0,0,0,0,0,0,0,5
-Nathan Aké,Man City,UNKNOWN,0,0,0,0,0,0,0,0,5
-Dani Carvajal,Real Madrid,FULL_BACK,0,0,0,0,0,0,0,0,5
-Filip Kostić,Juventus,WINGER,0,0,0,0,0,0,0,0,5
-Simon Mignolet,Club Brugge,GOALKEEPER,0,0,0,0,0,0,0,0,4
-Henrikh Mkhitaryan,Inter,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Robino Vaz,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,4
-Gabriel Strefezza,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,4
-Thiago Pitarch,Real Madrid,MIDFIELDER,0,0,0,0,0,0,0,0,4
-Esmir Bajraktarević,PSV,FORWARD,0,0,0,0,0,0,0,0,4
-Ibrahim Mbaye,Paris,UNKNOWN,0,0,0,0,0,0,0,0,4
-Daiki Hashioka,Slavia Praha,DEFENDER,0,0,0,0,0,0,0,0,4
-Ryan Flamingo,PSV,UNKNOWN,0,0,0,0,0,0,0,0,4
-Villads Nielsen,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,4
-Giorgos Vagiannidis,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,4
-Facundo Medina,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,4
-Munashe Garananga,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,4
-Hiroki Ito,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,4
-Anders Klynge,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,4
-Rayane Bounida,Ajax,MIDFIELDER,0,0,0,0,0,0,0,0,4
-Eliesse Ben Seghir,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,4
-Roony Bardghji,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,4
-Jorrel Hato,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,4
-Bilal Nadir,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,4
-Romeo Lavia,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,4
-Jorne Spileers,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,4
-Juan Foyth,Villarreal,CENTRE_BACK,0,0,0,0,0,0,0,0,4
-Ilias Akhomach,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,4
-Rico Lewis,Man City,UNKNOWN,0,0,0,0,0,0,0,0,4
-Zeno Debast,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,4
-Bremer,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,4
-Alphonso Davies,Bayern München,FULL_BACK,0,0,0,0,0,0,0,0,4
-Alexandr Shirobokov,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,4
-Riccardo Calafiori,Arsenal,FULL_BACK,0,0,0,0,0,0,0,0,4
-Benoît Badiashile,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,4
-Kenneth Taylor,Ajax,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Aaron Ramsdale,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,4
-Angel Gomes,Marseille,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Daniel Bragança,Sporting CP,MIDFIELDER,0,0,0,0,0,0,0,0,4
-Sofiane Boufal,Union SG,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Frank Anguissa,Napoli,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Dani Ceballos,Real Madrid,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Birger Meling,Copenhagen,FULL_BACK,0,0,0,0,0,0,0,0,4
-Martin Ødegaard,Arsenal,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Mahmoud Dahoud,Frankfurt,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Dodi Lukébakio,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,4
-John Stones,Man City,CENTRE_BACK,0,0,0,0,0,0,0,0,4
-Joe Gomez,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,4
-Tomáš Holeš,Slavia Praha,FULL_BACK,0,0,0,0,0,0,0,0,4
-Andreas  Christensen,Barcelona,CENTRE_BACK,0,0,0,0,0,0,0,0,4
-Kaan Ayhan,Galatasaray,CENTRE_BACK,0,0,0,0,0,0,0,0,4
-Geoffrey Kondogbia,Marseille,DEFENSIVE_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Thomas Delaney,Copenhagen,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,4
-Mattia Perin,Juventus,GOALKEEPER,0,0,0,0,0,0,0,0,4
-Wojciech Szczęsny,Barcelona,GOALKEEPER,0,0,0,0,0,0,0,0,4
-Yuri Berchiche,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,4
-Aarón Anselmino,B. Dortmund,CENTRE_BACK,0,0,0,0,0,0,0,0,3
-Stefan de Vrij,Inter,CENTRE_BACK,0,0,0,0,0,0,0,0,3
-Selton Sánchez,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,3
-Pau Navarro,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,3
-Sean Steur,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,3
-Asier Hierro,Athletic Club,FORWARD,0,0,0,0,0,0,0,0,3
-Shandre Campbell,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,3
-Kauã Santos,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,3
-Rio Ngumoha,Liverpool,FORWARD,0,0,0,0,0,0,0,0,3
-George Ilenikhena,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,3
-Facundo Buonanotte,Chelsea,MIDFIELDER,0,0,0,0,0,0,0,0,3
-Montrell Culbreath,Leverkusen,MIDFIELDER,0,0,0,0,0,0,0,0,3
-Quentin Ndjantou,Paris,UNKNOWN,0,0,0,0,0,0,0,0,3
-Christian Mawissa,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,3
-Ethan Nwaneri,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,3
-Oscar Højlund,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,3
-Nico Williams,Athletic Club,STRIKER,0,0,0,0,0,0,0,0,3
-James McConnell,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,3
-Jonas Urbig,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,3
-Mathys Tel,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,3
-Cisse Sandra,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,3
-Lynnt Audoor,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,3
-Giorgio Scalvini,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,3
-Oscar Bobb,Man City,UNKNOWN,0,0,0,0,0,0,0,0,3
-Lucas Rosa,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,3
-Elye Wahi,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,3
-Mathias Jørgensen,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,3
-Éder Militão,Real Madrid,FULL_BACK,0,0,0,0,0,0,0,0,3
-Krépin Diatta,Monaco,WINGER,0,0,0,0,0,0,0,0,3
-Filip Jørgensen,Chelsea,GOALKEEPER,0,0,0,0,0,0,0,0,3
-CJ Egan-Riley,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,3
-João Correia,Pafos,WINGER,0,0,0,0,0,0,0,0,3
-Billy Gilmour,Napoli,MIDFIELDER,0,0,0,0,0,0,0,0,3
-Arnau Tenas,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,3
-Amine Gouiri,Marseille,STRIKER,0,0,0,0,0,0,0,0,3
-Martin Terrier,Leverkusen,WINGER,0,0,0,0,0,0,0,0,3
-Erik Prekop,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,3
-Iñaki Williams,Athletic Club,WINGER,0,0,0,0,0,0,0,0,3
-Iñigo Lekue,Athletic Club,FULL_BACK,0,0,0,0,0,0,0,0,3
-Amir Rrahmani,Napoli,CENTRE_BACK,0,0,0,0,0,0,0,0,3
-Fabian Schär,Newcastle,CENTRE_BACK,0,0,0,0,0,0,0,0,3
-Pascal Gross,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,3
-Ivan Schranz,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,3
-Kevin De Bruyne,Napoli,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,3
-Jan Bořil,Slavia Praha,FULL_BACK,0,0,0,0,0,0,0,0,3
-David Alaba,Real Madrid,FULL_BACK,0,0,0,0,0,0,0,0,3
-Remko Pasveer,Ajax,GOALKEEPER,0,0,0,0,0,0,0,0,2
-André Luiz,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,2
-Souleymane Faye,Sporting CP,FORWARD,0,0,0,0,0,0,0,0,2
-Guilherme Smith,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,2
-Sidny Lopes Cabral,Benfica,DEFENDER,0,0,0,0,0,0,0,0,2
-Salvador Blopa,Sporting CP,DEFENDER,0,0,0,0,0,0,0,0,2
-Azamat Tuyakbayev,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,2
-Trey Nyoni,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,2
-Rodrigo Huescas,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,2
-Zaid Romero,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,2
-Jun'Ai Byfield,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,2
-Hamed Traorè,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,2
-Pape Cabral,Monaco,MIDFIELDER,0,0,0,0,0,0,0,0,2
-Dro Fernández,Paris,UNKNOWN,0,0,0,0,0,0,0,0,2
-Aaron Bouwman,Ajax,DEFENDER,0,0,0,0,0,0,0,0,2
-Sherhan Kalmurza,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,2
-Xavi Espart,Barcelona,MIDFIELDER,0,0,0,0,0,0,0,0,2
-Antoine Semenyo,Man City,FORWARD,0,0,0,0,0,0,0,0,2
-Mohammed Fuseini,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,2
-Simon Adingra,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,2
-Lucas Michal,Monaco,FORWARD,0,0,0,0,0,0,0,0,2
-João Rego,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,2
-Jeanuël Belocian,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,2
-Jay Gorter,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,2
-Félix Lemarechal,Club Brugge,MIDFIELDER,0,0,0,0,0,0,0,0,2
-Berkan Kutlu,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,2
-Manuel Ángel,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,2
-Juan Musso,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,2
-Dane Scarlett,Tottenham,STRIKER,0,0,0,0,0,0,0,0,2
-Diogo Nascimento,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,2
-Henrique Araújo,Benfica,STRIKER,0,0,0,0,0,0,0,0,2
-Lev Kurgin,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,2
-Marco Brescianini,Atalanta,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,2
-Igoh Ogbu,Slavia Praha,CENTRE_BACK,0,0,0,0,0,0,0,0,2
-Jakub Markovič,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,2
-João Mário,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,2
-Ferland Mendy,Real Madrid,FULL_BACK,0,0,0,0,0,0,0,0,2
-Myron Boadu,PSV,STRIKER,0,0,0,0,0,0,0,0,2
-Manor Solomon,Villarreal,WINGER,0,0,0,0,0,0,0,0,2
-Andriy Lunin,Real Madrid,GOALKEEPER,0,0,0,0,0,0,0,0,2
-Giorgi Kochorashvili,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,2
-Marc Guéhi,Man City,UNKNOWN,0,0,0,0,0,0,0,0,2
-Marco Sportiello,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,2
-Ricardo Mangas,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,2
-Nathan Tella,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,2
-Gerard Moreno,Villarreal,STRIKER,0,0,0,0,0,0,0,0,2
-Ulisses Garcia,Marseille,FULL_BACK,0,0,0,0,0,0,0,0,2
-Wout Faes,Monaco,CENTRE_BACK,0,0,0,0,0,0,0,0,2
-Aurélio Buta,Frankfurt,FULL_BACK,0,0,0,0,0,0,0,0,2
-Nuno Santos,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,2
-Jonas Hofmann,Leverkusen,WINGER,0,0,0,0,0,0,0,0,2
-Brede Moe,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,2
-Clément Lenglet,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,2
-Badavi Hüseynov,Qarabağ,CENTRE_BACK,0,0,0,0,0,0,0,0,2
-Michy Batshuayi,Frankfurt,STRIKER,0,0,0,0,0,0,0,0,2
-Aymeric Laporte,Athletic Club,CENTRE_BACK,0,0,0,0,0,0,0,0,2
-Daniele Rugani,Juventus,CENTRE_BACK,0,0,0,0,0,0,0,0,2
-João Cancelo,Barcelona,FULL_BACK,0,0,0,0,0,0,0,0,2
-Lukas Hrádecký,Monaco,GOALKEEPER,0,0,0,0,0,0,0,0,2
-Matteo Darmian,Inter,FULL_BACK,0,0,0,0,0,0,0,0,2
-Clayton,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,1
-Luis Guilherme,Sporting CP,FORWARD,0,0,0,0,0,0,0,0,1
-Diatta Alassane,Villarreal,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Sekou Keita,Union SG,FORWARD,0,0,0,0,0,0,0,0,1
-Tadjidine Mmadi,Marseille,FORWARD,0,0,0,0,0,0,0,0,1
-Filip Pavic,Bayern München,DEFENDER,0,0,0,0,0,0,0,0,1
-Hugo López,Villarreal,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Daniel Budesca,Villarreal,DEFENDER,0,0,0,0,0,0,0,0,1
-Marvin Dills,Frankfurt,MIDFIELDER,0,0,0,0,0,0,0,0,1
-José Neto,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,1
-Maroan Sannadi,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,1
-Manu Silva,Benfica,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Reggie Walsh,Chelsea,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Mukhamedali Abish,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,1
-Pharrel Nash,Ajax,FORWARD,0,0,0,0,0,0,0,0,1
-Ibon Sanchez,Athletic Club,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Ramazan Bagdat,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,1
-Wisdom Mike,Bayern München,FORWARD,0,0,0,0,0,0,0,0,1
-Amara Nallo,Liverpool,DEFENDER,0,0,0,0,0,0,0,0,1
-Marli Salmon,Arsenal,DEFENDER,0,0,0,0,0,0,0,0,1
-Andre Annous,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,1
-Jeremiah Mensah,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,1
-Max Dowman,Arsenal,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Brando Bailey-Joseph,Arsenal,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Endrick,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,1
-Darryl Bakola,Marseille,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Luca Reggiani,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,1
-Noah Fernandez,PSV,UNKNOWN,0,0,0,0,0,0,0,0,1
-Ife Ibrahim,Arsenal,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Stavros Pnevmonidis,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,1
-Sean Neave,Newcastle,FORWARD,0,0,0,0,0,0,0,0,1
-Axel Tape,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,1
-Georgios Michael,Pafos,UNKNOWN,0,0,0,0,0,0,0,0,1
-Jorge Cestero,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,1
-Javier Galán,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,1
-Mansur Birkurmanov,Kairat Almaty,FORWARD,0,0,0,0,0,0,0,0,1
-Samuel Nibombe,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,1
-Arda Ünyay,Galatasaray,DEFENDER,0,0,0,0,0,0,0,0,1
-Leo Shahar,Newcastle,DEFENDER,0,0,0,0,0,0,0,0,1
-Deniz Ofli,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,1
-Kiliann Sildillia,PSV,UNKNOWN,0,0,0,0,0,0,0,0,1
-Kaye Furo,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,1
-Oliver Højer,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,1
-Rodrigo Rêgo,Benfica,FORWARD,0,0,0,0,0,0,0,0,1
-Callum Olusesi,Tottenham,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Gerald Alders,Ajax,DEFENDER,0,0,0,0,0,0,0,0,1
-Don-Angelo Konadu,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,1
-Daniel Meso,Real Madrid,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Alexander Staff,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,1
-Chris Kouakou,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,1
-Rodrigo Mendoza,Atleti,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Alex Murphy,Newcastle,DEFENDER,0,0,0,0,0,0,0,0,1
-Tiago Freitas,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,1
-César Palacios,Real Madrid,MIDFIELDER,0,0,0,0,0,0,0,0,1
-Max Alleyne,Man City,UNKNOWN,0,0,0,0,0,0,0,0,1
-Filippo Mane,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,1
-Mamadou Sarr,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,1
-Rodrigo Ribeiro,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,1
-Stanis Idumbo,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,1
-Giuseppe Ambrosino,Napoli,FORWARD,0,0,0,0,0,0,0,0,1
-Daniel Maldini,Atalanta,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,1
-Magnus Riisnæs,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,1
-Tristan van den Heuvel,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,1
-Antonín Kinský,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,1
-Jessic Ngankam,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,1
-Carlos Martín,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,1
-Ahmed Kutucu,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,1
-Radu Drăgușin,Tottenham,UNKNOWN,0,0,0,0,0,0,0,0,1
-James Trafford,Man City,UNKNOWN,0,0,0,0,0,0,0,0,1
-Wataru Endo,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,1
-Gustaf Nilsson,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,1
-João Virginia,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,1
-Samy Mmaee,Qarabağ,CENTRE_BACK,0,0,0,0,0,0,0,0,1
-Günay Güvenç,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,1
-Jeremie Boga,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,1
-Alex Meret,Napoli,GOALKEEPER,0,0,0,0,0,0,0,0,1
-Roman Yaremchuk,Olympiacos,STRIKER,0,0,0,0,0,0,0,0,1
-Niklas Süle,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,1
-Kepa Arrizabalaga,Arsenal,GOALKEEPER,0,0,0,0,0,0,0,0,1
-Alexandros Paschalakis,Olympiacos,GOALKEEPER,0,0,0,0,0,0,0,0,1
-Mateo Kovačić,Man City,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,1
-Steven Berghuis,Ajax,WINGER,0,0,0,0,0,0,0,0,1
-Ben Davies,Tottenham,FULL_BACK,0,0,0,0,0,0,0,0,1
-Romelu Lukaku,Napoli,STRIKER,0,0,0,0,0,0,0,0,1
-John Ruddy,Newcastle,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Obed Vargas,Atleti,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Jannis Bärtl,Bayern München,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Ange Lago,Marseille,FORWARD,0,0,0,0,0,0,0,0,0
-Tynan Thompson,Tottenham,FORWARD,0,0,0,0,0,0,0,0,0
-Tye Hall,Tottenham,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Adedamola Alabi,Newcastle,MIDFIELDER,0,0,0,0,0,0,0,0,0
-David Spinelli,Napoli,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Hindrin Najah Chooly,Bodø/Glimt,FORWARD,0,0,0,0,0,0,0,0,0
-Rayan Ouro Bang Na,Marseille,DEFENDER,0,0,0,0,0,0,0,0,0
-Eyüp Karasu,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Anis Doubal,Marseille,DEFENDER,0,0,0,0,0,0,0,0,0
-Leonard Prescott,Bayern München,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Abdellah Ouazane,Ajax,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Ander Izaguirre,Athletic Club,DEFENDER,0,0,0,0,0,0,0,0,0
-Adrián Pérez,Athletic Club,FORWARD,0,0,0,0,0,0,0,0,0
-Jon de Luis,Athletic Club,DEFENDER,0,0,0,0,0,0,0,0,0
-Youssef Hamoutahar,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,0
-Mathias Ferrante,Napoli,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Yusuf Kahraman,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ryan Kavuma-McQueen,Chelsea,FORWARD,0,0,0,0,0,0,0,0,0
-Çağrı Balta,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Mikkel Bro Hansen,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Bruno Ramos,Sporting CP,DEFENDER,0,0,0,0,0,0,0,0,0
-Vince Osuji,Club Brugge,DEFENDER,0,0,0,0,0,0,0,0,0
-Cassiano Kiala,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,0
-Luca Williams-Barnett,Tottenham,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Landon Emenalo,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,0
-Danila Buch,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,0
-Bakhtiyar Aldashev,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,0
-Giovanni Leoni,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,0
-Mikel Santos,Athletic Club,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Flávio Gonçalves,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ilane Toure,Monaco,DEFENDER,0,0,0,0,0,0,0,0,0
-Yanis Benchaouch,Monaco,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Tyrone Samba,Man City,UNKNOWN,0,0,0,0,0,0,0,0,0
-Kornel Misciur,Liverpool,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Niccolò Rizzo,Juventus,DEFENDER,0,0,0,0,0,0,0,0,0
-Amirbek Bazarbayev,Kairat Almaty,DEFENDER,0,0,0,0,0,0,0,0,0
-Dias Reimov,Kairat Almaty,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Javier Gil,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,0
-Victor Valdepeñas,Real Madrid,DEFENDER,0,0,0,0,0,0,0,0,0
-Javier Navarro,Real Madrid,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Felipe Chavez,Bayern München,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Henry Camara,Atalanta,FORWARD,0,0,0,0,0,0,0,0,0
-Samuele Inacio,B. Dortmund,FORWARD,0,0,0,0,0,0,0,0,0
-Furkan Koçak,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Tim Oermann,Leverkusen,DEFENDER,0,0,0,0,0,0,0,0,0
-Rayan Lucas,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,0
-Federico Cassa,Atalanta,FORWARD,0,0,0,0,0,0,0,0,0
-Daniel Banjaqui,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Anísio Cabral,Benfica,FORWARD,0,0,0,0,0,0,0,0,0
-Ben Hawighorst,Leverkusen,DEFENDER,0,0,0,0,0,0,0,0,0
-Mamadou Thierno Barry,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,0
-Vincenzo Prisco,Napoli,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Malachi Hardy,Tottenham,DEFENDER,0,0,0,0,0,0,0,0,0
-Martin Kovář,Slavia Praha,DEFENDER,0,0,0,0,0,0,0,0,0
-Dominic Vavassori,Atalanta,FORWARD,0,0,0,0,0,0,0,0,0
-Eus Waaijers,PSV,DEFENDER,0,0,0,0,0,0,0,0,0
-Matteo Lavelli,Inter,UNKNOWN,0,0,0,0,0,0,0,0,0
-Lucas Beraldo,Paris,UNKNOWN,0,0,0,0,0,0,0,0,0
-Diego Aguado,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,0
-David Daiber,Bayern München,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Šimon Slončík,Slavia Praha,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Jules Stawiecki,Monaco,UNKNOWN,0,0,0,0,0,0,0,0,0
-Renato Marin,Paris,UNKNOWN,0,0,0,0,0,0,0,0,0
-Mauro Couto,Sporting CP,FORWARD,0,0,0,0,0,0,0,0,0
-Tomas Marques,Barcelona,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Toni Fernandez,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,0
-Pedro Henrique Fontoura Caldierado,Pafos,FORWARD,0,0,0,0,0,0,0,0,0
-Joan Martínez,Real Madrid,DEFENDER,0,0,0,0,0,0,0,0,0
-Dominik Sarapata,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,0
-David Moreira,Sporting CP,DEFENDER,0,0,0,0,0,0,0,0,0
-Khari Ranson,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jack Porter,Arsenal,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Argyrios Liatsikouras,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,0
-Eder Aller,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,0
-Alvaro Cortes,Barcelona,DEFENDER,0,0,0,0,0,0,0,0,0
-Georgios Kouraklis,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,0
-Adam Harrison,Newcastle,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Aidan Harris,Newcastle,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Alexandros Exarchos,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,0
-Martin James,Paris,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Noah Nsoki,Paris,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Mathis Jangeal,Paris,FORWARD,0,0,0,0,0,0,0,0,0
-Emmanuele De Chiara,Napoli,UNKNOWN,0,0,0,0,0,0,0,0,0
-Joshua Wynder,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Elias Benkara,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-Petros Petrou,Pafos,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Samuel Van Hoogen,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,0
-Nicolas Verkooijen,PSV,UNKNOWN,0,0,0,0,0,0,0,0,0
-Alain Taho,Inter,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Louie Copley,Arsenal,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Alexei Rojas,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,0
-Joshua Nichols,Arsenal,DEFENDER,0,0,0,0,0,0,0,0,0
-Iker Luque,Atleti,DEFENDER,0,0,0,0,0,0,0,0,0
-Taufyk Zanzi,Atleti,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Adamo Nagalo,PSV,UNKNOWN,0,0,0,0,0,0,0,0,0
-Tijn Smolenaars,PSV,UNKNOWN,0,0,0,0,0,0,0,0,0
-Max Thompson,Newcastle,GOALKEEPER,0,0,0,0,0,0,0,0,0
-August Mikkelsen,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Yáser Asprilla,Galatasaray,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Robin van Duiven,PSV,FORWARD,0,0,0,0,0,0,0,0,0
-Christian Garofalo,Napoli,DEFENDER,0,0,0,0,0,0,0,0,0
-Liam West,Copenhagen,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Hikmat Jabrayilzade,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ege Araç,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jofre Torrents,Barcelona,DEFENDER,0,0,0,0,0,0,0,0,0
-Juan Hernández,Barcelona,FORWARD,0,0,0,0,0,0,0,0,0
-Divine Mukasa,Man City,UNKNOWN,0,0,0,0,0,0,0,0,0
-Stephen Mfuni,Man City,UNKNOWN,0,0,0,0,0,0,0,0,0
-Marek Naskos,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jakub Kolísek,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jonathan Moalem,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,0
-Graham Ankamafio,Copenhagen,DEFENDER,0,0,0,0,0,0,0,0,0
-Isak Sjong,Bodø/Glimt,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Mylo van der Lans,Ajax,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Joel van den Berg,PSV,DEFENDER,0,0,0,0,0,0,0,0,0
-Leon Klanac,Bayern München,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Eduardo Felicíssimo,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,0
-Matteo Fuscaldo,Juventus,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Gonçalo Oliveira,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Shumaira Mheuka,Chelsea,UNKNOWN,0,0,0,0,0,0,0,0,0
-Samuel Pikolon,Slavia Praha,UNKNOWN,0,0,0,0,0,0,0,0,0
-Matteo Cocchi,Inter,UNKNOWN,0,0,0,0,0,0,0,0,0
-Kieran Morrison,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,0
-Charles Sagoe Jr,Arsenal,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Kian Noble,Man City,UNKNOWN,0,0,0,0,0,0,0,0,0
-Charlie Gray,Man City,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Argus Vanden Driessche,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,0
-Oscar Buur,Copenhagen,UNKNOWN,0,0,0,0,0,0,0,0,0
-Elijah Gift,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,0
-Mathis Clement,Marseille,FORWARD,0,0,0,0,0,0,0,0,0
-Diogo Ferreira,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Leandro Santos,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Luca Gunter,Tottenham,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Yusuf Akhamrich,Tottenham,FORWARD,0,0,0,0,0,0,0,0,0
-James Rowswell,Tottenham,DEFENDER,0,0,0,0,0,0,0,0,0
-Daniel Moreno,Atleti,DEFENDER,0,0,0,0,0,0,0,0,0
-Max Merrick,Chelsea,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Paul Reverson,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,0
-Fran González,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,0
-Daniel Toula,Slavia Praha,FORWARD,0,0,0,0,0,0,0,0,0
-Tomáš Jelínek,Slavia Praha,FORWARD,0,0,0,0,0,0,0,0,0
-Adam Rezek,Slavia Praha,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Ferdinand Pohl,Leverkusen,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ken Izekor,Leverkusen,FORWARD,0,0,0,0,0,0,0,0,0
-Naba Mensah,Leverkusen,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Jesper Schlich,Leverkusen,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Elias Baum,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Fousseny Doumbia,Frankfurt,DEFENDER,0,0,0,0,0,0,0,0,0
-Leonardo Bovo,Inter,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Axl De Corte,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,0
-Nathan Huygevelde,Union SG,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Soulaimane Berradi,Union SG,FORWARD,0,0,0,0,0,0,0,0,0
-Alexander Meyer,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-Dani Rodríguez,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,0
-Pol Fortuny,Real Madrid,UNKNOWN,0,0,0,0,0,0,0,0,0
-Julien Duranville,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-Relja Obrić,Atalanta,DEFENDER,0,0,0,0,0,0,0,0,0
-Vincent Manuba,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,0
-Almugera Kabar,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-Gökdeniz Gürpüz,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Eliáš Piták,Slavia Praha,DEFENDER,0,0,0,0,0,0,0,0,0
-Joeri Heerkens,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,0
-Francisco Silva,Sporting CP,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Diego Kochen,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ivan Lima,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Alex Padilla,Athletic Club,UNKNOWN,0,0,0,0,0,0,0,0,0
-Christos Alexiou,Inter,UNKNOWN,0,0,0,0,0,0,0,0,0
-Rio Kyerematen,Tottenham,MIDFIELDER,0,0,0,0,0,0,0,0,0
-Wellity Lucky,Liverpool,DEFENDER,0,0,0,0,0,0,0,0,0
-Jayden Danns,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ted Curd,Chelsea,GOALKEEPER,0,0,0,0,0,0,0,0,0
-João Veloso,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Teddy Sharman-Lowe,Chelsea,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Lucas Anjos,Sporting CP,FORWARD,0,0,0,0,0,0,0,0,0
-Tommy Setford,Arsenal,UNKNOWN,0,0,0,0,0,0,0,0,0
-Salvador Esquivel,Atleti,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Julio Díaz,Atleti,DEFENDER,0,0,0,0,0,0,0,0,0
-Rayane Belid,Atleti,UNKNOWN,0,0,0,0,0,0,0,0,0
-David Jiménez,Real Madrid,DEFENDER,0,0,0,0,0,0,0,0,0
-Danylo Krevsun,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-Yann Lienard,Monaco,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Diego Callai,Sporting CP,UNKNOWN,0,0,0,0,0,0,0,0,0
-Cole Campbell,B. Dortmund,UNKNOWN,0,0,0,0,0,0,0,0,0
-,,,0,0,0,0,0,0,0,0,0
-Magnus Brøndbo,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Alessandro Calligaris,Inter,UNKNOWN,0,0,0,0,0,0,0,0,0
-Nikolaos Botis,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jonas Rouhi,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,0
-Javier Boñar,Atleti,DEFENDER,0,0,0,0,0,0,0,0,0
-Jelle Van Neck,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,0
-Alexios Kalogeropoulos,Olympiacos,UNKNOWN,0,0,0,0,0,0,0,0,0
-Silas Ostrzinski,B. Dortmund,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Niek Schiks,PSV,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Alexander Bah,Benfica,FULL_BACK,0,0,0,0,0,0,0,0,0
-Mario De Luis,Atleti,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Gavi,Barcelona,UNKNOWN,0,0,0,0,0,0,0,0,0
-Rafel Obrador,Benfica,CENTRE_BACK,0,0,0,0,0,0,0,0,0
-Simone Scaglia,Juventus,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Diogo Prioste,Benfica,UNKNOWN,0,0,0,0,0,0,0,0,0
-Amin Ramazanov,Qarabağ,GOALKEEPER,0,0,0,0,0,0,0,0,0
-,,,0,0,0,0,0,0,0,0,0
-Vic Chambaere,Union SG,UNKNOWN,0,0,0,0,0,0,0,0,0
-Athanasios Papadoudis,Pafos,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Yusuf Demir,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Ludovit Reis,Club Brugge,UNKNOWN,0,0,0,0,0,0,0,0,0
-Adrià Altimira,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,0
-Metehan Baltacı,Galatasaray,UNKNOWN,0,0,0,0,0,0,0,0,0
-Samuel Soares,Benfica,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Brandon Austin,Tottenham,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Mitchel Bakker,Atalanta,UNKNOWN,0,0,0,0,0,0,0,0,0
-Josep Martínez,Inter,UNKNOWN,0,0,0,0,0,0,0,0,0
-Fabijan Buntić,Qarabağ,UNKNOWN,0,0,0,0,0,0,0,0,0
-Batuhan Şen,Galatasaray,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Julian Faye Lund,Bodø/Glimt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Salih Özcan,B. Dortmund,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,0
-Jeffrey de Lange,Marseille,UNKNOWN,0,0,0,0,0,0,0,0,0
-Diego Conde,Villarreal,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jonas Omlin,Leverkusen,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Alexandr Zarutskiy,Kairat Almaty,UNKNOWN,0,0,0,0,0,0,0,0,0
-Abbas Hüseynov,Qarabağ,FULL_BACK,0,0,0,0,0,0,0,0,0
-Shakhrudin Magomedaliyev,Qarabağ,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Nikita Contini,Napoli,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Freddie Woodman,Liverpool,UNKNOWN,0,0,0,0,0,0,0,0,0
-Emil Krafth,Newcastle,UNKNOWN,0,0,0,0,0,0,0,0,0
-Nick Olij,PSV,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Branco van den Boomen,Ajax,UNKNOWN,0,0,0,0,0,0,0,0,0
-Rúnar Rúnarsson,Copenhagen,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Niklas Lomb,Leverkusen,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Timothy Chandler,Frankfurt,FULL_BACK,0,0,0,0,0,0,0,0,0
-Raffaele Di Gennaro,Inter,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Paul Pogba,Monaco,CENTRAL_MIDFIELDER,0,0,0,0,0,0,0,0,0
-Francesco Rossi,Atalanta,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Bruma,Benfica,ATTACKING_MIDFIELDER,0,0,0,0,0,0,0,0,0
-Marcus Bettinelli,Man City,UNKNOWN,0,0,0,0,0,0,0,0,0
-Marc-André ter Stegen,Barcelona,GOALKEEPER,0,0,0,0,0,0,0,0,0
-Carlo Pinsoglio,Juventus,UNKNOWN,0,0,0,0,0,0,0,0,0
-Jens Grahl,Frankfurt,UNKNOWN,0,0,0,0,0,0,0,0,0
-Sven Ulreich,Bayern München,UNKNOWN,0,0,0,0,0,0,0,0,0
-,,,0,0,0,0,0,0,0,0,0
-,,,0,0,0,0,0,0,0,0,0
+﻿player_name,team,position,nation,goals,goals_right_foot,goals_left_foot,goals_head,goals_other,goals_inside_area,goals_outside_area,penalties_scored,matches_played
+Kylian Mbappé,Real Madrid,STRIKER,FRA,13,11,0,2,0,11,2,3,9
+Anthony Gordon,Newcastle,FORWARD,ENG,10,8,2,0,0,10,0,5,12
+Harry Kane,Bayern München,STRIKER,ENG,10,8,1,1,0,10,0,3,9
+Julián Alvarez,Atleti,UNKNOWN,ARG,8,6,2,0,0,8,0,2,11
+Erling Haaland,Man City,UNKNOWN,NOR,8,1,5,2,0,8,0,1,10
+Khvicha Kvaratskhelia,Paris,UNKNOWN,GEO,7,6,1,0,0,5,2,0,11
+Victor Osimhen,Galatasaray,STRIKER,NGA,7,5,1,1,0,7,0,3,10
+Vitinha,Paris,UNKNOWN,POR,6,5,1,0,0,3,3,1,12
+Harvey Barnes,Newcastle,WINGER,ENG,6,4,2,0,0,6,0,0,12
+Gabriel Martinelli,Arsenal,WINGER,BRA,6,4,1,0,0,4,2,0,9
+Jens Petter Hauge,Bodø/Glimt,UNKNOWN,NOR,6,3,3,0,0,5,1,0,12
+Fermín López,Barcelona,CENTRAL_MIDFIELDER,ESP,6,3,3,0,0,5,1,0,9
+Vinícius Júnior,Real Madrid,UNKNOWN,BRA,5,4,1,0,0,5,0,1,12
+Gorka Guruzeta,Athletic Club,STRIKER,ESP,5,4,1,0,0,3,2,0,7
+Luis Suárez,Sporting CP,STRIKER,COL,5,4,0,1,0,5,0,2,10
+Marcus Rashford,Barcelona,STRIKER,ENG,5,4,0,1,0,2,3,0,9
+Kasper Høgh,Bodø/Glimt,UNKNOWN,DEN,5,3,2,0,0,5,0,0,12
+Dominik Szoboszlai,Liverpool,CENTRAL_MIDFIELDER,HUN,5,3,2,0,0,3,2,1,10
+Camilo Duran,Qarabağ,UNKNOWN,COL,5,2,3,0,0,5,0,0,10
+Folarin Balogun,Monaco,STRIKER,USA,5,2,2,1,0,5,0,0,10
+Alexander Sørloth,Atleti,STRIKER,NOR,5,1,2,2,0,5,0,0,11
+Lamine Yamal,Barcelona,UNKNOWN,ESP,5,0,5,0,0,5,0,3,8
+Luis Díaz,Bayern München,CENTRAL_MIDFIELDER,COL,4,4,0,0,0,4,0,0,8
+Marcos Llorente,Atleti,UNKNOWN,ESP,4,4,0,0,0,3,1,0,10
+Igor Paixão,Marseille,UNKNOWN,BRA,4,4,0,0,0,1,3,0,8
+Sondre Brunstad Fet,Bodø/Glimt,UNKNOWN,NOR,4,3,1,0,0,4,0,2,12
+Lautaro Martínez,Inter,STRIKER,ARG,4,3,1,0,0,4,0,0,8
+Randal Kolo Muani,Tottenham,UNKNOWN,FRA,4,3,0,1,0,4,0,0,9
+Viktor Gyökeres,Arsenal,UNKNOWN,SWE,4,3,0,0,1,3,1,0,8
+Robert Lewandowski,Barcelona,STRIKER,POL,4,2,1,1,0,4,0,0,9
+Weston McKennie,Juventus,UNKNOWN,USA,4,2,0,2,0,4,0,0,10
+Serhou Guirassy,B. Dortmund,STRIKER,GUI,4,2,0,2,0,4,0,0,10
+Alejandro Grimaldo,Leverkusen,FULL_BACK,ESP,4,1,3,0,0,3,1,0,12
+Francisco Trincão,Sporting CP,STRIKER,POR,4,1,3,0,0,3,1,0,9
+Désiré Doué,Paris,UNKNOWN,FRA,4,1,3,0,0,3,1,0,8
+Lennart Karl,Bayern München,UNKNOWN,GER,4,1,3,0,0,3,1,0,7
+Lazar Samardžić,Atalanta,UNKNOWN,SRB,4,0,3,1,0,3,1,2,10
+Patrik Schick,Leverkusen,STRIKER,CZE,4,0,1,3,0,4,0,0,9
+Scott McTominay,Napoli,DEFENSIVE_MIDFIELDER,SCO,4,0,0,3,1,4,0,0,8
+Enzo Fernández,Chelsea,UNKNOWN,ARG,3,3,0,0,0,3,0,2,10
+Nicolo Tresoldi,Club Brugge,UNKNOWN,GER,3,3,0,0,0,3,0,0,10
+Leandro Andrade,Qarabağ,UNKNOWN,CPV,3,3,0,0,0,3,0,0,9
+Gelson Martins,Olympiacos,ATTACKING_MIDFIELDER,POR,3,3,0,0,0,3,0,0,9
+Alisson Santos,Sporting CP,UNKNOWN,BRA,3,3,0,0,0,3,0,0,8
+Nicolas Jackson,Bayern München,UNKNOWN,SEN,3,3,0,0,0,3,0,0,8
+Ricardo Pepi,PSV,UNKNOWN,USA,3,3,0,0,0,3,0,0,5
+Dominic Solanke,Tottenham,UNKNOWN,ENG,3,3,0,0,0,3,0,0,3
+Xavi Simons,Tottenham,UNKNOWN,NED,3,3,0,0,0,2,1,2,10
+Rayan Cherki,Man City,UNKNOWN,FRA,3,3,0,0,0,2,1,0,8
+Pierre-Emerick Aubameyang,Marseille,STRIKER,GAB,3,3,0,0,0,2,1,0,8
+Ismael Saibari,PSV,ATTACKING_MIDFIELDER,MAR,3,3,0,0,0,1,2,0,7
+Felix Nmecha,B. Dortmund,MIDFIELDER,GER,3,3,0,0,0,0,3,0,10
+Federico Valverde,Real Madrid,UNKNOWN,URU,3,2,1,0,0,3,0,0,11
+Julian Brandt,B. Dortmund,WINGER,GER,3,2,1,0,0,3,0,0,9
+Dušan Vlahović,Juventus,STRIKER,SRB,3,2,1,0,0,3,0,0,4
+Hugo Ekitiké,Liverpool,UNKNOWN,FRA,3,2,1,0,0,2,1,0,10
+Jordan Teze,Monaco,FULL_BACK,NED,3,2,1,0,0,2,1,0,9
+João Pedro,Chelsea,UNKNOWN,BRA,3,2,1,0,0,2,1,0,8
+Anan Khalaili,Union SG,UNKNOWN,ISR,3,2,1,0,0,2,1,0,8
+Couhaib Driouech,PSV,UNKNOWN,NED,3,2,1,0,0,2,1,0,7
+Oscar Gloukh,Ajax,CENTRAL_MIDFIELDER,ISR,3,2,1,0,0,1,2,0,8
+Estêvão,Chelsea,UNKNOWN,BRA,3,1,2,0,0,3,0,1,7
+Raphinha,Barcelona,WINGER,BRA,3,1,2,0,0,3,0,1,7
+Mason Greenwood,Marseille,STRIKER,ENG,3,1,2,0,0,3,0,0,8
+Rasmus Højlund,Napoli,UNKNOWN,DEN,3,1,1,1,0,3,0,0,7
+Gianluca Scamacca,Atalanta,UNKNOWN,ITA,3,1,0,2,0,3,0,0,10
+Mario Pašalić,Atalanta,CENTRAL_MIDFIELDER,CRO,3,1,0,2,0,3,0,0,9
+Viktor Daðason,Copenhagen,UNKNOWN,ISL,3,1,0,2,0,2,1,0,6
+Jordan Larsson,Copenhagen,UNKNOWN,SWE,3,0,3,0,0,3,0,1,8
+Michael Olise,Bayern München,UNKNOWN,FRA,3,0,3,0,0,2,1,0,9
+Karim Adeyemi,B. Dortmund,STRIKER,GER,3,0,3,0,0,2,1,0,9
+Mohamed Salah,Liverpool,WINGER,EGY,3,0,3,0,0,1,2,0,9
+Noni Madueke,Arsenal,ATTACKING_MIDFIELDER,ENG,3,0,2,1,0,2,1,0,5
+Alexis Mac Allister,Liverpool,UNKNOWN,ARG,3,0,1,2,0,3,0,0,10
+Vangelis Pavlidis,Benfica,STRIKER,GRE,2,2,0,0,0,2,0,1,10
+Promise David,Union SG,UNKNOWN,CAN,2,2,0,0,0,2,0,1,7
+Aleksandar Stanković,Club Brugge,UNKNOWN,SRB,2,2,0,0,0,2,0,0,10
+Anthony Elanga,Newcastle,WINGER,SWE,2,2,0,0,0,2,0,0,10
+Marquinhos,Paris,CENTRE_BACK,BRA,2,2,0,0,0,2,0,0,10
+Pio Esposito,Inter,UNKNOWN,ITA,2,2,0,0,0,2,0,0,9
+Jonathan David,Juventus,ATTACKING_MIDFIELDER,CAN,2,2,0,0,0,2,0,0,9
+Serge Gnabry,Bayern München,WINGER,GER,2,2,0,0,0,2,0,0,9
+Romeo Vermant,Club Brugge,UNKNOWN,BEL,2,2,0,0,0,2,0,0,8
+Guus Til,PSV,CENTRAL_MIDFIELDER,NED,2,2,0,0,0,2,0,0,8
+Ferran Torres,Barcelona,WINGER,ESP,2,2,0,0,0,2,0,0,8
+Ousmane Dembélé,Paris,UNKNOWN,FRA,2,2,0,0,0,2,0,0,8
+Federico Gatti,Juventus,UNKNOWN,ITA,2,2,0,0,0,2,0,0,5
+Jamal Musiala,Bayern München,UNKNOWN,GER,2,2,0,0,0,2,0,0,2
+Aleix García,Leverkusen,UNKNOWN,ESP,2,2,0,0,0,1,1,1,12
+Kasper Dolberg,Ajax,FORWARD,DEN,2,2,0,0,0,1,1,1,5
+Malik Tillman,Leverkusen,UNKNOWN,USA,2,2,0,0,0,1,1,0,10
+Robert Navarro,Athletic Club,ATTACKING_MIDFIELDER,ESP,2,2,0,0,0,1,1,0,7
+Mislav Oršić,Pafos,WINGER,CRO,2,2,0,0,0,0,2,0,8
+Bradley Barcola,Paris,UNKNOWN,FRA,2,1,1,0,0,2,0,0,12
+Ole Didrik Blomberg,Bodø/Glimt,UNKNOWN,NOR,2,1,1,0,0,2,0,0,10
+Noa Lang,Galatasaray,WINGER,NED,2,1,1,0,0,2,0,0,10
+Teun Koopmeiners,Juventus,CENTRAL_MIDFIELDER,NED,2,1,1,0,0,2,0,0,10
+Mamadou Diakhon,Club Brugge,UNKNOWN,FRA,2,1,1,0,0,2,0,0,9
+Christos Tzolis,Club Brugge,WINGER,GRE,2,1,1,0,0,2,0,0,9
+Cody Gakpo,Liverpool,WINGER,NED,2,1,1,0,0,2,0,0,9
+Ansgar Knauff,Frankfurt,UNKNOWN,GER,2,1,1,0,0,2,0,0,8
+Charles De Ketelaere,Atalanta,CENTRAL_MIDFIELDER,BEL,2,1,1,0,0,2,0,0,8
+Jude Bellingham,Real Madrid,UNKNOWN,ENG,2,1,1,0,0,2,0,0,7
+Raphael Onyedika,Club Brugge,UNKNOWN,NGA,2,1,1,0,0,2,0,0,6
+Dennis Man,PSV,STRIKER,ROU,2,1,1,0,0,1,1,0,8
+Willian Pacho,Paris,UNKNOWN,ECU,2,1,0,1,0,2,0,0,12
+Mehdi Taremi,Olympiacos,STRIKER,IRN,2,1,0,1,0,2,0,0,10
+Joelinton,Newcastle,STRIKER,BRA,2,1,0,1,0,2,0,0,10
+Andreas Schjelderup,Benfica,UNKNOWN,NOR,2,1,0,1,0,2,0,0,7
+Gabriel Jesus,Arsenal,STRIKER,BRA,2,1,0,1,0,2,0,0,4
+Moises Caicedo,Chelsea,UNKNOWN,ECU,2,1,0,1,0,1,1,0,10
+Robert,Copenhagen,UNKNOWN,BRA,2,1,0,1,0,1,1,0,6
+Hans Vanaken,Club Brugge,ATTACKING_MIDFIELDER,BEL,2,1,0,0,1,2,0,0,10
+Ramy Bensebaini,B. Dortmund,CENTRE_BACK,ALG,2,0,2,0,0,2,0,2,9
+Bukayo Saka,Arsenal,WINGER,ENG,2,0,2,0,0,2,0,1,8
+Kai Havertz,Arsenal,STRIKER,GER,2,0,2,0,0,2,0,1,3
+Nuno Mendes,Paris,FULL_BACK,POR,2,0,2,0,0,2,0,0,12
+Antoine Griezmann,Atleti,STRIKER,FRA,2,0,2,0,0,2,0,0,11
+Elvin Jafarguliyev,Qarabağ,CENTRAL_MIDFIELDER,AZE,2,0,2,0,0,2,0,0,10
+Gonçalo Ramos,Paris,STRIKER,POR,2,0,2,0,0,2,0,0,10
+Maximiliano Araújo,Sporting CP,UNKNOWN,URU,2,0,2,0,0,2,0,0,9
+Senny Mayulu,Paris,UNKNOWN,FRA,2,0,2,0,0,2,0,0,9
+Carlos Forbs,Club Brugge,UNKNOWN,POR,2,0,2,0,0,2,0,0,9
+Yunus Akgün,Galatasaray,CENTRAL_MIDFIELDER,TUR,2,0,2,0,0,2,0,0,9
+Youssoupha Mbodji,Slavia Praha,UNKNOWN,SEN,2,0,2,0,0,2,0,0,7
+Geovany Quenda,Sporting CP,UNKNOWN,POR,2,0,2,0,0,2,0,0,5
+Can Uzun,Frankfurt,UNKNOWN,TUR,2,0,2,0,0,2,0,0,5
+Denzel Dumfries,Inter,FULL_BACK,NED,2,0,2,0,0,2,0,0,5
+Tani Oluwaseyi,Villarreal,MIDFIELDER,CAN,2,0,2,0,0,1,1,0,7
+Phil Foden,Man City,UNKNOWN,ENG,2,0,2,0,0,0,2,0,7
+Ayoub El Kaabi,Olympiacos,UNKNOWN,MAR,2,0,1,1,0,2,0,1,10
+Robin Le Normand,Atleti,CENTRE_BACK,ESP,2,0,1,1,0,2,0,0,10
+Dávid Hancko,Atleti,CENTRE_BACK,SVK,2,0,1,1,0,2,0,0,10
+Daniel Svensson,B. Dortmund,UNKNOWN,SWE,2,0,1,1,0,2,0,0,9
+Micky van de Ven,Tottenham,UNKNOWN,NED,2,0,1,1,0,2,0,0,8
+Mikel Merino,Arsenal,CENTRAL_MIDFIELDER,ESP,2,0,1,1,0,2,0,0,7
+Jonathan Burkardt,Frankfurt,UNKNOWN,GER,2,0,1,1,0,2,0,0,5
+Ademola Lookman,Atleti,WINGER,NGA,2,0,1,0,1,2,0,0,11
+Leandro Barreiro,Benfica,UNKNOWN,LUX,2,0,1,0,0,2,0,0,9
+Giuliano Simeone,Atleti,UNKNOWN,ARG,2,0,0,2,0,2,0,0,11
+Virgil van Dijk,Liverpool,CENTRE_BACK,NED,2,0,0,2,0,2,0,0,10
+Marcus Thuram,Inter,WINGER,FRA,2,0,0,2,0,2,0,0,9
+Jules Koundé,Barcelona,CENTRE_BACK,FRA,2,0,0,2,0,2,0,0,8
+Manuel Locatelli,Juventus,DEFENSIVE_MIDFIELDER,ITA,1,1,0,0,0,1,0,1,9
+Fares Chaibi,Frankfurt,UNKNOWN,ALG,1,1,0,0,0,1,0,1,8
+Jorginho,Kairat Almaty,UNKNOWN,POR,1,1,0,0,0,1,0,1,8
+Ivan Perišić,PSV,WINGER,CRO,1,1,0,0,0,1,0,1,8
+Hakan Çalhanoğlu,Inter,ATTACKING_MIDFIELDER,TUR,1,1,0,0,0,1,0,1,6
+Mohammed Kudus,Tottenham,ATTACKING_MIDFIELDER,GHA,1,1,0,0,0,1,0,1,5
+Wout Weghorst,Ajax,STRIKER,NED,1,1,0,0,0,1,0,1,5
+Eric Dier,Monaco,DEFENSIVE_MIDFIELDER,ENG,1,1,0,0,0,1,0,1,3
+Fredrik Sjøvold,Bodø/Glimt,UNKNOWN,NOR,1,1,0,0,0,1,0,0,12
+Barış Alper Yılmaz,Galatasaray,UNKNOWN,TUR,1,1,0,0,0,1,0,0,12
+Håkon Evjen,Bodø/Glimt,CENTRAL_MIDFIELDER,NOR,1,1,0,0,0,1,0,0,12
+Aurélien Tchouaméni,Real Madrid,CENTRAL_MIDFIELDER,FRA,1,1,0,0,0,1,0,0,12
+Nikola Krstović,Atalanta,STRIKER,MNE,1,1,0,0,0,1,0,0,12
+Christian Kofane,Leverkusen,UNKNOWN,CMR,1,1,0,0,0,1,0,0,11
+Sandro Tonali,Newcastle,DEFENSIVE_MIDFIELDER,ITA,1,1,0,0,0,1,0,0,11
+Matheus Silva,Qarabağ,UNKNOWN,BRA,1,1,0,0,0,1,0,0,10
+Brahim Díaz,Real Madrid,ATTACKING_MIDFIELDER,MAR,1,1,0,0,0,1,0,0,10
+Jonathan Tah,Bayern München,CENTRE_BACK,GER,1,1,0,0,0,1,0,0,10
+Piotr Zieliński,Inter,ATTACKING_MIDFIELDER,POL,1,1,0,0,0,1,0,0,10
+Éderson,Atalanta,UNKNOWN,BRA,1,1,0,0,0,1,0,0,9
+João Neves,Paris,UNKNOWN,POR,1,1,0,0,0,1,0,0,9
+Maximilian Beier,B. Dortmund,STRIKER,GER,1,1,0,0,0,1,0,0,9
+Fábio Silva,B. Dortmund,STRIKER,POR,1,1,0,0,0,1,0,0,9
+Khephren Thuram,Juventus,DEFENSIVE_MIDFIELDER,FRA,1,1,0,0,0,1,0,0,9
+Alessandro Bastoni,Inter,CENTRE_BACK,ITA,1,1,0,0,0,1,0,0,9
+Achraf Hakimi,Paris,WINGER,MAR,1,1,0,0,0,1,0,0,9
+Bahlul Mustafazade,Qarabağ,UNKNOWN,AZE,1,1,0,0,0,1,0,0,9
+Pedro Porro,Tottenham,FULL_BACK,ESP,1,1,0,0,0,1,0,0,9
+Richard Ríos,Benfica,UNKNOWN,COL,1,1,0,0,0,1,0,0,8
+Štěpán Chaloupek,Slavia Praha,UNKNOWN,CZE,1,1,0,0,0,1,0,0,8
+Kevin Mac Allister,Union SG,UNKNOWN,ITA,1,1,0,0,0,1,0,0,8
+Nico O’Reilly,Man City,UNKNOWN,ENG,1,1,0,0,0,1,0,0,8
+Cristian Romero,Tottenham,UNKNOWN,ARG,1,1,0,0,0,1,0,0,8
+Conor Gallagher,Tottenham,UNKNOWN,ENG,1,1,0,0,0,1,0,0,8
+Loïs Openda,Juventus,STRIKER,BEL,1,1,0,0,0,1,0,0,8
+João Palhinha,Tottenham,DEFENSIVE_MIDFIELDER,POR,1,1,0,0,0,1,0,0,8
+Franco Mastantuono,Real Madrid,UNKNOWN,ARG,1,1,0,0,0,1,0,0,7
+Edmilson,Kairat Almaty,UNKNOWN,BRA,1,1,0,0,0,1,0,0,7
+Anton Gaaei,Ajax,UNKNOWN,DEN,1,1,0,0,0,1,0,0,7
+Yan Couto,B. Dortmund,UNKNOWN,BRA,1,1,0,0,0,1,0,0,7
+Georges Mikautadze,Villarreal,FORWARD,GEO,1,1,0,0,0,1,0,0,7
+Wilson Odobert,Tottenham,UNKNOWN,FRA,1,1,0,0,0,1,0,0,7
+Sacha Boey,Galatasaray,FULL_BACK,FRA,1,1,0,0,0,1,0,0,7
+Malo Gusto,Chelsea,UNKNOWN,FRA,1,1,0,0,0,1,0,0,7
+Elias Achouri,Copenhagen,WINGER,TUN,1,1,0,0,0,1,0,0,7
+Bruno,Pafos,UNKNOWN,BRA,1,1,0,0,0,1,0,0,7
+Anouar Ait El Hadj,Union SG,MIDFIELDER,BEL,1,1,0,0,0,1,0,0,7
+Vasil Kušej,Slavia Praha,UNKNOWN,CZE,1,1,0,0,0,1,0,0,7
+Timothy Weah,Marseille,STRIKER,USA,1,1,0,0,0,1,0,0,7
+Mohamed Elyounoussi,Copenhagen,WINGER,NOR,1,1,0,0,0,1,0,0,7
+Marc Bernal,Barcelona,UNKNOWN,ESP,1,1,0,0,0,1,0,0,6
+Oihan Sancet,Athletic Club,UNKNOWN,ESP,1,1,0,0,0,1,0,0,6
+Leandro Trossard,Arsenal,WINGER,BEL,1,1,0,0,0,1,0,0,6
+Rodrygo,Real Madrid,WINGER,BRA,1,1,0,0,0,1,0,0,5
+Liam Delap,Chelsea,UNKNOWN,ENG,1,1,0,0,0,1,0,0,5
+Federico Chiesa,Liverpool,ATTACKING_MIDFIELDER,ITA,1,1,0,0,0,1,0,0,5
+Takumi Minamino,Monaco,STRIKER,JPN,1,1,0,0,0,1,0,0,5
+Oliver Edvardsen,Ajax,UNKNOWN,NOR,1,1,0,0,0,1,0,0,4
+Rasmus Kristensen,Frankfurt,FULL_BACK,DEN,1,1,0,0,0,1,0,0,4
+Daniel Bassi,Bodø/Glimt,UNKNOWN,NOR,1,1,0,0,0,1,0,0,3
+Rafa Silva,Benfica,STRIKER,POR,1,1,0,0,0,1,0,0,2
+Ruben van Bommel,PSV,UNKNOWN,NED,1,1,0,0,0,1,0,0,1
+Rafael Nel,Sporting CP,FORWARD,POR,1,1,0,0,0,1,0,0,1
+Marc Guiu,Chelsea,UNKNOWN,ESP,1,1,0,0,0,1,0,0,1
+Emmanuel Addai,Qarabağ,UNKNOWN,GHA,1,1,0,0,0,0,1,0,10
+Kenan Yıldız,Juventus,UNKNOWN,TUR,1,1,0,0,0,0,1,0,10
+Petar Sučić,Inter,UNKNOWN,CRO,1,1,0,0,0,0,1,0,10
+Chiquinho,Olympiacos,ATTACKING_MIDFIELDER,POR,1,1,0,0,0,0,1,0,10
+Davide Zappacosta,Atalanta,FULL_BACK,ITA,1,1,0,0,0,0,1,0,10
+Florian Wirtz,Liverpool,WINGER,GER,1,1,0,0,0,0,1,0,9
+Eberechi Eze,Arsenal,UNKNOWN,ENG,1,1,0,0,0,0,1,0,9
+Declan Rice,Arsenal,MIDFIELDER,ENG,1,1,0,0,0,0,1,0,8
+Dani Olmo,Barcelona,WINGER,ESP,1,1,0,0,0,0,1,0,8
+Johnny Cardoso,Atleti,UNKNOWN,USA,1,1,0,0,0,0,1,0,7
+Adilet Sadybekov,Kairat Almaty,UNKNOWN,KAZ,1,1,0,0,0,0,1,0,5
+Brennan Johnson,Tottenham,MIDFIELDER,WAL,1,1,0,0,0,0,1,0,4
+Marko Janković,Qarabağ,WINGER,MNE,1,0,1,0,0,1,0,1,9
+Gabriel Sara,Galatasaray,UNKNOWN,BRA,1,0,1,0,0,1,0,0,12
+Maghnes Akliouche,Monaco,UNKNOWN,FRA,1,0,1,0,0,1,0,0,10
+Nick Woltemade,Newcastle,UNKNOWN,GER,1,0,1,0,0,1,0,0,10
+Abdellah Zoubir,Qarabağ,CENTRAL_MIDFIELDER,FRA,1,0,1,0,0,1,0,0,10
+Geny Catamo,Sporting CP,UNKNOWN,MOZ,1,0,1,0,0,1,0,0,9
+Alejandro Garnacho,Chelsea,UNKNOWN,ARG,1,0,1,0,0,1,0,0,9
+Samuel Dahl,Benfica,UNKNOWN,SWE,1,0,1,0,0,1,0,0,9
+Francisco Conceição,Juventus,UNKNOWN,POR,1,0,1,0,0,1,0,0,9
+Jeremy Doku,Man City,STRIKER,BEL,1,0,1,0,0,1,0,0,9
+Ryan Gravenberch,Liverpool,CENTRAL_MIDFIELDER,NED,1,0,1,0,0,1,0,0,9
+Waldemar Anton,B. Dortmund,UNKNOWN,GER,1,0,1,0,0,1,0,0,9
+Carney Chukwuemeka,B. Dortmund,UNKNOWN,AUT,1,0,1,0,0,1,0,0,8
+Olexiy Kashchuk,Qarabağ,UNKNOWN,UKR,1,0,1,0,0,1,0,0,8
+Anderson,Pafos,UNKNOWN,BRA,1,0,1,0,0,1,0,0,7
+Raphaël Guerreiro,Bayern München,FULL_BACK,POR,1,0,1,0,0,1,0,0,7
+Pedro Gonçalves,Sporting CP,UNKNOWN,POR,1,0,1,0,0,1,0,0,6
+Fabián Ruiz,Paris,CENTRAL_MIDFIELDER,ESP,1,0,1,0,0,1,0,0,6
+Josip Stanišić,Bayern München,UNKNOWN,CRO,1,0,1,0,0,1,0,0,6
+Andy Robertson,Liverpool,UNKNOWN,SCO,1,0,1,0,0,1,0,0,6
+Dastan Satpayev,Kairat Almaty,UNKNOWN,KAZ,1,0,1,0,0,1,0,0,5
+Nico Serrano,Athletic Club,UNKNOWN,ESP,1,0,1,0,0,1,0,0,5
+Ansu Fati,Monaco,UNKNOWN,ESP,1,0,1,0,0,1,0,0,5
+Yoane Wissa,Newcastle,FORWARD,COD,1,0,1,0,0,1,0,0,4
+Tyrique George,Chelsea,UNKNOWN,ENG,1,0,1,0,0,1,0,0,4
+Antonio Vergara,Napoli,FORWARD,ITA,1,0,1,0,0,1,0,0,4
+Olzhas Baibek,Kairat Almaty,UNKNOWN,KAZ,1,0,1,0,0,1,0,0,4
+Andy Diouf,Inter,UNKNOWN,FRA,1,0,1,0,0,1,0,0,4
+Cole Palmer,Chelsea,UNKNOWN,ENG,1,0,1,0,0,1,0,0,4
+Giacomo Raspadori,Atalanta,UNKNOWN,ITA,1,0,1,0,0,1,0,0,3
+Andreas Cornelius,Copenhagen,STRIKER,DEN,1,0,1,0,0,1,0,0,3
+Jacob Murphy,Newcastle,UNKNOWN,ENG,1,0,1,0,0,0,1,0,9
+Federico Dimarco,Inter,UNKNOWN,ITA,1,0,1,0,0,0,1,0,9
+Vlad Dragomir,Pafos,CENTRAL_MIDFIELDER,ROU,1,0,1,0,0,0,1,0,8
+Carlos Augusto,Inter,UNKNOWN,BRA,1,0,1,0,0,0,1,0,7
+Andreas Helmersen,Bodø/Glimt,STRIKER,NOR,1,0,0,1,0,1,0,0,12
+Dan Burn,Newcastle,UNKNOWN,ENG,1,0,0,1,0,1,0,0,11
+Malick Thiaw,Newcastle,UNKNOWN,GER,1,0,0,1,0,1,0,0,11
+Joel Ordoñez,Club Brugge,UNKNOWN,ECU,1,0,0,1,0,1,0,0,10
+Eduardo Camavinga,Real Madrid,DEFENSIVE_MIDFIELDER,FRA,1,0,0,1,0,1,0,0,10
+Anatoliy Trubin,Benfica,GOALKEEPER,UKR,1,0,0,1,0,1,0,0,10
+Brandon Mechele,Club Brugge,CENTRE_BACK,BEL,1,0,0,1,0,1,0,0,10
+Santiago Hezze,Olympiacos,UNKNOWN,ARG,1,0,0,1,0,1,0,0,9
+Enzo Barrenechea,Benfica,UNKNOWN,ARG,1,0,0,1,0,1,0,0,9
+Gonçalo Inácio,Sporting CP,CENTRE_BACK,POR,1,0,0,1,0,1,0,0,9
+Mario Lemina,Galatasaray,UNKNOWN,GAB,1,0,0,1,0,1,0,0,9
+Lloyd Kelly,Juventus,UNKNOWN,ENG,1,0,0,1,0,1,0,0,9
+Haitam Aleesami,Bodø/Glimt,UNKNOWN,NOR,1,0,0,1,0,1,0,0,9
+Joe Willock,Newcastle,CENTRAL_MIDFIELDER,ENG,1,0,0,1,0,1,0,0,9
+Robert Andrich,Leverkusen,MIDFIELDER,GER,1,0,0,1,0,1,0,0,9
+Ricardinho,Kairat Almaty,UNKNOWN,BRA,1,0,0,1,0,1,0,0,8
+Renato Veiga,Villarreal,UNKNOWN,POR,1,0,0,1,0,1,0,0,8
+Sven Botman,Newcastle,CENTRE_BACK,NED,1,0,0,1,0,1,0,0,8
+Ibrahima Konaté,Liverpool,CENTRE_BACK,FRA,1,0,0,1,0,1,0,0,8
+Derrick Luckassen,Pafos,FULL_BACK,NED,1,0,0,1,0,1,0,0,8
+Bernardo Silva,Man City,ATTACKING_MIDFIELDER,POR,1,0,0,1,0,1,0,0,8
+Lewis Miley,Newcastle,UNKNOWN,ENG,1,0,0,1,0,1,0,0,7
+Ousmane Diomande,Sporting CP,UNKNOWN,CIV,1,0,0,1,0,1,0,0,7
+Gabriel,Arsenal,CENTRE_BACK,BRA,1,0,0,1,0,1,0,0,7
+Richarlison,Tottenham,UNKNOWN,BRA,1,0,0,1,0,1,0,0,7
+Costinha,Olympiacos,UNKNOWN,POR,1,0,0,1,0,1,0,0,7
+Jurriën Timber,Arsenal,FULL_BACK,NED,1,0,0,1,0,1,0,0,7
+David Luiz,Pafos,CENTRE_BACK,BRA,1,0,0,1,0,1,0,0,7
+Ross Sykes,Union SG,UNKNOWN,ENG,1,0,0,1,0,1,0,0,6
+José María Giménez,Atleti,CENTRE_BACK,URU,1,0,0,1,0,1,0,0,6
+Ofri Arad,Kairat Almaty,UNKNOWN,ISR,1,0,0,1,0,1,0,0,4
+Davinson Sánchez,Galatasaray,CENTRE_BACK,COL,1,0,0,0,1,1,0,0,11
+Santiago Comesaña,Villarreal,UNKNOWN,ESP,1,0,0,0,1,1,0,0,8
+Ibrahim Maza,Leverkusen,UNKNOWN,ALG,0,0,0,0,0,0,0,0,12
+Odin Bjørtuft,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,12
+Arda Güler,Real Madrid,UNKNOWN,TUR,0,0,0,0,0,0,0,0,12
+Warren Zaïre-Emery,Paris,DEFENSIVE_MIDFIELDER,FRA,0,0,0,0,0,0,0,0,12
+Nikita Haikin,Bodø/Glimt,UNKNOWN,RUS,0,0,0,0,0,0,0,0,12
+Ernest Poku,Leverkusen,UNKNOWN,NED,0,0,0,0,0,0,0,0,12
+Lucas Torreira,Galatasaray,DEFENSIVE_MIDFIELDER,URU,0,0,0,0,0,0,0,0,12
+Ismail Jakobs,Galatasaray,UNKNOWN,SEN,0,0,0,0,0,0,0,0,12
+Uğurcan Çakır,Galatasaray,GOALKEEPER,TUR,0,0,0,0,0,0,0,0,12
+Patrick Berg,Bodø/Glimt,MIDFIELDER,NOR,0,0,0,0,0,0,0,0,12
+Roland Sallai,Galatasaray,UNKNOWN,HUN,0,0,0,0,0,0,0,0,12
+Marten de Roon,Atalanta,CENTRAL_MIDFIELDER,NED,0,0,0,0,0,0,0,0,12
+Koke,Atleti,CENTRAL_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,12
+Jarell Quansah,Leverkusen,UNKNOWN,ENG,0,0,0,0,0,0,0,0,11
+Matteo Ruggeri,Atleti,UNKNOWN,ITA,0,0,0,0,0,0,0,0,11
+Abdülkerim Bardakcı,Galatasaray,CENTRE_BACK,TUR,0,0,0,0,0,0,0,0,11
+Thibaut Courtois,Real Madrid,GOALKEEPER,BEL,0,0,0,0,0,0,0,0,11
+Yann Sommer,Inter,GOALKEEPER,SUI,0,0,0,0,0,0,0,0,10
+Pedro Bicalho,Qarabağ,UNKNOWN,BRA,0,0,0,0,0,0,0,0,10
+Gerard Martín,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,10
+Francisco Ortega,Olympiacos,UNKNOWN,ARG,0,0,0,0,0,0,0,0,10
+Guglielmo Vicario,Tottenham,UNKNOWN,ITA,0,0,0,0,0,0,0,0,10
+Ange-Yoan Bonny,Inter,UNKNOWN,FRA,0,0,0,0,0,0,0,0,10
+Christos Mouzakitis,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,10
+Djed Spence,Tottenham,UNKNOWN,ENG,0,0,0,0,0,0,0,0,10
+Jobe Bellingham,B. Dortmund,UNKNOWN,ENG,0,0,0,0,0,0,0,0,10
+Aleksandar Pavlović,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,10
+Eren Elmalı,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,10
+Kevin Medina,Qarabağ,CENTRE_BACK,COL,0,0,0,0,0,0,0,0,10
+Lewis Hall,Newcastle,UNKNOWN,ENG,0,0,0,0,0,0,0,0,10
+Isak Dybvik Määttä,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,10
+Lorenzo Bernasconi,Atalanta,UNKNOWN,ITA,0,0,0,0,0,0,0,0,10
+Odilon Kossounou,Atalanta,CENTRE_BACK,CIV,0,0,0,0,0,0,0,0,10
+Sondre Auklend,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,10
+Amar Dedić,Benfica,UNKNOWN,BIH,0,0,0,0,0,0,0,0,10
+Lorenzo Pirola,Olympiacos,FULL_BACK,ITA,0,0,0,0,0,0,0,0,10
+Pierre Kalulu,Juventus,FULL_BACK,FRA,0,0,0,0,0,0,0,0,10
+Tijjani Reijnders,Man City,CENTRAL_MIDFIELDER,NED,0,0,0,0,0,0,0,0,10
+Edmond Tapsoba,Leverkusen,CENTRE_BACK,BFA,0,0,0,0,0,0,0,0,10
+Marco Carnesecchi,Atalanta,UNKNOWN,ITA,0,0,0,0,0,0,0,0,10
+Fredrik André Bjørkan,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,10
+Mateusz Kochalski,Qarabağ,UNKNOWN,POL,0,0,0,0,0,0,0,0,10
+Manuel Akanji,Inter,UNKNOWN,SUI,0,0,0,0,0,0,0,0,10
+Mauro Icardi,Galatasaray,STRIKER,ARG,0,0,0,0,0,0,0,0,10
+Gregor Kobel,B. Dortmund,GOALKEEPER,SUI,0,0,0,0,0,0,0,0,10
+Leroy Sané,Galatasaray,WINGER,GER,0,0,0,0,0,0,0,0,10
+Fredrik Aursnes,Benfica,DEFENSIVE_MIDFIELDER,NOR,0,0,0,0,0,0,0,0,10
+Berat Djimsiti,Atalanta,FULL_BACK,ALB,0,0,0,0,0,0,0,0,10
+Nicolás Otamendi,Benfica,UNKNOWN,ARG,0,0,0,0,0,0,0,0,10
+Jan Oblak,Atleti,GOALKEEPER,SVN,0,0,0,0,0,0,0,0,10
+Equi Fernández,Leverkusen,UNKNOWN,ARG,0,0,0,0,0,0,0,0,9
+Honest Ahanor,Atalanta,UNKNOWN,ITA,0,0,0,0,0,0,0,0,9
+Kamaldeen Sulemana,Atalanta,UNKNOWN,GHA,0,0,0,0,0,0,0,0,9
+Iván Fresneda,Sporting CP,UNKNOWN,ESP,0,0,0,0,0,0,0,0,9
+Mamadou Coulibaly,Monaco,UNKNOWN,FRA,0,0,0,0,0,0,0,0,9
+Pau Cubarsí,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,9
+Pape Sarr,Tottenham,UNKNOWN,SEN,0,0,0,0,0,0,0,0,9
+Isak Hien,Atalanta,UNKNOWN,SWE,0,0,0,0,0,0,0,0,9
+Nahuel Molina,Atleti,UNKNOWN,ARG,0,0,0,0,0,0,0,0,9
+David Raya,Arsenal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,9
+Tom Bischof,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,9
+Joaquin Seys,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,9
+Andrea Cambiaso,Juventus,UNKNOWN,ITA,0,0,0,0,0,0,0,0,9
+Jacob Ramsey,Newcastle,UNKNOWN,ENG,0,0,0,0,0,0,0,0,9
+Hidemasa Morita,Sporting CP,UNKNOWN,JPN,0,0,0,0,0,0,0,0,9
+Pablo Barrios,Atleti,UNKNOWN,ESP,0,0,0,0,0,0,0,0,9
+Kyriani Sabbe,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,9
+Nicolás González,Atleti,UNKNOWN,ARG,0,0,0,0,0,0,0,0,9
+Kostas Tzolakis,Olympiacos,GOALKEEPER,GRE,0,0,0,0,0,0,0,0,9
+Kang-in Lee,Paris,STRIKER,KOR,0,0,0,0,0,0,0,0,9
+Georgiy Sudakov,Benfica,ATTACKING_MIDFIELDER,UKR,0,0,0,0,0,0,0,0,9
+Tomás Araújo,Benfica,CENTRE_BACK,POR,0,0,0,0,0,0,0,0,9
+Jostein Gundersen,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,9
+Álex Baena,Atleti,WINGER,ESP,0,0,0,0,0,0,0,0,9
+Eric García,Barcelona,CENTRE_BACK,ESP,0,0,0,0,0,0,0,0,9
+Morten Hjulmand,Sporting CP,CENTRAL_MIDFIELDER,DEN,0,0,0,0,0,0,0,0,9
+Caio Henrique,Monaco,UNKNOWN,BRA,0,0,0,0,0,0,0,0,9
+Julian Ryerson,B. Dortmund,DEFENDER,NOR,0,0,0,0,0,0,0,0,9
+Raoul Bellanova,Atalanta,FULL_BACK,ITA,0,0,0,0,0,0,0,0,9
+Gianluigi Donnarumma,Man City,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,9
+Panagiotis Retsos,Olympiacos,CENTRE_BACK,GRE,0,0,0,0,0,0,0,0,9
+Marc Cucurella,Chelsea,FULL_BACK,ESP,0,0,0,0,0,0,0,0,9
+Joshua Kimmich,Bayern München,CENTRE_BACK,GER,0,0,0,0,0,0,0,0,9
+Rui Silva,Sporting CP,GOALKEEPER,POR,0,0,0,0,0,0,0,0,9
+Thilo Kehrer,Monaco,CENTRAL_MIDFIELDER,GER,0,0,0,0,0,0,0,0,9
+Kieran Trippier,Newcastle,FULL_BACK,ENG,0,0,0,0,0,0,0,0,9
+Sergi Cardona,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Alejandro Rego,Athletic Club,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,8
+Gabriel Pereira,Copenhagen,UNKNOWN,BRA,0,0,0,0,0,0,0,0,8
+Dean Huijsen,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Marc Pubill,Atleti,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Nathaniel Brown,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,8
+Arthur,Leverkusen,UNKNOWN,BRA,0,0,0,0,0,0,0,0,8
+Rodinei ,Olympiacos,UNKNOWN,BRA,0,0,0,0,0,0,0,0,8
+Adem Zorgane,Union SG,UNKNOWN,ALG,0,0,0,0,0,0,0,0,8
+Myles Lewis-Skelly,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+João Simões,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,8
+Christian Burgess,Union SG,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Jerdy Schouten,PSV,UNKNOWN,NED,0,0,0,0,0,0,0,0,8
+Archie Gray,Tottenham,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Vanderson,Monaco,UNKNOWN,BRA,0,0,0,0,0,0,0,0,8
+Mika Biereth,Monaco,UNKNOWN,DEN,0,0,0,0,0,0,0,0,8
+Alexandr Mrynskiy,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,8
+Jean-Matteo Bahoya,Frankfurt,UNKNOWN,FRA,0,0,0,0,0,0,0,0,8
+Yerkin Tapalov,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,8
+Loïc Badé,Leverkusen,UNKNOWN,FRA,0,0,0,0,0,0,0,0,8
+Ben White,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Robert Sánchez,Chelsea,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Mika Godts,Ajax,UNKNOWN,BEL,0,0,0,0,0,0,0,0,8
+Álvaro Carreras,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Raúl Asencio,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Martin Zubimendi,Arsenal,DEFENSIVE_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,8
+Omar Marmoush,Man City,STRIKER,EGY,0,0,0,0,0,0,0,0,8
+Kamiel Van De Perre,Union SG,UNKNOWN,BEL,0,0,0,0,0,0,0,0,8
+Ronald Araújo,Barcelona,UNKNOWN,URU,0,0,0,0,0,0,0,0,8
+Youri Regeer,Ajax,CENTRAL_MIDFIELDER,NED,0,0,0,0,0,0,0,0,8
+Youri Baas,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,8
+Arthur Theate,Frankfurt,CENTRE_BACK,BEL,0,0,0,0,0,0,0,0,8
+Robin Koch,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,8
+Damir Kassabulat,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,8
+David Zima,Slavia Praha,CENTRE_BACK,CZE,0,0,0,0,0,0,0,0,8
+Nico González,Man City,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Kjell Scherpen,Union SG,GOALKEEPER,NED,0,0,0,0,0,0,0,0,8
+Marcos Lopez,Copenhagen,UNKNOWN,PER,0,0,0,0,0,0,0,0,8
+Ellyes Skhiri,Frankfurt,UNKNOWN,TUN,0,0,0,0,0,0,0,0,8
+Nick Pope,Newcastle,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Matěj Kovář,PSV,GOALKEEPER,CZE,0,0,0,0,0,0,0,0,8
+Reece James,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Toral Bayramov,Qarabağ,CENTRAL_MIDFIELDER,AZE,0,0,0,0,0,0,0,0,8
+Pedro Neto,Chelsea,WINGER,POR,0,0,0,0,0,0,0,0,8
+Nicolas Pépé,Villarreal,WINGER,CIV,0,0,0,0,0,0,0,0,8
+Joey Veerman,PSV,UNKNOWN,NED,0,0,0,0,0,0,0,0,8
+Dominik Kotarski,Copenhagen,GOALKEEPER,CRO,0,0,0,0,0,0,0,0,8
+Philipp Köhn,Monaco,GOALKEEPER,SUI,0,0,0,0,0,0,0,0,8
+Valeri Gromyko,Kairat Almaty,UNKNOWN,BLR,0,0,0,0,0,0,0,0,8
+Dani García,Olympiacos,UNKNOWN,ESP,0,0,0,0,0,0,0,0,8
+Egor Sorokin,Kairat Almaty,CENTRE_BACK,RUS,0,0,0,0,0,0,0,0,8
+Kevin Danso,Tottenham,DEFENDER,AUT,0,0,0,0,0,0,0,0,8
+Dayot Upamecano,Bayern München,CENTRE_BACK,FRA,0,0,0,0,0,0,0,0,8
+Michal Sadílek,Slavia Praha,CENTRAL_MIDFIELDER,CZE,0,0,0,0,0,0,0,0,8
+Trevoh Chalobah,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,8
+Unai Simón,Athletic Club,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,8
+Daniel Podence,Olympiacos,WINGER,POR,0,0,0,0,0,0,0,0,8
+Gerónimo Rulli,Marseille,GOALKEEPER,ARG,0,0,0,0,0,0,0,0,8
+Nicolò Barella,Inter,CENTRAL_MIDFIELDER,ITA,0,0,0,0,0,0,0,0,8
+Pêpê,Pafos,WINGER,POR,0,0,0,0,0,0,0,0,8
+Lukáš Provod,Slavia Praha,WINGER,CZE,0,0,0,0,0,0,0,0,8
+Leon Goretzka,Bayern München,CENTRAL_MIDFIELDER,GER,0,0,0,0,0,0,0,0,8
+Pierre-Emile Højbjerg,Marseille,CENTRAL_MIDFIELDER,DEN,0,0,0,0,0,0,0,0,8
+Viktor Claesson,Copenhagen,ATTACKING_MIDFIELDER,SWE,0,0,0,0,0,0,0,0,8
+Davy Klaassen,Ajax,ATTACKING_MIDFIELDER,NED,0,0,0,0,0,0,0,0,8
+İlkay Gündoğan,Galatasaray,CENTRAL_MIDFIELDER,GER,0,0,0,0,0,0,0,0,8
+Manuel Neuer,Bayern München,GOALKEEPER,GER,0,0,0,0,0,0,0,0,7
+Frenkie de Jong,Barcelona,CENTRAL_MIDFIELDER,NED,0,0,0,0,0,0,0,0,7
+Junnosuke Suzuki,Copenhagen,UNKNOWN,JPN,0,0,0,0,0,0,0,0,7
+Dani Bolt,Qarabağ,UNKNOWN,BRA,0,0,0,0,0,0,0,0,7
+Bruno Langa,Pafos,UNKNOWN,MOZ,0,0,0,0,0,0,0,0,7
+Mikel Jauregizar,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Ousseynou Niang,Union SG,UNKNOWN,SEN,0,0,0,0,0,0,0,0,7
+Jajá,Pafos,UNKNOWN,BRA,0,0,0,0,0,0,0,0,7
+Unai Gomez ,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Jorthy Mokio,Ajax,UNKNOWN,BEL,0,0,0,0,0,0,0,0,7
+Bjorn Meijer,Club Brugge,UNKNOWN,NED,0,0,0,0,0,0,0,0,7
+Kassoum Ouattara,Monaco,UNKNOWN,FRA,0,0,0,0,0,0,0,0,7
+Savinho,Man City,UNKNOWN,BRA,0,0,0,0,0,0,0,0,7
+Tajon Buchanan,Villarreal,WINGER,CAN,0,0,0,0,0,0,0,0,7
+Lucas Bergvall,Tottenham,UNKNOWN,SWE,0,0,0,0,0,0,0,0,7
+Yarek Gasiorowski,PSV,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Matt O'Riley,Marseille,UNKNOWN,DEN,0,0,0,0,0,0,0,0,7
+Franjo Ivanović,Benfica,UNKNOWN,CRO,0,0,0,0,0,0,0,0,7
+Alberto Moleiro,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Vasilije Adžić,Juventus,UNKNOWN,MNE,0,0,0,0,0,0,0,0,7
+Hugo Larsson,Frankfurt,UNKNOWN,SWE,0,0,0,0,0,0,0,0,7
+Milos Kerkez,Liverpool,UNKNOWN,HUN,0,0,0,0,0,0,0,0,7
+Minjae Kim,Bayern München,UNKNOWN,KOR,0,0,0,0,0,0,0,0,7
+Jamie Gittens,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,7
+Luis Henrique,Inter,UNKNOWN,BRA,0,0,0,0,0,0,0,0,7
+Pape Gueye,Villarreal,UNKNOWN,SEN,0,0,0,0,0,0,0,0,7
+Pedri,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Bruno Guimarães,Newcastle,UNKNOWN,BRA,0,0,0,0,0,0,0,0,7
+Fabio Miretti,Juventus,UNKNOWN,ITA,0,0,0,0,0,0,0,0,7
+Alejandro Balde,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Nico Schlotterbeck,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,7
+Mads Emil Madsen,Copenhagen,CENTRAL_MIDFIELDER,DEN,0,0,0,0,0,0,0,0,7
+David Douděra,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,7
+Ritsu Doan,Frankfurt,WINGER,JPN,0,0,0,0,0,0,0,0,7
+Wilfried Singo,Galatasaray,UNKNOWN,CIV,0,0,0,0,0,0,0,0,7
+Fedde Leysen,Union SG,CENTRE_BACK,BEL,0,0,0,0,0,0,0,0,7
+Cristhian Mosquera,Arsenal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Destiny Udogie,Tottenham,UNKNOWN,ITA,0,0,0,0,0,0,0,0,7
+William Saliba,Arsenal,CENTRE_BACK,FRA,0,0,0,0,0,0,0,0,7
+Aitor Paredes,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Mauro Júnior,PSV,ATTACKING_MIDFIELDER,BRA,0,0,0,0,0,0,0,0,7
+Joan García,Barcelona,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,7
+Anass Salah-Eddine,PSV,FULL_BACK,MAR,0,0,0,0,0,0,0,0,7
+Yunus Musah,Atalanta,MIDFIELDER,USA,0,0,0,0,0,0,0,0,7
+Yann Bisseck,Inter,UNKNOWN,GER,0,0,0,0,0,0,0,0,7
+Michael Murillo,Marseille,DEFENDER,PAN,0,0,0,0,0,0,0,0,7
+Hugo Vetlesen,Club Brugge,UNKNOWN,NOR,0,0,0,0,0,0,0,0,7
+Giulian Biancone,Olympiacos,DEFENDER,FRA,0,0,0,0,0,0,0,0,7
+Jeremie Frimpong,Liverpool,FULL_BACK,NED,0,0,0,0,0,0,0,0,7
+Curtis Jones,Liverpool,UNKNOWN,ENG,0,0,0,0,0,0,0,0,7
+Eljif Elmas,Napoli,CENTRAL_MIDFIELDER,MKD,0,0,0,0,0,0,0,0,7
+Fran García,Real Madrid,FULL_BACK,ESP,0,0,0,0,0,0,0,0,7
+Quina,Pafos,MIDFIELDER,POR,0,0,0,0,0,0,0,0,7
+Alessandro Buongiorno,Napoli,DEFENDER,ITA,0,0,0,0,0,0,0,0,7
+Davide Frattesi,Inter,UNKNOWN,ITA,0,0,0,0,0,0,0,0,7
+Pantelis Hatzidiakos,Copenhagen,CENTRE_BACK,GRE,0,0,0,0,0,0,0,0,7
+Kostas Pileas,Pafos,UNKNOWN,CYP,0,0,0,0,0,0,0,0,7
+Trent Alexander-Arnold,Real Madrid,UNKNOWN,ENG,0,0,0,0,0,0,0,0,7
+Vanja Milinković-Savić,Napoli,GOALKEEPER,SRB,0,0,0,0,0,0,0,0,7
+Konrad Laimer,Bayern München,CENTRAL_MIDFIELDER,AUT,0,0,0,0,0,0,0,0,7
+Andoni Gorosabel,Athletic Club,FULL_BACK,ESP,0,0,0,0,0,0,0,0,7
+Giovanni Di Lorenzo,Napoli,FULL_BACK,ITA,0,0,0,0,0,0,0,0,7
+Aleksandr Golovin,Monaco,ATTACKING_MIDFIELDER,RUS,0,0,0,0,0,0,0,0,7
+Rúben Dias,Man City,CENTRE_BACK,POR,0,0,0,0,0,0,0,0,7
+Luís Mata,Kairat Almaty,UNKNOWN,POR,0,0,0,0,0,0,0,0,7
+Ivan Šunjić,Pafos,DEFENSIVE_MIDFIELDER,BIH,0,0,0,0,0,0,0,0,7
+Rob Schoofs,Union SG,UNKNOWN,BEL,0,0,0,0,0,0,0,0,7
+Juan Jesus,Napoli,CENTRE_BACK,BRA,0,0,0,0,0,0,0,0,7
+Tomáš Chorý,Slavia Praha,STRIKER,CZE,0,0,0,0,0,0,0,0,7
+Iñigo Ruiz De Galarreta,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,7
+Mario Götze,Frankfurt,STRIKER,GER,0,0,0,0,0,0,0,0,7
+Daniel Parejo,Villarreal,CENTRAL_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,7
+Lorenzo Scipioni,Olympiacos,UNKNOWN,ARG,0,0,0,0,0,0,0,0,6
+Mons Bassouamina,Pafos,UNKNOWN,CGO,0,0,0,0,0,0,0,0,6
+Youssoupha Sanyang,Slavia Praha,UNKNOWN,GAM,0,0,0,0,0,0,0,0,6
+Lamine Camara,Monaco,UNKNOWN,SEN,0,0,0,0,0,0,0,0,6
+David Goldar,Pafos,UNKNOWN,ESP,0,0,0,0,0,0,0,0,6
+Juan Cabal,Juventus,UNKNOWN,COL,0,0,0,0,0,0,0,0,6
+Daniel Vivian,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,6
+Adama Boiro,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,6
+Santiago Mouriño,Villarreal,UNKNOWN,URU,0,0,0,0,0,0,0,0,6
+Abdukodir Khusanov,Man City,UNKNOWN,UZB,0,0,0,0,0,0,0,0,6
+William Osula,Newcastle,UNKNOWN,DEN,0,0,0,0,0,0,0,0,6
+Andrey Santos,Chelsea,UNKNOWN,BRA,0,0,0,0,0,0,0,0,6
+Kevin Rodriguez,Union SG,UNKNOWN,ECU,0,0,0,0,0,0,0,0,6
+Nariman Akhundzade,Qarabağ,UNKNOWN,AZE,0,0,0,0,0,0,0,0,6
+William Clem,Copenhagen,UNKNOWN,DEN,0,0,0,0,0,0,0,0,6
+Mark Flekken,Leverkusen,UNKNOWN,NED,0,0,0,0,0,0,0,0,6
+Paul Wanner,PSV,UNKNOWN,AUT,0,0,0,0,0,0,0,0,6
+Piero Hincapié,Arsenal,UNKNOWN,ECU,0,0,0,0,0,0,0,0,6
+Sam Beukema,Napoli,UNKNOWN,NED,0,0,0,0,0,0,0,0,6
+Ko Itakura,Ajax,UNKNOWN,JPN,0,0,0,0,0,0,0,0,6
+Kady,Qarabağ,UNKNOWN,BRA,0,0,0,0,0,0,0,0,6
+Matheus Nunes,Man City,UNKNOWN,POR,0,0,0,0,0,0,0,0,6
+Wesley Fofana,Chelsea,CENTRE_BACK,FRA,0,0,0,0,0,0,0,0,6
+Lucas Chevalier,Paris,GOALKEEPER,FRA,0,0,0,0,0,0,0,0,6
+Youssoufa Moukoko,Copenhagen,UNKNOWN,GER,0,0,0,0,0,0,0,0,6
+Nnamdi Collins,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,6
+Mathías Olivera,Napoli,FULL_BACK,URU,0,0,0,0,0,0,0,0,6
+Alex Berenguer,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,6
+Temirlan Anarbekov,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,6
+Marc Casadó,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,6
+Christos Zafeiris,Slavia Praha,UNKNOWN,GRE,0,0,0,0,0,0,0,0,6
+Hugo Siquet,Club Brugge,FULL_BACK,BEL,0,0,0,0,0,0,0,0,6
+António Silva,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,6
+Leonardo Balerdi,Marseille,UNKNOWN,ARG,0,0,0,0,0,0,0,0,6
+Rayan Aït-Nouri,Man City,UNKNOWN,ALG,0,0,0,0,0,0,0,0,6
+Muhammed Cham,Slavia Praha,UNKNOWN,AUT,0,0,0,0,0,0,0,0,6
+Nicola Zalewski,Atalanta,ATTACKING_MIDFIELDER,POL,0,0,0,0,0,0,0,0,6
+Matheus Reis,Sporting CP,UNKNOWN,BRA,0,0,0,0,0,0,0,0,6
+Illia Zabarnyi,Paris,CENTRE_BACK,UKR,0,0,0,0,0,0,0,0,6
+Edon Zhegrova,Juventus,WINGER,KOS,0,0,0,0,0,0,0,0,6
+Eduardo Quaresma,Sporting CP,CENTRE_BACK,POR,0,0,0,0,0,0,0,0,6
+Musa Gurbanli,Qarabağ,UNKNOWN,AZE,0,0,0,0,0,0,0,0,6
+Vitězslav Jaroš,Ajax,UNKNOWN,CZE,0,0,0,0,0,0,0,0,6
+Sergiño Dest,PSV,FULL_BACK,USA,0,0,0,0,0,0,0,0,6
+Ken Sema,Pafos,WINGER,SWE,0,0,0,0,0,0,0,0,6
+David Neres,Napoli,STRIKER,BRA,0,0,0,0,0,0,0,0,6
+Michele Di Gregorio,Juventus,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,6
+Josip Šutalo,Ajax,CENTRE_BACK,CRO,0,0,0,0,0,0,0,0,6
+Alisson Becker,Liverpool,GOALKEEPER,BRA,0,0,0,0,0,0,0,0,6
+Owen Wijndal,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,6
+Neofytos Michael,Pafos,UNKNOWN,CYP,0,0,0,0,0,0,0,0,6
+Mojmír Chytil,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,6
+Matvei Safonov,Paris,GOALKEEPER,RUS,0,0,0,0,0,0,0,0,6
+Armando Obispo,PSV,CENTRE_BACK,NED,0,0,0,0,0,0,0,0,6
+Mikel Vesga,Athletic Club,CENTRAL_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,6
+Benjamin Pavard,Marseille,DEFENDER,FRA,0,0,0,0,0,0,0,0,6
+Denis Zakaria,Monaco,CENTRAL_MIDFIELDER,SUI,0,0,0,0,0,0,0,0,6
+Nany Dimata,Pafos,STRIKER,BEL,0,0,0,0,0,0,0,0,6
+Nordin Jackers,Club Brugge,GOALKEEPER,BEL,0,0,0,0,0,0,0,0,6
+Lucas Hernández,Paris,CENTRE_BACK,FRA,0,0,0,0,0,0,0,0,6
+Stanislav Lobotka,Napoli,DEFENSIVE_MIDFIELDER,SVK,0,0,0,0,0,0,0,0,6
+Jindřich Staněk,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,6
+Janis Blaswich,Leverkusen,UNKNOWN,GER,0,0,0,0,0,0,0,0,6
+Matteo Politano,Napoli,WINGER,ITA,0,0,0,0,0,0,0,0,6
+Sead Kolašinac,Atalanta,FULL_BACK,BIH,0,0,0,0,0,0,0,0,6
+Marcel Sabitzer,B. Dortmund,ATTACKING_MIDFIELDER,AUT,0,0,0,0,0,0,0,0,6
+Christian Nørgaard,Arsenal,UNKNOWN,DEN,0,0,0,0,0,0,0,0,6
+Leonardo Spinazzola,Napoli,FULL_BACK,ITA,0,0,0,0,0,0,0,0,6
+Emre Can,B. Dortmund,DEFENSIVE_MIDFIELDER,GER,0,0,0,0,0,0,0,0,6
+Aleksandr Martynovich,Kairat Almaty,CENTRE_BACK,BLR,0,0,0,0,0,0,0,0,5
+Michael Zetterer,Frankfurt,GOALKEEPER,GER,0,0,0,0,0,0,0,0,5
+Luiz Júnior,Villarreal,UNKNOWN,BRA,0,0,0,0,0,0,0,0,5
+Marc Giger,Union SG,UNKNOWN,SUI,0,0,0,0,0,0,0,0,5
+David Moses,Slavia Praha,UNKNOWN,NGA,0,0,0,0,0,0,0,0,5
+Claudio Echeverri,Leverkusen,UNKNOWN,ARG,0,0,0,0,0,0,0,0,5
+Aladji Bamba,Monaco,MIDFIELDER,FRA,0,0,0,0,0,0,0,0,5
+Gianluca Prestianni,Benfica,UNKNOWN,ARG,0,0,0,0,0,0,0,0,5
+Jesús Areso,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,5
+Raul Florucz,Union SG,UNKNOWN,AUT,0,0,0,0,0,0,0,0,5
+Louis Patris,Union SG,DEFENDER,BEL,0,0,0,0,0,0,0,0,5
+Thiago Almada,Atleti,UNKNOWN,ARG,0,0,0,0,0,0,0,0,5
+Mohammed Salisu,Monaco,UNKNOWN,GHA,0,0,0,0,0,0,0,0,5
+Bruno Onyemaechi,Olympiacos,UNKNOWN,NGA,0,0,0,0,0,0,0,0,5
+Yoram Zague,Copenhagen,UNKNOWN,FRA,0,0,0,0,0,0,0,0,5
+Joshua Acheampong,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,5
+Arthur Vermeeren,Marseille,UNKNOWN,BEL,0,0,0,0,0,0,0,0,5
+Lorenzo Lucca,Napoli,UNKNOWN,ITA,0,0,0,0,0,0,0,0,5
+Gonzalo,Real Madrid,STRIKER,ESP,0,0,0,0,0,0,0,0,5
+Ulrik Saltnes,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,5
+Exequiel Palacios,Leverkusen,CENTRAL_MIDFIELDER,ARG,0,0,0,0,0,0,0,0,5
+Conor Bradley,Liverpool,UNKNOWN,NIR,0,0,0,0,0,0,0,0,5
+Aurele Amenda,Frankfurt,UNKNOWN,SUI,0,0,0,0,0,0,0,0,5
+Kian Fitz-Jim,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,5
+Rafa Marín,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,5
+Fotis Ioannidis,Sporting CP,FORWARD,GRE,0,0,0,0,0,0,0,0,5
+Joško Gvardiol,Man City,CENTRE_BACK,CRO,0,0,0,0,0,0,0,0,5
+Raul Moro,Ajax,UNKNOWN,ESP,0,0,0,0,0,0,0,0,5
+Tino Livramento,Newcastle,UNKNOWN,ENG,0,0,0,0,0,0,0,0,5
+Tomáš Vlček,Slavia Praha,DEFENDER,CZE,0,0,0,0,0,0,0,0,5
+Jug Stanojev,Kairat Almaty,UNKNOWN,SRB,0,0,0,0,0,0,0,0,5
+Rodrigo Bentancur,Tottenham,UNKNOWN,URU,0,0,0,0,0,0,0,0,5
+Murphy Dorley,Slavia Praha,UNKNOWN,LBR,0,0,0,0,0,0,0,0,5
+Mathias Rasmussen,Union SG,UNKNOWN,NOR,0,0,0,0,0,0,0,0,5
+Miguel Gutiérrez,Napoli,UNKNOWN,ESP,0,0,0,0,0,0,0,0,5
+Giorgi Mamardashvili,Liverpool,UNKNOWN,GEO,0,0,0,0,0,0,0,0,5
+Nayef Aguerd,Marseille,UNKNOWN,MAR,0,0,0,0,0,0,0,0,5
+Giorgi Zaria,Kairat Almaty,MIDFIELDER,GEO,0,0,0,0,0,0,0,0,5
+Emerson,Marseille,FULL_BACK,ITA,0,0,0,0,0,0,0,0,5
+Joni Montiel,Qarabağ,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,5
+Alexander Isak,Liverpool,STRIKER,SWE,0,0,0,0,0,0,0,0,5
+Thomas Partey,Villarreal,DEFENSIVE_MIDFIELDER,GHA,0,0,0,0,0,0,0,0,5
+Alfonso Pedraza,Villarreal,WINGER,ESP,0,0,0,0,0,0,0,0,5
+Rodri,Man City,DEFENSIVE_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,5
+Ayoze Pérez,Villarreal,STRIKER,ESP,0,0,0,0,0,0,0,0,5
+Tosin Adarabioyo,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,5
+Lukas Lerager,Copenhagen,CENTRAL_MIDFIELDER,DEN,0,0,0,0,0,0,0,0,5
+Dan Glazer,Kairat Almaty,DEFENSIVE_MIDFIELDER,ISR,0,0,0,0,0,0,0,0,5
+Francesco Acerbi,Inter,CENTRE_BACK,ITA,0,0,0,0,0,0,0,0,5
+Lucas Vázquez,Leverkusen,STRIKER,ESP,0,0,0,0,0,0,0,0,5
+Antonio Rüdiger,Real Madrid,CENTRE_BACK,GER,0,0,0,0,0,0,0,0,5
+Nathan Aké,Man City,UNKNOWN,NED,0,0,0,0,0,0,0,0,5
+Dani Carvajal,Real Madrid,FULL_BACK,ESP,0,0,0,0,0,0,0,0,5
+Filip Kostić,Juventus,WINGER,SRB,0,0,0,0,0,0,0,0,5
+Simon Mignolet,Club Brugge,GOALKEEPER,BEL,0,0,0,0,0,0,0,0,4
+Henrikh Mkhitaryan,Inter,ATTACKING_MIDFIELDER,ARM,0,0,0,0,0,0,0,0,4
+Robino Vaz,Marseille,UNKNOWN,FRA,0,0,0,0,0,0,0,0,4
+Gabriel Strefezza,Olympiacos,UNKNOWN,ITA,0,0,0,0,0,0,0,0,4
+Thiago Pitarch,Real Madrid,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,4
+Esmir Bajraktarević,PSV,FORWARD,BIH,0,0,0,0,0,0,0,0,4
+Ibrahim Mbaye,Paris,UNKNOWN,SEN,0,0,0,0,0,0,0,0,4
+Daiki Hashioka,Slavia Praha,DEFENDER,JPN,0,0,0,0,0,0,0,0,4
+Ryan Flamingo,PSV,UNKNOWN,NED,0,0,0,0,0,0,0,0,4
+Villads Nielsen,Bodø/Glimt,UNKNOWN,DEN,0,0,0,0,0,0,0,0,4
+Giorgos Vagiannidis,Sporting CP,UNKNOWN,GRE,0,0,0,0,0,0,0,0,4
+Facundo Medina,Marseille,UNKNOWN,ARG,0,0,0,0,0,0,0,0,4
+Munashe Garananga,Copenhagen,UNKNOWN,ZIM,0,0,0,0,0,0,0,0,4
+Hiroki Ito,Bayern München,UNKNOWN,JPN,0,0,0,0,0,0,0,0,4
+Anders Klynge,Bodø/Glimt,UNKNOWN,DEN,0,0,0,0,0,0,0,0,4
+Rayane Bounida,Ajax,MIDFIELDER,BEL,0,0,0,0,0,0,0,0,4
+Eliesse Ben Seghir,Leverkusen,UNKNOWN,MAR,0,0,0,0,0,0,0,0,4
+Roony Bardghji,Barcelona,UNKNOWN,SWE,0,0,0,0,0,0,0,0,4
+Jorrel Hato,Chelsea,UNKNOWN,NED,0,0,0,0,0,0,0,0,4
+Bilal Nadir,Marseille,UNKNOWN,FRA,0,0,0,0,0,0,0,0,4
+Romeo Lavia,Chelsea,UNKNOWN,BEL,0,0,0,0,0,0,0,0,4
+Jorne Spileers,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,4
+Juan Foyth,Villarreal,CENTRE_BACK,ARG,0,0,0,0,0,0,0,0,4
+Ilias Akhomach,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,4
+Rico Lewis,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,4
+Zeno Debast,Sporting CP,UNKNOWN,BEL,0,0,0,0,0,0,0,0,4
+Bremer,Juventus,UNKNOWN,BRA,0,0,0,0,0,0,0,0,4
+Alphonso Davies,Bayern München,FULL_BACK,CAN,0,0,0,0,0,0,0,0,4
+Alexandr Shirobokov,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,4
+Riccardo Calafiori,Arsenal,FULL_BACK,ITA,0,0,0,0,0,0,0,0,4
+Benoît Badiashile,Chelsea,UNKNOWN,FRA,0,0,0,0,0,0,0,0,4
+Kenneth Taylor,Ajax,CENTRAL_MIDFIELDER,NED,0,0,0,0,0,0,0,0,4
+Aaron Ramsdale,Newcastle,UNKNOWN,ENG,0,0,0,0,0,0,0,0,4
+Angel Gomes,Marseille,CENTRAL_MIDFIELDER,ENG,0,0,0,0,0,0,0,0,4
+Daniel Bragança,Sporting CP,MIDFIELDER,POR,0,0,0,0,0,0,0,0,4
+Sofiane Boufal,Union SG,ATTACKING_MIDFIELDER,MAR,0,0,0,0,0,0,0,0,4
+Frank Anguissa,Napoli,CENTRAL_MIDFIELDER,CMR,0,0,0,0,0,0,0,0,4
+Dani Ceballos,Real Madrid,CENTRAL_MIDFIELDER,ESP,0,0,0,0,0,0,0,0,4
+Birger Meling,Copenhagen,FULL_BACK,NOR,0,0,0,0,0,0,0,0,4
+Martin Ødegaard,Arsenal,ATTACKING_MIDFIELDER,NOR,0,0,0,0,0,0,0,0,4
+Mahmoud Dahoud,Frankfurt,CENTRAL_MIDFIELDER,GER,0,0,0,0,0,0,0,0,4
+Dodi Lukébakio,Benfica,UNKNOWN,BEL,0,0,0,0,0,0,0,0,4
+John Stones,Man City,CENTRE_BACK,ENG,0,0,0,0,0,0,0,0,4
+Joe Gomez,Liverpool,UNKNOWN,ENG,0,0,0,0,0,0,0,0,4
+Tomáš Holeš,Slavia Praha,FULL_BACK,CZE,0,0,0,0,0,0,0,0,4
+Andreas  Christensen,Barcelona,CENTRE_BACK,DEN,0,0,0,0,0,0,0,0,4
+Kaan Ayhan,Galatasaray,CENTRE_BACK,TUR,0,0,0,0,0,0,0,0,4
+Geoffrey Kondogbia,Marseille,DEFENSIVE_MIDFIELDER,CTA,0,0,0,0,0,0,0,0,4
+Thomas Delaney,Copenhagen,CENTRAL_MIDFIELDER,DEN,0,0,0,0,0,0,0,0,4
+Mattia Perin,Juventus,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,4
+Wojciech Szczęsny,Barcelona,GOALKEEPER,POL,0,0,0,0,0,0,0,0,4
+Yuri Berchiche,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,4
+Aarón Anselmino,B. Dortmund,CENTRE_BACK,ARG,0,0,0,0,0,0,0,0,3
+Stefan de Vrij,Inter,CENTRE_BACK,NED,0,0,0,0,0,0,0,0,3
+Selton Sánchez,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,3
+Pau Navarro,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,3
+Sean Steur,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,3
+Asier Hierro,Athletic Club,FORWARD,ESP,0,0,0,0,0,0,0,0,3
+Shandre Campbell,Club Brugge,UNKNOWN,RSA,0,0,0,0,0,0,0,0,3
+Kauã Santos,Frankfurt,UNKNOWN,BRA,0,0,0,0,0,0,0,0,3
+Rio Ngumoha,Liverpool,FORWARD,ENG,0,0,0,0,0,0,0,0,3
+George Ilenikhena,Monaco,UNKNOWN,NGA,0,0,0,0,0,0,0,0,3
+Facundo Buonanotte,Chelsea,MIDFIELDER,ARG,0,0,0,0,0,0,0,0,3
+Montrell Culbreath,Leverkusen,MIDFIELDER,GER,0,0,0,0,0,0,0,0,3
+Quentin Ndjantou,Paris,UNKNOWN,FRA,0,0,0,0,0,0,0,0,3
+Christian Mawissa,Monaco,UNKNOWN,FRA,0,0,0,0,0,0,0,0,3
+Ethan Nwaneri,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,3
+Oscar Højlund,Frankfurt,UNKNOWN,DEN,0,0,0,0,0,0,0,0,3
+Nico Williams,Athletic Club,STRIKER,ESP,0,0,0,0,0,0,0,0,3
+James McConnell,Ajax,UNKNOWN,ENG,0,0,0,0,0,0,0,0,3
+Jonas Urbig,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,3
+Mathys Tel,Tottenham,UNKNOWN,FRA,0,0,0,0,0,0,0,0,3
+Cisse Sandra,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,3
+Lynnt Audoor,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,3
+Giorgio Scalvini,Atalanta,UNKNOWN,ITA,0,0,0,0,0,0,0,0,3
+Oscar Bobb,Man City,UNKNOWN,NOR,0,0,0,0,0,0,0,0,3
+Lucas Rosa,Ajax,UNKNOWN,BRA,0,0,0,0,0,0,0,0,3
+Elye Wahi,Frankfurt,UNKNOWN,FRA,0,0,0,0,0,0,0,0,3
+Mathias Jørgensen,Bodø/Glimt,UNKNOWN,DEN,0,0,0,0,0,0,0,0,3
+Éder Militão,Real Madrid,FULL_BACK,BRA,0,0,0,0,0,0,0,0,3
+Krépin Diatta,Monaco,WINGER,SEN,0,0,0,0,0,0,0,0,3
+Filip Jørgensen,Chelsea,GOALKEEPER,DEN,0,0,0,0,0,0,0,0,3
+CJ Egan-Riley,Marseille,UNKNOWN,ENG,0,0,0,0,0,0,0,0,3
+João Correia,Pafos,WINGER,POR,0,0,0,0,0,0,0,0,3
+Billy Gilmour,Napoli,MIDFIELDER,SCO,0,0,0,0,0,0,0,0,3
+Arnau Tenas,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,3
+Amine Gouiri,Marseille,STRIKER,ALG,0,0,0,0,0,0,0,0,3
+Martin Terrier,Leverkusen,WINGER,FRA,0,0,0,0,0,0,0,0,3
+Erik Prekop,Slavia Praha,UNKNOWN,SVK,0,0,0,0,0,0,0,0,3
+Iñaki Williams,Athletic Club,WINGER,GHA,0,0,0,0,0,0,0,0,3
+Iñigo Lekue,Athletic Club,FULL_BACK,ESP,0,0,0,0,0,0,0,0,3
+Amir Rrahmani,Napoli,CENTRE_BACK,KOS,0,0,0,0,0,0,0,0,3
+Fabian Schär,Newcastle,CENTRE_BACK,SUI,0,0,0,0,0,0,0,0,3
+Pascal Gross,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,3
+Ivan Schranz,Slavia Praha,UNKNOWN,SVK,0,0,0,0,0,0,0,0,3
+Kevin De Bruyne,Napoli,ATTACKING_MIDFIELDER,BEL,0,0,0,0,0,0,0,0,3
+Jan Bořil,Slavia Praha,FULL_BACK,CZE,0,0,0,0,0,0,0,0,3
+David Alaba,Real Madrid,FULL_BACK,AUT,0,0,0,0,0,0,0,0,3
+Remko Pasveer,Ajax,GOALKEEPER,NED,0,0,0,0,0,0,0,0,2
+André Luiz,Olympiacos,UNKNOWN,BRA,0,0,0,0,0,0,0,0,2
+Souleymane Faye,Sporting CP,FORWARD,SEN,0,0,0,0,0,0,0,0,2
+Guilherme Smith,Union SG,UNKNOWN,BRA,0,0,0,0,0,0,0,0,2
+Sidny Lopes Cabral,Benfica,DEFENDER,CPV,0,0,0,0,0,0,0,0,2
+Salvador Blopa,Sporting CP,DEFENDER,POR,0,0,0,0,0,0,0,0,2
+Azamat Tuyakbayev,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,2
+Trey Nyoni,Liverpool,UNKNOWN,ENG,0,0,0,0,0,0,0,0,2
+Rodrigo Huescas,Copenhagen,UNKNOWN,MEX,0,0,0,0,0,0,0,0,2
+Zaid Romero,Club Brugge,UNKNOWN,ARG,0,0,0,0,0,0,0,0,2
+Jun'Ai Byfield,Tottenham,UNKNOWN,ENG,0,0,0,0,0,0,0,0,2
+Hamed Traorè,Marseille,UNKNOWN,CIV,0,0,0,0,0,0,0,0,2
+Pape Cabral,Monaco,MIDFIELDER,FRA,0,0,0,0,0,0,0,0,2
+Dro Fernández,Paris,UNKNOWN,ESP,0,0,0,0,0,0,0,0,2
+Aaron Bouwman,Ajax,DEFENDER,NED,0,0,0,0,0,0,0,0,2
+Sherhan Kalmurza,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,2
+Xavi Espart,Barcelona,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,2
+Antoine Semenyo,Man City,FORWARD,GHA,0,0,0,0,0,0,0,0,2
+Mohammed Fuseini,Union SG,UNKNOWN,GHA,0,0,0,0,0,0,0,0,2
+Simon Adingra,Monaco,UNKNOWN,CIV,0,0,0,0,0,0,0,0,2
+Lucas Michal,Monaco,FORWARD,FRA,0,0,0,0,0,0,0,0,2
+João Rego,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,2
+Jeanuël Belocian,Leverkusen,UNKNOWN,FRA,0,0,0,0,0,0,0,0,2
+Jay Gorter,Pafos,UNKNOWN,NED,0,0,0,0,0,0,0,0,2
+Félix Lemarechal,Club Brugge,MIDFIELDER,FRA,0,0,0,0,0,0,0,0,2
+Berkan Kutlu,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,2
+Manuel Ángel,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,2
+Juan Musso,Atleti,UNKNOWN,ARG,0,0,0,0,0,0,0,0,2
+Dane Scarlett,Tottenham,STRIKER,ENG,0,0,0,0,0,0,0,0,2
+Diogo Nascimento,Olympiacos,UNKNOWN,POR,0,0,0,0,0,0,0,0,2
+Henrique Araújo,Benfica,STRIKER,POR,0,0,0,0,0,0,0,0,2
+Lev Kurgin,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,2
+Marco Brescianini,Atalanta,CENTRAL_MIDFIELDER,ITA,0,0,0,0,0,0,0,0,2
+Igoh Ogbu,Slavia Praha,CENTRE_BACK,NGA,0,0,0,0,0,0,0,0,2
+Jakub Markovič,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,2
+João Mário,Juventus,UNKNOWN,POR,0,0,0,0,0,0,0,0,2
+Ferland Mendy,Real Madrid,FULL_BACK,FRA,0,0,0,0,0,0,0,0,2
+Myron Boadu,PSV,STRIKER,NED,0,0,0,0,0,0,0,0,2
+Manor Solomon,Villarreal,WINGER,ISR,0,0,0,0,0,0,0,0,2
+Andriy Lunin,Real Madrid,GOALKEEPER,UKR,0,0,0,0,0,0,0,0,2
+Giorgi Kochorashvili,Sporting CP,UNKNOWN,GEO,0,0,0,0,0,0,0,0,2
+Marc Guéhi,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,2
+Marco Sportiello,Atalanta,UNKNOWN,ITA,0,0,0,0,0,0,0,0,2
+Ricardo Mangas,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,2
+Nathan Tella,Leverkusen,UNKNOWN,NGA,0,0,0,0,0,0,0,0,2
+Gerard Moreno,Villarreal,STRIKER,ESP,0,0,0,0,0,0,0,0,2
+Ulisses Garcia,Marseille,FULL_BACK,SUI,0,0,0,0,0,0,0,0,2
+Wout Faes,Monaco,CENTRE_BACK,BEL,0,0,0,0,0,0,0,0,2
+Aurélio Buta,Frankfurt,FULL_BACK,POR,0,0,0,0,0,0,0,0,2
+Nuno Santos,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,2
+Jonas Hofmann,Leverkusen,WINGER,GER,0,0,0,0,0,0,0,0,2
+Brede Moe,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,2
+Clément Lenglet,Atleti,UNKNOWN,FRA,0,0,0,0,0,0,0,0,2
+Badavi Hüseynov,Qarabağ,CENTRE_BACK,AZE,0,0,0,0,0,0,0,0,2
+Michy Batshuayi,Frankfurt,STRIKER,BEL,0,0,0,0,0,0,0,0,2
+Aymeric Laporte,Athletic Club,CENTRE_BACK,ESP,0,0,0,0,0,0,0,0,2
+Daniele Rugani,Juventus,CENTRE_BACK,ITA,0,0,0,0,0,0,0,0,2
+João Cancelo,Barcelona,FULL_BACK,POR,0,0,0,0,0,0,0,0,2
+Lukas Hrádecký,Monaco,GOALKEEPER,FIN,0,0,0,0,0,0,0,0,2
+Matteo Darmian,Inter,FULL_BACK,ITA,0,0,0,0,0,0,0,0,2
+Clayton,Olympiacos,UNKNOWN,BRA,0,0,0,0,0,0,0,0,1
+Luis Guilherme,Sporting CP,FORWARD,BRA,0,0,0,0,0,0,0,0,1
+Diatta Alassane,Villarreal,MIDFIELDER,SEN,0,0,0,0,0,0,0,0,1
+Sekou Keita,Union SG,FORWARD,BEL,0,0,0,0,0,0,0,0,1
+Tadjidine Mmadi,Marseille,FORWARD,FRA,0,0,0,0,0,0,0,0,1
+Filip Pavic,Bayern München,DEFENDER,GER,0,0,0,0,0,0,0,0,1
+Hugo López,Villarreal,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,1
+Daniel Budesca,Villarreal,DEFENDER,ESP,0,0,0,0,0,0,0,0,1
+Marvin Dills,Frankfurt,MIDFIELDER,USA,0,0,0,0,0,0,0,0,1
+José Neto,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,1
+Maroan Sannadi,Athletic Club,UNKNOWN,MAR,0,0,0,0,0,0,0,0,1
+Manu Silva,Benfica,MIDFIELDER,POR,0,0,0,0,0,0,0,0,1
+Reggie Walsh,Chelsea,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,1
+Mukhamedali Abish,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,1
+Pharrel Nash,Ajax,FORWARD,NED,0,0,0,0,0,0,0,0,1
+Ibon Sanchez,Athletic Club,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,1
+Ramazan Bagdat,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,1
+Wisdom Mike,Bayern München,FORWARD,GER,0,0,0,0,0,0,0,0,1
+Amara Nallo,Liverpool,DEFENDER,ENG,0,0,0,0,0,0,0,0,1
+Marli Salmon,Arsenal,DEFENDER,ENG,0,0,0,0,0,0,0,0,1
+Andre Annous,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,1
+Jeremiah Mensah,Leverkusen,UNKNOWN,GER,0,0,0,0,0,0,0,0,1
+Max Dowman,Arsenal,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,1
+Brando Bailey-Joseph,Arsenal,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,1
+Endrick,Real Madrid,UNKNOWN,BRA,0,0,0,0,0,0,0,0,1
+Darryl Bakola,Marseille,MIDFIELDER,FRA,0,0,0,0,0,0,0,0,1
+Luca Reggiani,B. Dortmund,UNKNOWN,ITA,0,0,0,0,0,0,0,0,1
+Noah Fernandez,PSV,UNKNOWN,BEL,0,0,0,0,0,0,0,0,1
+Ife Ibrahim,Arsenal,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,1
+Stavros Pnevmonidis,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,1
+Sean Neave,Newcastle,FORWARD,ENG,0,0,0,0,0,0,0,0,1
+Axel Tape,Leverkusen,UNKNOWN,FRA,0,0,0,0,0,0,0,0,1
+Georgios Michael,Pafos,UNKNOWN,CYP,0,0,0,0,0,0,0,0,1
+Jorge Cestero,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,1
+Javier Galán,Atleti,UNKNOWN,ESP,0,0,0,0,0,0,0,0,1
+Mansur Birkurmanov,Kairat Almaty,FORWARD,KAZ,0,0,0,0,0,0,0,0,1
+Samuel Nibombe,Monaco,UNKNOWN,BEL,0,0,0,0,0,0,0,0,1
+Arda Ünyay,Galatasaray,DEFENDER,TUR,0,0,0,0,0,0,0,0,1
+Leo Shahar,Newcastle,DEFENDER,ENG,0,0,0,0,0,0,0,0,1
+Deniz Ofli,Bayern München,UNKNOWN,TUR,0,0,0,0,0,0,0,0,1
+Kiliann Sildillia,PSV,UNKNOWN,FRA,0,0,0,0,0,0,0,0,1
+Kaye Furo,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,1
+Oliver Højer,Copenhagen,UNKNOWN,DEN,0,0,0,0,0,0,0,0,1
+Rodrigo Rêgo,Benfica,FORWARD,POR,0,0,0,0,0,0,0,0,1
+Callum Olusesi,Tottenham,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,1
+Gerald Alders,Ajax,DEFENDER,NED,0,0,0,0,0,0,0,0,1
+Don-Angelo Konadu,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,1
+Daniel Meso,Real Madrid,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,1
+Alexander Staff,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,1
+Chris Kouakou,Qarabağ,UNKNOWN,CIV,0,0,0,0,0,0,0,0,1
+Rodrigo Mendoza,Atleti,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,1
+Alex Murphy,Newcastle,DEFENDER,IRL,0,0,0,0,0,0,0,0,1
+Tiago Freitas,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,1
+César Palacios,Real Madrid,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,1
+Max Alleyne,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,1
+Filippo Mane,B. Dortmund,UNKNOWN,ITA,0,0,0,0,0,0,0,0,1
+Mamadou Sarr,Chelsea,UNKNOWN,FRA,0,0,0,0,0,0,0,0,1
+Rodrigo Ribeiro,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,1
+Stanis Idumbo,Monaco,UNKNOWN,BEL,0,0,0,0,0,0,0,0,1
+Giuseppe Ambrosino,Napoli,FORWARD,ITA,0,0,0,0,0,0,0,0,1
+Daniel Maldini,Atalanta,ATTACKING_MIDFIELDER,ITA,0,0,0,0,0,0,0,0,1
+Magnus Riisnæs,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,1
+Tristan van den Heuvel,Club Brugge,UNKNOWN,NED,0,0,0,0,0,0,0,0,1
+Antonín Kinský,Tottenham,UNKNOWN,CZE,0,0,0,0,0,0,0,0,1
+Jessic Ngankam,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,1
+Carlos Martín,Atleti,UNKNOWN,ESP,0,0,0,0,0,0,0,0,1
+Ahmed Kutucu,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,1
+Radu Drăgușin,Tottenham,UNKNOWN,ROU,0,0,0,0,0,0,0,0,1
+James Trafford,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,1
+Wataru Endo,Liverpool,UNKNOWN,JPN,0,0,0,0,0,0,0,0,1
+Gustaf Nilsson,Club Brugge,UNKNOWN,SWE,0,0,0,0,0,0,0,0,1
+João Virginia,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,1
+Samy Mmaee,Qarabağ,CENTRE_BACK,MAR,0,0,0,0,0,0,0,0,1
+Günay Güvenç,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,1
+Jeremie Boga,Juventus,UNKNOWN,CIV,0,0,0,0,0,0,0,0,1
+Alex Meret,Napoli,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,1
+Roman Yaremchuk,Olympiacos,STRIKER,UKR,0,0,0,0,0,0,0,0,1
+Niklas Süle,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,1
+Kepa Arrizabalaga,Arsenal,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,1
+Alexandros Paschalakis,Olympiacos,GOALKEEPER,GRE,0,0,0,0,0,0,0,0,1
+Mateo Kovačić,Man City,ATTACKING_MIDFIELDER,CRO,0,0,0,0,0,0,0,0,1
+Steven Berghuis,Ajax,WINGER,NED,0,0,0,0,0,0,0,0,1
+Ben Davies,Tottenham,FULL_BACK,WAL,0,0,0,0,0,0,0,0,1
+Romelu Lukaku,Napoli,STRIKER,BEL,0,0,0,0,0,0,0,0,1
+John Ruddy,Newcastle,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Obed Vargas,Atleti,MIDFIELDER,MEX,0,0,0,0,0,0,0,0,0
+Jannis Bärtl,Bayern München,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Ange Lago,Marseille,FORWARD,CIV,0,0,0,0,0,0,0,0,0
+Tynan Thompson,Tottenham,FORWARD,ENG,0,0,0,0,0,0,0,0,0
+Tye Hall,Tottenham,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Adedamola Alabi,Newcastle,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+David Spinelli,Napoli,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Hindrin Najah Chooly,Bodø/Glimt,FORWARD,NOR,0,0,0,0,0,0,0,0,0
+Rayan Ouro Bang Na,Marseille,DEFENDER,FRA,0,0,0,0,0,0,0,0,0
+Eyüp Karasu,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Anis Doubal,Marseille,DEFENDER,FRA,0,0,0,0,0,0,0,0,0
+Leonard Prescott,Bayern München,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Abdellah Ouazane,Ajax,MIDFIELDER,NED,0,0,0,0,0,0,0,0,0
+Ander Izaguirre,Athletic Club,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Adrián Pérez,Athletic Club,FORWARD,ESP,0,0,0,0,0,0,0,0,0
+Jon de Luis,Athletic Club,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Youssef Hamoutahar,Union SG,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Mathias Ferrante,Napoli,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Yusuf Kahraman,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Ryan Kavuma-McQueen,Chelsea,FORWARD,ENG,0,0,0,0,0,0,0,0,0
+Çağrı Balta,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Mikkel Bro Hansen,Bodø/Glimt,UNKNOWN,DEN,0,0,0,0,0,0,0,0,0
+Bruno Ramos,Sporting CP,DEFENDER,BRA,0,0,0,0,0,0,0,0,0
+Vince Osuji,Club Brugge,DEFENDER,NGA,0,0,0,0,0,0,0,0,0
+Cassiano Kiala,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Luca Williams-Barnett,Tottenham,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Landon Emenalo,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Danila Buch,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,0
+Bakhtiyar Aldashev,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,0
+Giovanni Leoni,Liverpool,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Mikel Santos,Athletic Club,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,0
+Flávio Gonçalves,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Ilane Toure,Monaco,DEFENDER,FRA,0,0,0,0,0,0,0,0,0
+Yanis Benchaouch,Monaco,GOALKEEPER,FRA,0,0,0,0,0,0,0,0,0
+Tyrone Samba,Man City,UNKNOWN,FRA,0,0,0,0,0,0,0,0,0
+Kornel Misciur,Liverpool,GOALKEEPER,POL,0,0,0,0,0,0,0,0,0
+Niccolò Rizzo,Juventus,DEFENDER,ITA,0,0,0,0,0,0,0,0,0
+Amirbek Bazarbayev,Kairat Almaty,DEFENDER,KAZ,0,0,0,0,0,0,0,0,0
+Dias Reimov,Kairat Almaty,GOALKEEPER,KAZ,0,0,0,0,0,0,0,0,0
+Javier Gil,Juventus,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Victor Valdepeñas,Real Madrid,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Javier Navarro,Real Madrid,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,0
+Felipe Chavez,Bayern München,MIDFIELDER,GER,0,0,0,0,0,0,0,0,0
+Henry Camara,Atalanta,FORWARD,FRA,0,0,0,0,0,0,0,0,0
+Samuele Inacio,B. Dortmund,FORWARD,ITA,0,0,0,0,0,0,0,0,0
+Furkan Koçak,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Tim Oermann,Leverkusen,DEFENDER,GER,0,0,0,0,0,0,0,0,0
+Rayan Lucas,Sporting CP,UNKNOWN,BRA,0,0,0,0,0,0,0,0,0
+Federico Cassa,Atalanta,FORWARD,ITA,0,0,0,0,0,0,0,0,0
+Daniel Banjaqui,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Anísio Cabral,Benfica,FORWARD,POR,0,0,0,0,0,0,0,0,0
+Ben Hawighorst,Leverkusen,DEFENDER,GER,0,0,0,0,0,0,0,0,0
+Mamadou Thierno Barry,Union SG,UNKNOWN,SEN,0,0,0,0,0,0,0,0,0
+Vincenzo Prisco,Napoli,MIDFIELDER,ITA,0,0,0,0,0,0,0,0,0
+Malachi Hardy,Tottenham,DEFENDER,ENG,0,0,0,0,0,0,0,0,0
+Martin Kovář,Slavia Praha,DEFENDER,CZE,0,0,0,0,0,0,0,0,0
+Dominic Vavassori,Atalanta,FORWARD,ITA,0,0,0,0,0,0,0,0,0
+Eus Waaijers,PSV,DEFENDER,NED,0,0,0,0,0,0,0,0,0
+Matteo Lavelli,Inter,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Lucas Beraldo,Paris,UNKNOWN,BRA,0,0,0,0,0,0,0,0,0
+Diego Aguado,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+David Daiber,Bayern München,MIDFIELDER,POR,0,0,0,0,0,0,0,0,0
+Šimon Slončík,Slavia Praha,MIDFIELDER,CZE,0,0,0,0,0,0,0,0,0
+Jules Stawiecki,Monaco,UNKNOWN,FRA,0,0,0,0,0,0,0,0,0
+Renato Marin,Paris,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Mauro Couto,Sporting CP,FORWARD,POR,0,0,0,0,0,0,0,0,0
+Tomas Marques,Barcelona,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,0
+Toni Fernandez,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Pedro Henrique Fontoura Caldierado,Pafos,FORWARD,ITA,0,0,0,0,0,0,0,0,0
+Joan Martínez,Real Madrid,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Dominik Sarapata,Copenhagen,UNKNOWN,POL,0,0,0,0,0,0,0,0,0
+David Moreira,Sporting CP,DEFENDER,CPV,0,0,0,0,0,0,0,0,0
+Khari Ranson,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Jack Porter,Arsenal,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Argyrios Liatsikouras,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Eder Aller,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Alvaro Cortes,Barcelona,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Georgios Kouraklis,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Adam Harrison,Newcastle,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Aidan Harris,Newcastle,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Alexandros Exarchos,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Martin James,Paris,GOALKEEPER,FRA,0,0,0,0,0,0,0,0,0
+Noah Nsoki,Paris,MIDFIELDER,FRA,0,0,0,0,0,0,0,0,0
+Mathis Jangeal,Paris,FORWARD,FRA,0,0,0,0,0,0,0,0,0
+Emmanuele De Chiara,Napoli,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Joshua Wynder,Benfica,UNKNOWN,USA,0,0,0,0,0,0,0,0,0
+Elias Benkara,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Petros Petrou,Pafos,GOALKEEPER,CYP,0,0,0,0,0,0,0,0,0
+Samuel Van Hoogen,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Nicolas Verkooijen,PSV,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Alain Taho,Inter,GOALKEEPER,ALB,0,0,0,0,0,0,0,0,0
+Louie Copley,Arsenal,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Alexei Rojas,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Joshua Nichols,Arsenal,DEFENDER,ENG,0,0,0,0,0,0,0,0,0
+Iker Luque,Atleti,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Taufyk Zanzi,Atleti,MIDFIELDER,ESP,0,0,0,0,0,0,0,0,0
+Adamo Nagalo,PSV,UNKNOWN,BFA,0,0,0,0,0,0,0,0,0
+Tijn Smolenaars,PSV,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Max Thompson,Newcastle,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+August Mikkelsen,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,0
+Yáser Asprilla,Galatasaray,MIDFIELDER,COL,0,0,0,0,0,0,0,0,0
+Robin van Duiven,PSV,FORWARD,NED,0,0,0,0,0,0,0,0,0
+Christian Garofalo,Napoli,DEFENDER,ITA,0,0,0,0,0,0,0,0,0
+Liam West,Copenhagen,MIDFIELDER,NOR,0,0,0,0,0,0,0,0,0
+Hikmat Jabrayilzade,Qarabağ,UNKNOWN,AZE,0,0,0,0,0,0,0,0,0
+Ege Araç,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Jofre Torrents,Barcelona,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Juan Hernández,Barcelona,FORWARD,ESP,0,0,0,0,0,0,0,0,0
+Divine Mukasa,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Stephen Mfuni,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Marek Naskos,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,0
+Jakub Kolísek,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,0
+Jonathan Moalem,Copenhagen,UNKNOWN,DEN,0,0,0,0,0,0,0,0,0
+Graham Ankamafio,Copenhagen,DEFENDER,DEN,0,0,0,0,0,0,0,0,0
+Isak Sjong,Bodø/Glimt,GOALKEEPER,NOR,0,0,0,0,0,0,0,0,0
+Mylo van der Lans,Ajax,MIDFIELDER,NED,0,0,0,0,0,0,0,0,0
+Joel van den Berg,PSV,DEFENDER,NED,0,0,0,0,0,0,0,0,0
+Leon Klanac,Bayern München,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Eduardo Felicíssimo,Sporting CP,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Matteo Fuscaldo,Juventus,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Gonçalo Oliveira,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Shumaira Mheuka,Chelsea,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Samuel Pikolon,Slavia Praha,UNKNOWN,CZE,0,0,0,0,0,0,0,0,0
+Matteo Cocchi,Inter,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Kieran Morrison,Liverpool,UNKNOWN,NIR,0,0,0,0,0,0,0,0,0
+Charles Sagoe Jr,Arsenal,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Kian Noble,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Charlie Gray,Man City,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Argus Vanden Driessche,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Oscar Buur,Copenhagen,UNKNOWN,DEN,0,0,0,0,0,0,0,0,0
+Elijah Gift,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Mathis Clement,Marseille,FORWARD,FRA,0,0,0,0,0,0,0,0,0
+Diogo Ferreira,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Leandro Santos,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Luca Gunter,Tottenham,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Yusuf Akhamrich,Tottenham,FORWARD,ENG,0,0,0,0,0,0,0,0,0
+James Rowswell,Tottenham,DEFENDER,ENG,0,0,0,0,0,0,0,0,0
+Daniel Moreno,Atleti,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Max Merrick,Chelsea,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Paul Reverson,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Fran González,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Daniel Toula,Slavia Praha,FORWARD,CZE,0,0,0,0,0,0,0,0,0
+Tomáš Jelínek,Slavia Praha,FORWARD,CZE,0,0,0,0,0,0,0,0,0
+Adam Rezek,Slavia Praha,GOALKEEPER,CZE,0,0,0,0,0,0,0,0,0
+Ferdinand Pohl,Leverkusen,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Ken Izekor,Leverkusen,FORWARD,GER,0,0,0,0,0,0,0,0,0
+Naba Mensah,Leverkusen,MIDFIELDER,GER,0,0,0,0,0,0,0,0,0
+Jesper Schlich,Leverkusen,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Elias Baum,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Fousseny Doumbia,Frankfurt,DEFENDER,GER,0,0,0,0,0,0,0,0,0
+Leonardo Bovo,Inter,MIDFIELDER,ITA,0,0,0,0,0,0,0,0,0
+Axl De Corte,Club Brugge,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Nathan Huygevelde,Union SG,MIDFIELDER,BEL,0,0,0,0,0,0,0,0,0
+Soulaimane Berradi,Union SG,FORWARD,BEL,0,0,0,0,0,0,0,0,0
+Alexander Meyer,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Dani Rodríguez,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Pol Fortuny,Real Madrid,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Julien Duranville,B. Dortmund,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Relja Obrić,Atalanta,DEFENDER,SVN,0,0,0,0,0,0,0,0,0
+Vincent Manuba,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Almugera Kabar,B. Dortmund,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Gökdeniz Gürpüz,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Eliáš Piták,Slavia Praha,DEFENDER,CZE,0,0,0,0,0,0,0,0,0
+Joeri Heerkens,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Francisco Silva,Sporting CP,GOALKEEPER,POR,0,0,0,0,0,0,0,0,0
+Diego Kochen,Barcelona,UNKNOWN,USA,0,0,0,0,0,0,0,0,0
+Ivan Lima,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Alex Padilla,Athletic Club,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Christos Alexiou,Inter,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Rio Kyerematen,Tottenham,MIDFIELDER,ENG,0,0,0,0,0,0,0,0,0
+Wellity Lucky,Liverpool,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Jayden Danns,Liverpool,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Ted Curd,Chelsea,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+João Veloso,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Teddy Sharman-Lowe,Chelsea,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Lucas Anjos,Sporting CP,FORWARD,POR,0,0,0,0,0,0,0,0,0
+Tommy Setford,Arsenal,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Salvador Esquivel,Atleti,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,0
+Julio Díaz,Atleti,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Rayane Belid,Atleti,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+David Jiménez,Real Madrid,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Danylo Krevsun,B. Dortmund,UNKNOWN,UKR,0,0,0,0,0,0,0,0,0
+Yann Lienard,Monaco,GOALKEEPER,FRA,0,0,0,0,0,0,0,0,0
+Diego Callai,Sporting CP,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Cole Campbell,B. Dortmund,UNKNOWN,ISL,0,0,0,0,0,0,0,0,0
+,,,,0,0,0,0,0,0,0,0,0
+Magnus Brøndbo,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,0
+Alessandro Calligaris,Inter,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Nikolaos Botis,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Jonas Rouhi,Juventus,UNKNOWN,SWE,0,0,0,0,0,0,0,0,0
+Javier Boñar,Atleti,DEFENDER,ESP,0,0,0,0,0,0,0,0,0
+Jelle Van Neck,Marseille,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Alexios Kalogeropoulos,Olympiacos,UNKNOWN,GRE,0,0,0,0,0,0,0,0,0
+Silas Ostrzinski,B. Dortmund,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Niek Schiks,PSV,GOALKEEPER,NED,0,0,0,0,0,0,0,0,0
+Alexander Bah,Benfica,FULL_BACK,DEN,0,0,0,0,0,0,0,0,0
+Mario De Luis,Atleti,GOALKEEPER,ESP,0,0,0,0,0,0,0,0,0
+Gavi,Barcelona,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Rafel Obrador,Benfica,CENTRE_BACK,ESP,0,0,0,0,0,0,0,0,0
+Simone Scaglia,Juventus,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Diogo Prioste,Benfica,UNKNOWN,POR,0,0,0,0,0,0,0,0,0
+Amin Ramazanov,Qarabağ,GOALKEEPER,AZE,0,0,0,0,0,0,0,0,0
+,,,,0,0,0,0,0,0,0,0,0
+Vic Chambaere,Union SG,UNKNOWN,BEL,0,0,0,0,0,0,0,0,0
+Athanasios Papadoudis,Pafos,GOALKEEPER,GRE,0,0,0,0,0,0,0,0,0
+Yusuf Demir,Galatasaray,UNKNOWN,AUT,0,0,0,0,0,0,0,0,0
+Ludovit Reis,Club Brugge,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Adrià Altimira,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Metehan Baltacı,Galatasaray,UNKNOWN,TUR,0,0,0,0,0,0,0,0,0
+Samuel Soares,Benfica,GOALKEEPER,POR,0,0,0,0,0,0,0,0,0
+Brandon Austin,Tottenham,GOALKEEPER,ENG,0,0,0,0,0,0,0,0,0
+Mitchel Bakker,Atalanta,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Josep Martínez,Inter,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Fabijan Buntić,Qarabağ,UNKNOWN,CRO,0,0,0,0,0,0,0,0,0
+Batuhan Şen,Galatasaray,GOALKEEPER,TUR,0,0,0,0,0,0,0,0,0
+Julian Faye Lund,Bodø/Glimt,UNKNOWN,NOR,0,0,0,0,0,0,0,0,0
+Salih Özcan,B. Dortmund,ATTACKING_MIDFIELDER,TUR,0,0,0,0,0,0,0,0,0
+Jeffrey de Lange,Marseille,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Diego Conde,Villarreal,UNKNOWN,ESP,0,0,0,0,0,0,0,0,0
+Jonas Omlin,Leverkusen,GOALKEEPER,SUI,0,0,0,0,0,0,0,0,0
+Alexandr Zarutskiy,Kairat Almaty,UNKNOWN,KAZ,0,0,0,0,0,0,0,0,0
+Abbas Hüseynov,Qarabağ,FULL_BACK,AZE,0,0,0,0,0,0,0,0,0
+Shakhrudin Magomedaliyev,Qarabağ,GOALKEEPER,AZE,0,0,0,0,0,0,0,0,0
+Nikita Contini,Napoli,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Freddie Woodman,Liverpool,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Emil Krafth,Newcastle,UNKNOWN,SWE,0,0,0,0,0,0,0,0,0
+Nick Olij,PSV,GOALKEEPER,NED,0,0,0,0,0,0,0,0,0
+Branco van den Boomen,Ajax,UNKNOWN,NED,0,0,0,0,0,0,0,0,0
+Rúnar Rúnarsson,Copenhagen,GOALKEEPER,ISL,0,0,0,0,0,0,0,0,0
+Niklas Lomb,Leverkusen,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Timothy Chandler,Frankfurt,FULL_BACK,USA,0,0,0,0,0,0,0,0,0
+Raffaele Di Gennaro,Inter,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Paul Pogba,Monaco,CENTRAL_MIDFIELDER,FRA,0,0,0,0,0,0,0,0,0
+Francesco Rossi,Atalanta,GOALKEEPER,ITA,0,0,0,0,0,0,0,0,0
+Bruma,Benfica,ATTACKING_MIDFIELDER,POR,0,0,0,0,0,0,0,0,0
+Marcus Bettinelli,Man City,UNKNOWN,ENG,0,0,0,0,0,0,0,0,0
+Marc-André ter Stegen,Barcelona,GOALKEEPER,GER,0,0,0,0,0,0,0,0,0
+Carlo Pinsoglio,Juventus,UNKNOWN,ITA,0,0,0,0,0,0,0,0,0
+Jens Grahl,Frankfurt,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+Sven Ulreich,Bayern München,UNKNOWN,GER,0,0,0,0,0,0,0,0,0
+,,,,0,0,0,0,0,0,0,0,0
+,,,,0,0,0,0,0,0,0,0,0

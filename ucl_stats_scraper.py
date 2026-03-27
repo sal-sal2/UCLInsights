@@ -102,10 +102,14 @@ def parse_player(entry):
         or player_info.get("fieldPosition", "")
     )
 
+    # Player nation as country code
+    nation = player_info.get("countryCode", "")
+
     return {
         "player_name":          name,
         "team":                 team_name,
         "position":             position,
+        "nation":               nation,
         "goals":                stats.get("goals",                                0),
         "goals_right_foot":     stats.get("goals_scored_with_right",              0),
         "goals_left_foot":      stats.get("goals_scored_with_left",               0),
@@ -210,6 +214,7 @@ def save_to_csv(players, filename):
         "player_name",
         "team",
         "position",
+        "nation",
         "goals",
         "goals_right_foot",
         "goals_left_foot",
