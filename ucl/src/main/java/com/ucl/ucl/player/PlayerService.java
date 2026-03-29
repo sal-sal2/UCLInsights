@@ -18,35 +18,30 @@ public class PlayerService {
         this.playerRepository = playerRepository;
     }
 
-    // Get all players
     public List<Player> getPlayers() {
         return playerRepository.findAll();
     }
 
-    // Get all players from a specific team
-    public List<Player> getPlayersFromTeam(String teamName) {  // teamName was missing as parameter
+    public List<Player> getPlayersFromTeam(String teamName) { 
         return playerRepository.findAll().stream()
                 .filter(player -> teamName.equals(player.getTeam()))
                 .collect(Collectors.toList());
     }
 
-    // Search players by name (case-insensitive)
     public List<Player> getPlayersByName(String searchText) {
         return playerRepository.findAll().stream()
-                .filter(player -> player.getPlayerName().toLowerCase()  // getName() -> getPlayerName()
+                .filter(player -> player.getPlayerName().toLowerCase() 
                         .contains(searchText.toLowerCase()))
                 .collect(Collectors.toList());
     }
 
-    // Search players by position
     public List<Player> getPlayersByPos(String searchText) {
         return playerRepository.findAll().stream()
-                .filter(player -> player.getPosition().toLowerCase()  // getPos() -> getPosition()
+                .filter(player -> player.getPosition().toLowerCase()
                         .contains(searchText.toLowerCase()))
                 .collect(Collectors.toList());
     }
 
-    // Search players by nation
     public List<Player> getPlayersByNation(String searchText) {
         return playerRepository.findAll().stream()
                 .filter(player -> player.getNation().toLowerCase()
@@ -54,30 +49,27 @@ public class PlayerService {
                 .collect(Collectors.toList());
     }
 
-    // Get players filtered by both team and position
     public List<Player> getPlayersByTeamAndPosition(String team, String position) {
         return playerRepository.findAll().stream()
                 .filter(player -> team.equals(player.getTeam())
-                        && position.equals(player.getPosition()))  // getPos() -> getPosition()
+                        && position.equals(player.getPosition()))
                 .collect(Collectors.toList());
     }
 
-    // Add a new player
     public Player addPlayer(Player player) {
         playerRepository.save(player);
         return player;
     }
 
-    // Update an existing player by name
     public Player updatePlayer(Player updatedPlayer) {
         Optional<Player> existingPlayer = playerRepository
-                .findByPlayerName(updatedPlayer.getPlayerName());  // findByName() -> findByPlayerName()
+                .findByPlayerName(updatedPlayer.getPlayerName());  
 
         if (existingPlayer.isPresent()) {
             Player playerToUpdate = existingPlayer.get();
-            playerToUpdate.setPlayerName(updatedPlayer.getPlayerName());  // setName() -> setPlayerName()
+            playerToUpdate.setPlayerName(updatedPlayer.getPlayerName()); 
             playerToUpdate.setTeam(updatedPlayer.getTeam());
-            playerToUpdate.setPosition(updatedPlayer.getPosition());  // setPos() -> setPosition()
+            playerToUpdate.setPosition(updatedPlayer.getPosition());  
             playerToUpdate.setNation(updatedPlayer.getNation());
             playerRepository.save(playerToUpdate);
             return playerToUpdate;
@@ -85,9 +77,8 @@ public class PlayerService {
         return null;
     }
 
-    // Delete a player by name
     @Transactional
     public void deletePlayer(String playerName) {
-        playerRepository.deleteByPlayerName(playerName);  // deleteByName() -> deleteByPlayerName()
+        playerRepository.deleteByPlayerName(playerName);  
     }
 }
