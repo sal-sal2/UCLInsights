@@ -6,7 +6,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "player goals")
+@Table(name = "player_goals")
 public class PlayerGoals extends BaseStats{
     @Column(name = "goals")
     private Double goals;
