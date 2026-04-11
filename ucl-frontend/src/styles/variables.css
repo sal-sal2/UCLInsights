@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --color-bg:           #080b10;
+  --color-surface:      #0e1219;
+  --color-surface-2:    #141925;
+  --color-border:       #1e2535;
+  --color-border-light: #2a3347;
+
+  --color-primary:      #1d6fff;
+  --color-primary-dim:  rgba(29, 111, 255, 0.15);
+  --color-accent:       #00e5ff;
+  --color-accent-dim:   rgba(0, 229, 255, 0.10);
+  --color-gold:         #f5c842;
+  --color-gold-dim:     rgba(245, 200, 66, 0.12);
+
+  --color-text:         #e8edf5;
+  --color-text-muted:   #6b7a99;
+  --color-text-dim:     #3d4a63;
+
+  --color-success:      #22c55e;
+  --color-danger:       #ef4444;
+
+  --font-display:  'Bebas Neue', sans-serif;
+  --font-body:     'DM Sans', sans-serif;
+  --font-mono:     'JetBrains Mono', monospace;
+
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  --radius-sm:  4px;
+  --radius-md:  8px;
+  --radius-lg:  12px;
+  --radius-xl:  20px;
+
+  --shadow-card:  0 1px 3px rgba(0,0,0,0.4), 0 4px 16px rgba(0,0,0,0.3);
+  --shadow-glow:  0 0 24px rgba(29, 111, 255, 0.25);
+  --shadow-gold:  0 0 24px rgba(245, 200, 66, 0.2);
+
+  --ease-default: 0.2s ease;
+  --ease-spring:  0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  --navbar-h:     64px;
+  --max-width:    1280px;
+  --sidebar-w:    260px;
+}

@@ -1,0 +1,105 @@
+.leaderboard {
+  padding: var(--space-5) var(--space-5) var(--space-4);
+}
+
+.leaderboard__title {
+  font-family: var(--font-display);
+  font-size: 18px;
+  letter-spacing: 0.05em;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  margin-bottom: var(--space-4);
+}
+
+.leaderboard__list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.leaderboard__item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) 0;
+  border-bottom: 1px solid var(--color-border);
+  transition: background var(--ease-default);
+}
+
+.leaderboard__item:last-child { border-bottom: none; }
+
+.leaderboard__item:hover {
+  background: var(--color-surface-2);
+  margin: 0 calc(-1 * var(--space-2));
+  padding-left: var(--space-2);
+  padding-right: var(--space-2);
+  border-radius: var(--radius-md);
+}
+
+.leaderboard__rank {
+  width: 28px;
+  text-align: center;
+  font-size: 18px;
+  flex-shrink: 0;
+}
+
+.leaderboard__rank-num {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--color-text-dim);
+}
+
+.leaderboard__info {
+  flex: 1;
+  min-width: 0;
+}
+
+.leaderboard__name {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.leaderboard__meta {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--color-text-muted);
+  font-family: var(--font-mono);
+  margin-top: 1px;
+  flex-wrap: wrap;
+}
+
+.leaderboard__dot {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  background: var(--color-text-dim);
+  flex-shrink: 0;
+}
+
+.leaderboard__goals {
+  font-family: var(--font-display);
+  font-size: 26px;
+  color: var(--color-primary);
+  flex-shrink: 0;
+  min-width: 32px;
+  text-align: right;
+  line-height: 1;
+}
+
+.leaderboard__skeletons {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.leaderboard__skeleton {
+  height: 48px;
+  border-radius: var(--radius-md);
+}
